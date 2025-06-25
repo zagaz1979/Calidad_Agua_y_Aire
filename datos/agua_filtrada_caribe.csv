@@ -1,0 +1,1552 @@
+cod_departamento,departamento,cod_municipio,municipio,anio,irca,nivel_riesgo,irc_urbano,nivel_riesgo_urbano,irc_rural,nivel_riesgo_rural
+13,BOLÍVAR,13001,CARTAGENA DE INDIAS,2007,3.8,Sin riesgo,3.9,Sin riesgo,0.0,Sin riesgo
+13,BOLÍVAR,13001,CARTAGENA DE INDIAS,2008,5.7,Riesgo bajo,5.3,Riesgo bajo,10.7,Riesgo bajo
+13,BOLÍVAR,13001,CARTAGENA DE INDIAS,2009,5.6,Riesgo bajo,5.6,Riesgo bajo,5.6,Riesgo bajo
+13,BOLÍVAR,13001,CARTAGENA DE INDIAS,2010,0.2,Sin riesgo,0.2,Sin riesgo,0.3,Sin riesgo
+13,BOLÍVAR,13001,CARTAGENA DE INDIAS,2011,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo
+13,BOLÍVAR,13001,CARTAGENA DE INDIAS,2012,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo
+13,BOLÍVAR,13001,CARTAGENA DE INDIAS,2013,0.2,Sin riesgo,0.2,Sin riesgo,0.0,Sin riesgo
+13,BOLÍVAR,13001,CARTAGENA DE INDIAS,2014,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13001,CARTAGENA DE INDIAS,2015,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo
+13,BOLÍVAR,13001,CARTAGENA DE INDIAS,2016,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13001,CARTAGENA DE INDIAS,2017,0.1,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13001,CARTAGENA DE INDIAS,2018,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo
+13,BOLÍVAR,13001,CARTAGENA DE INDIAS,2019,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13001,CARTAGENA DE INDIAS,2021,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo
+13,BOLÍVAR,13001,CARTAGENA DE INDIAS,2022,0.3,Sin riesgo,0.4,Sin riesgo,0.0,Sin riesgo
+13,BOLÍVAR,13001,CARTAGENA DE INDIAS,2023,0.3,Sin riesgo,0.4,Sin riesgo,0.0,Sin riesgo
+13,BOLÍVAR,13006,ACHÍ,2007,41.7,Riesgo alto,41.7,Riesgo alto,ND,ND
+13,BOLÍVAR,13006,ACHÍ,2008,36.0,Riesgo alto,38.3,Riesgo alto,0.0,Sin riesgo
+13,BOLÍVAR,13006,ACHÍ,2009,40.0,Riesgo alto,43.8,Riesgo alto,33.8,Riesgo medio
+13,BOLÍVAR,13006,ACHÍ,2010,29.4,Riesgo medio,25.9,Riesgo medio,56.1,Riesgo alto
+13,BOLÍVAR,13006,ACHÍ,2011,24.5,Riesgo medio,24.5,Riesgo medio,ND,ND
+13,BOLÍVAR,13006,ACHÍ,2012,17.5,Riesgo medio,17.5,Riesgo medio,ND,ND
+13,BOLÍVAR,13006,ACHÍ,2013,27.2,Riesgo medio,34.1,Riesgo medio,0.8,Sin riesgo
+13,BOLÍVAR,13006,ACHÍ,2014,30.6,Riesgo medio,30.6,Riesgo medio,ND,ND
+13,BOLÍVAR,13006,ACHÍ,2015,24.8,Riesgo medio,24.8,Riesgo medio,ND,ND
+13,BOLÍVAR,13006,ACHÍ,2016,47.2,Riesgo alto,44.5,Riesgo alto,ND,ND
+13,BOLÍVAR,13006,ACHÍ,2017,55.8,Riesgo alto,48.6,Riesgo alto,ND,ND
+13,BOLÍVAR,13006,ACHÍ,2018,61.1,Riesgo alto,61.1,Riesgo alto,ND,ND
+13,BOLÍVAR,13006,ACHÍ,2019,27.1,Riesgo medio,27.1,Riesgo medio,ND,ND
+13,BOLÍVAR,13006,ACHÍ,2020,38.3,Riesgo alto,38.3,Riesgo alto,ND,ND
+13,BOLÍVAR,13006,ACHÍ,2021,41.4,Riesgo alto,41.4,Riesgo alto,ND,ND
+13,BOLÍVAR,13006,ACHÍ,2022,15.9,Riesgo medio,15.9,Riesgo medio,ND,ND
+13,BOLÍVAR,13006,ACHÍ,2023,14.8,Riesgo medio,14.8,Riesgo medio,ND,ND
+13,BOLÍVAR,13030,ALTOS DEL ROSARIO,2007,44.2,Riesgo alto,44.2,Riesgo alto,ND,ND
+13,BOLÍVAR,13030,ALTOS DEL ROSARIO,2008,61.1,Riesgo alto,61.1,Riesgo alto,ND,ND
+13,BOLÍVAR,13030,ALTOS DEL ROSARIO,2009,45.1,Riesgo alto,57.4,Riesgo alto,37.5,Riesgo alto
+13,BOLÍVAR,13030,ALTOS DEL ROSARIO,2010,16.1,Riesgo medio,16.1,Riesgo medio,ND,ND
+13,BOLÍVAR,13030,ALTOS DEL ROSARIO,2011,46.1,Riesgo alto,46.1,Riesgo alto,ND,ND
+13,BOLÍVAR,13030,ALTOS DEL ROSARIO,2012,54.4,Riesgo alto,55.0,Riesgo alto,46.0,Riesgo alto
+13,BOLÍVAR,13030,ALTOS DEL ROSARIO,2013,71.9,Riesgo alto,71.6,Riesgo alto,72.9,Riesgo alto
+13,BOLÍVAR,13030,ALTOS DEL ROSARIO,2014,50.0,Riesgo alto,46.9,Riesgo alto,56.3,Riesgo alto
+13,BOLÍVAR,13030,ALTOS DEL ROSARIO,2015,41.0,Riesgo alto,64.3,Riesgo alto,13.8,Riesgo bajo
+13,BOLÍVAR,13030,ALTOS DEL ROSARIO,2016,76.1,Riesgo alto,73.3,Riesgo alto,92.2,Inviable sanitariamente
+13,BOLÍVAR,13030,ALTOS DEL ROSARIO,2017,19.9,Riesgo medio,14.1,Riesgo medio,0.0,Sin riesgo
+13,BOLÍVAR,13030,ALTOS DEL ROSARIO,2018,60.0,Riesgo alto,60.0,Riesgo alto,ND,ND
+13,BOLÍVAR,13030,ALTOS DEL ROSARIO,2019,34.9,Riesgo medio,34.9,Riesgo medio,ND,ND
+13,BOLÍVAR,13030,ALTOS DEL ROSARIO,2021,76.7,Riesgo alto,76.7,Riesgo alto,ND,ND
+13,BOLÍVAR,13030,ALTOS DEL ROSARIO,2022,76.7,Riesgo alto,76.7,Riesgo alto,ND,ND
+13,BOLÍVAR,13030,ALTOS DEL ROSARIO,2023,49.1,Riesgo alto,49.1,Riesgo alto,ND,ND
+13,BOLÍVAR,13042,ARENAL,2007,10.7,Riesgo bajo,11.3,Riesgo bajo,0.0,Sin riesgo
+13,BOLÍVAR,13042,ARENAL,2008,72.9,Riesgo alto,71.3,Riesgo alto,100.0,Inviable sanitariamente
+13,BOLÍVAR,13042,ARENAL,2009,57.7,Riesgo alto,53.4,Riesgo alto,68.1,Riesgo alto
+13,BOLÍVAR,13042,ARENAL,2010,50.3,Riesgo alto,46.0,Riesgo alto,58.6,Riesgo alto
+13,BOLÍVAR,13042,ARENAL,2011,59.0,Riesgo alto,57.9,Riesgo alto,70.5,Riesgo alto
+13,BOLÍVAR,13042,ARENAL,2012,59.0,Riesgo alto,55.2,Riesgo alto,69.6,Riesgo alto
+13,BOLÍVAR,13042,ARENAL,2013,66.0,Riesgo alto,68.2,Riesgo alto,56.5,Riesgo alto
+13,BOLÍVAR,13042,ARENAL,2014,76.2,Riesgo alto,79.4,Riesgo alto,62.6,Riesgo alto
+13,BOLÍVAR,13042,ARENAL,2015,59.1,Riesgo alto,71.5,Riesgo alto,27.9,Riesgo medio
+13,BOLÍVAR,13042,ARENAL,2016,53.3,Riesgo alto,50.0,Riesgo alto,50.0,Riesgo alto
+13,BOLÍVAR,13042,ARENAL,2017,68.5,Riesgo alto,88.9,Inviable sanitariamente,85.7,Inviable sanitariamente
+13,BOLÍVAR,13042,ARENAL,2018,60.7,Riesgo alto,100.0,Inviable sanitariamente,33.2,Riesgo medio
+13,BOLÍVAR,13042,ARENAL,2019,51.6,Riesgo alto,68.8,Riesgo alto,34.4,Riesgo medio
+13,BOLÍVAR,13042,ARENAL,2020,26.3,Riesgo medio,26.3,Riesgo medio,ND,ND
+13,BOLÍVAR,13042,ARENAL,2021,67.9,Riesgo alto,67.9,Riesgo alto,ND,ND
+13,BOLÍVAR,13042,ARENAL,2022,24.0,Riesgo medio,24.0,Riesgo medio,ND,ND
+13,BOLÍVAR,13042,ARENAL,2023,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13052,ARJONA,2007,8.6,Riesgo bajo,8.6,Riesgo bajo,ND,ND
+13,BOLÍVAR,13052,ARJONA,2008,13.7,Riesgo bajo,13.7,Riesgo bajo,ND,ND
+13,BOLÍVAR,13052,ARJONA,2009,25.7,Riesgo medio,23.7,Riesgo medio,30.6,Riesgo medio
+13,BOLÍVAR,13052,ARJONA,2010,10.0,Riesgo bajo,10.4,Riesgo bajo,2.2,Sin riesgo
+13,BOLÍVAR,13052,ARJONA,2011,0.3,Sin riesgo,0.3,Sin riesgo,ND,ND
+13,BOLÍVAR,13052,ARJONA,2012,2.7,Sin riesgo,2.7,Sin riesgo,ND,ND
+13,BOLÍVAR,13052,ARJONA,2013,6.1,Riesgo bajo,6.1,Riesgo bajo,ND,ND
+13,BOLÍVAR,13052,ARJONA,2014,3.8,Sin riesgo,3.8,Sin riesgo,ND,ND
+13,BOLÍVAR,13052,ARJONA,2015,7.5,Riesgo bajo,7.5,Riesgo bajo,ND,ND
+13,BOLÍVAR,13052,ARJONA,2016,4.6,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13052,ARJONA,2017,39.7,Riesgo alto,ND,ND,ND,ND
+13,BOLÍVAR,13052,ARJONA,2018,5.6,Riesgo bajo,5.6,Riesgo bajo,ND,ND
+13,BOLÍVAR,13052,ARJONA,2019,11.5,Riesgo bajo,11.5,Riesgo bajo,ND,ND
+13,BOLÍVAR,13052,ARJONA,2020,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13052,ARJONA,2021,1.3,Sin riesgo,1.3,Sin riesgo,ND,ND
+13,BOLÍVAR,13052,ARJONA,2022,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13052,ARJONA,2023,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13062,ARROYOHONDO,2007,49.0,Riesgo alto,50.0,Riesgo alto,37.5,Riesgo alto
+13,BOLÍVAR,13062,ARROYOHONDO,2008,76.1,Riesgo alto,67.0,Riesgo alto,92.2,Inviable sanitariamente
+13,BOLÍVAR,13062,ARROYOHONDO,2009,48.6,Riesgo alto,44.4,Riesgo alto,51.5,Riesgo alto
+13,BOLÍVAR,13062,ARROYOHONDO,2010,40.4,Riesgo alto,47.3,Riesgo alto,12.9,Riesgo bajo
+13,BOLÍVAR,13062,ARROYOHONDO,2011,52.3,Riesgo alto,52.3,Riesgo alto,ND,ND
+13,BOLÍVAR,13062,ARROYOHONDO,2012,19.6,Riesgo medio,20.8,Riesgo medio,1.8,Sin riesgo
+13,BOLÍVAR,13062,ARROYOHONDO,2013,57.9,Riesgo alto,63.4,Riesgo alto,49.4,Riesgo alto
+13,BOLÍVAR,13062,ARROYOHONDO,2014,55.9,Riesgo alto,71.9,Riesgo alto,34.7,Riesgo medio
+13,BOLÍVAR,13062,ARROYOHONDO,2015,28.2,Riesgo medio,15.2,Riesgo medio,47.6,Riesgo alto
+13,BOLÍVAR,13062,ARROYOHONDO,2018,76.1,Riesgo alto,100.0,Inviable sanitariamente,64.2,Riesgo alto
+13,BOLÍVAR,13062,ARROYOHONDO,2020,42.3,Riesgo alto,68.8,Riesgo alto,29.1,Riesgo medio
+13,BOLÍVAR,13062,ARROYOHONDO,2021,10.9,Riesgo bajo,10.7,Riesgo bajo,11.0,Riesgo bajo
+13,BOLÍVAR,13062,ARROYOHONDO,2022,50.0,Riesgo alto,75.0,Riesgo alto,33.3,Riesgo medio
+13,BOLÍVAR,13062,ARROYOHONDO,2023,8.3,Riesgo bajo,12.5,Riesgo bajo,6.3,Riesgo bajo
+13,BOLÍVAR,13074,BARRANCO DE LOBA,2007,37.5,Riesgo alto,37.5,Riesgo alto,ND,ND
+13,BOLÍVAR,13074,BARRANCO DE LOBA,2008,44.0,Riesgo alto,48.2,Riesgo alto,0.0,Sin riesgo
+13,BOLÍVAR,13074,BARRANCO DE LOBA,2009,18.2,Riesgo medio,10.7,Riesgo bajo,29.8,Riesgo medio
+13,BOLÍVAR,13074,BARRANCO DE LOBA,2010,18.6,Riesgo medio,19.1,Riesgo medio,0.0,Sin riesgo
+13,BOLÍVAR,13074,BARRANCO DE LOBA,2011,36.2,Riesgo alto,36.2,Riesgo alto,ND,ND
+13,BOLÍVAR,13074,BARRANCO DE LOBA,2012,41.7,Riesgo alto,41.7,Riesgo alto,ND,ND
+13,BOLÍVAR,13074,BARRANCO DE LOBA,2013,29.4,Riesgo medio,29.4,Riesgo medio,ND,ND
+13,BOLÍVAR,13074,BARRANCO DE LOBA,2014,7.1,Riesgo bajo,7.1,Riesgo bajo,ND,ND
+13,BOLÍVAR,13074,BARRANCO DE LOBA,2015,35.7,Riesgo alto,35.7,Riesgo alto,ND,ND
+13,BOLÍVAR,13074,BARRANCO DE LOBA,2016,24.7,Riesgo medio,26.4,Riesgo medio,ND,ND
+13,BOLÍVAR,13074,BARRANCO DE LOBA,2017,38.9,Riesgo alto,56.6,Riesgo alto,ND,ND
+13,BOLÍVAR,13074,BARRANCO DE LOBA,2018,32.4,Riesgo medio,32.4,Riesgo medio,ND,ND
+13,BOLÍVAR,13074,BARRANCO DE LOBA,2019,75.0,Riesgo alto,75.0,Riesgo alto,ND,ND
+13,BOLÍVAR,13074,BARRANCO DE LOBA,2021,37.5,Riesgo alto,59.4,Riesgo alto,20.0,Riesgo medio
+13,BOLÍVAR,13074,BARRANCO DE LOBA,2022,0.5,Sin riesgo,0.0,Sin riesgo,0.8,Sin riesgo
+13,BOLÍVAR,13074,BARRANCO DE LOBA,2023,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo
+13,BOLÍVAR,13140,CALAMAR,2007,27.8,Riesgo medio,27.8,Riesgo medio,ND,ND
+13,BOLÍVAR,13140,CALAMAR,2008,67.3,Riesgo alto,67.3,Riesgo alto,ND,ND
+13,BOLÍVAR,13140,CALAMAR,2009,42.4,Riesgo alto,33.3,Riesgo medio,46.9,Riesgo alto
+13,BOLÍVAR,13140,CALAMAR,2010,47.8,Riesgo alto,37.5,Riesgo alto,50.3,Riesgo alto
+13,BOLÍVAR,13140,CALAMAR,2011,49.8,Riesgo alto,62.5,Riesgo alto,40.9,Riesgo alto
+13,BOLÍVAR,13140,CALAMAR,2012,17.0,Riesgo medio,19.9,Riesgo medio,7.2,Riesgo bajo
+13,BOLÍVAR,13140,CALAMAR,2013,38.6,Riesgo alto,38.6,Riesgo alto,ND,ND
+13,BOLÍVAR,13140,CALAMAR,2014,32.7,Riesgo medio,36.1,Riesgo alto,0.0,Sin riesgo
+13,BOLÍVAR,13140,CALAMAR,2015,16.7,Riesgo medio,16.7,Riesgo medio,ND,ND
+13,BOLÍVAR,13140,CALAMAR,2016,28.3,Riesgo medio,28.3,Riesgo medio,ND,ND
+13,BOLÍVAR,13140,CALAMAR,2017,56.0,Riesgo alto,60.3,Riesgo alto,ND,ND
+13,BOLÍVAR,13140,CALAMAR,2018,45.1,Riesgo alto,45.1,Riesgo alto,ND,ND
+13,BOLÍVAR,13140,CALAMAR,2019,50.0,Riesgo alto,50.0,Riesgo alto,ND,ND
+13,BOLÍVAR,13140,CALAMAR,2020,20.4,Riesgo medio,20.4,Riesgo medio,ND,ND
+13,BOLÍVAR,13140,CALAMAR,2021,0.4,Sin riesgo,0.4,Sin riesgo,ND,ND
+13,BOLÍVAR,13140,CALAMAR,2022,0.5,Sin riesgo,0.5,Sin riesgo,ND,ND
+13,BOLÍVAR,13140,CALAMAR,2023,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13160,CANTAGALLO,2007,4.5,Sin riesgo,4.5,Sin riesgo,ND,ND
+13,BOLÍVAR,13160,CANTAGALLO,2008,16.4,Riesgo medio,16.4,Riesgo medio,ND,ND
+13,BOLÍVAR,13160,CANTAGALLO,2009,19.0,Riesgo medio,18.4,Riesgo medio,37.5,Riesgo alto
+13,BOLÍVAR,13160,CANTAGALLO,2010,26.7,Riesgo medio,26.7,Riesgo medio,ND,ND
+13,BOLÍVAR,13160,CANTAGALLO,2011,30.5,Riesgo medio,30.5,Riesgo medio,ND,ND
+13,BOLÍVAR,13160,CANTAGALLO,2012,22.7,Riesgo medio,22.7,Riesgo medio,ND,ND
+13,BOLÍVAR,13160,CANTAGALLO,2013,59.7,Riesgo alto,59.7,Riesgo alto,ND,ND
+13,BOLÍVAR,13160,CANTAGALLO,2014,24.5,Riesgo medio,24.5,Riesgo medio,ND,ND
+13,BOLÍVAR,13160,CANTAGALLO,2015,45.6,Riesgo alto,45.6,Riesgo alto,ND,ND
+13,BOLÍVAR,13160,CANTAGALLO,2016,23.1,Riesgo medio,16.2,Riesgo medio,ND,ND
+13,BOLÍVAR,13160,CANTAGALLO,2017,39.7,Riesgo alto,ND,ND,ND,ND
+13,BOLÍVAR,13160,CANTAGALLO,2018,15.6,Riesgo medio,15.6,Riesgo medio,ND,ND
+13,BOLÍVAR,13160,CANTAGALLO,2019,9.4,Riesgo bajo,9.4,Riesgo bajo,ND,ND
+13,BOLÍVAR,13160,CANTAGALLO,2020,7.5,Riesgo bajo,7.5,Riesgo bajo,ND,ND
+13,BOLÍVAR,13160,CANTAGALLO,2021,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13160,CANTAGALLO,2022,4.0,Sin riesgo,4.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13160,CANTAGALLO,2023,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13188,CICUCO,2007,61.5,Riesgo alto,61.5,Riesgo alto,ND,ND
+13,BOLÍVAR,13188,CICUCO,2008,29.9,Riesgo medio,ND,ND,29.9,Riesgo medio
+13,BOLÍVAR,13188,CICUCO,2009,33.1,Riesgo medio,29.8,Riesgo medio,37.5,Riesgo alto
+13,BOLÍVAR,13188,CICUCO,2010,41.6,Riesgo alto,42.5,Riesgo alto,22.1,Riesgo medio
+13,BOLÍVAR,13188,CICUCO,2011,30.5,Riesgo medio,30.4,Riesgo medio,37.5,Riesgo alto
+13,BOLÍVAR,13188,CICUCO,2012,33.9,Riesgo medio,33.9,Riesgo medio,ND,ND
+13,BOLÍVAR,13188,CICUCO,2013,27.8,Riesgo medio,29.3,Riesgo medio,12.5,Riesgo bajo
+13,BOLÍVAR,13188,CICUCO,2014,16.6,Riesgo medio,17.2,Riesgo medio,0.0,Sin riesgo
+13,BOLÍVAR,13188,CICUCO,2015,48.7,Riesgo alto,59.8,Riesgo alto,26.5,Riesgo medio
+13,BOLÍVAR,13188,CICUCO,2016,37.5,Riesgo alto,68.8,Riesgo alto,ND,ND
+13,BOLÍVAR,13188,CICUCO,2017,40.2,Riesgo alto,ND,ND,ND,ND
+13,BOLÍVAR,13188,CICUCO,2018,5.0,Sin riesgo,5.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13188,CICUCO,2019,75.0,Riesgo alto,75.0,Riesgo alto,ND,ND
+13,BOLÍVAR,13188,CICUCO,2020,25.1,Riesgo medio,25.1,Riesgo medio,ND,ND
+13,BOLÍVAR,13188,CICUCO,2021,25.0,Riesgo medio,25.0,Riesgo medio,ND,ND
+13,BOLÍVAR,13188,CICUCO,2022,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13188,CICUCO,2023,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13212,CÓRDOBA,2008,48.5,Riesgo alto,48.5,Riesgo alto,ND,ND
+13,BOLÍVAR,13212,CÓRDOBA,2009,34.1,Riesgo medio,35.0,Riesgo medio,23.2,Riesgo medio
+13,BOLÍVAR,13212,CÓRDOBA,2010,17.6,Riesgo medio,19.2,Riesgo medio,4.4,Sin riesgo
+13,BOLÍVAR,13212,CÓRDOBA,2011,29.5,Riesgo medio,29.3,Riesgo medio,37.5,Riesgo alto
+13,BOLÍVAR,13212,CÓRDOBA,2012,22.0,Riesgo medio,22.0,Riesgo medio,ND,ND
+13,BOLÍVAR,13212,CÓRDOBA,2013,47.5,Riesgo alto,47.5,Riesgo alto,ND,ND
+13,BOLÍVAR,13212,CÓRDOBA,2014,23.5,Riesgo medio,23.5,Riesgo medio,ND,ND
+13,BOLÍVAR,13212,CÓRDOBA,2015,39.2,Riesgo alto,39.2,Riesgo alto,ND,ND
+13,BOLÍVAR,13212,CÓRDOBA,2016,69.3,Riesgo alto,69.3,Riesgo alto,ND,ND
+13,BOLÍVAR,13212,CÓRDOBA,2017,61.2,Riesgo alto,69.0,Riesgo alto,ND,ND
+13,BOLÍVAR,13212,CÓRDOBA,2018,18.9,Riesgo medio,18.9,Riesgo medio,ND,ND
+13,BOLÍVAR,13212,CÓRDOBA,2019,26.6,Riesgo medio,26.6,Riesgo medio,ND,ND
+13,BOLÍVAR,13212,CÓRDOBA,2020,62.4,Riesgo alto,62.4,Riesgo alto,ND,ND
+13,BOLÍVAR,13212,CÓRDOBA,2021,45.6,Riesgo alto,45.6,Riesgo alto,ND,ND
+13,BOLÍVAR,13212,CÓRDOBA,2022,13.4,Riesgo bajo,13.4,Riesgo bajo,ND,ND
+13,BOLÍVAR,13212,CÓRDOBA,2023,33.9,Riesgo medio,33.9,Riesgo medio,ND,ND
+13,BOLÍVAR,13222,CLEMENCIA,2007,23.4,Riesgo medio,23.4,Riesgo medio,ND,ND
+13,BOLÍVAR,13222,CLEMENCIA,2008,88.8,Inviable sanitariamente,88.8,Inviable sanitariamente,ND,ND
+13,BOLÍVAR,13222,CLEMENCIA,2009,43.9,Riesgo alto,40.2,Riesgo alto,58.3,Riesgo alto
+13,BOLÍVAR,13222,CLEMENCIA,2010,44.8,Riesgo alto,45.1,Riesgo alto,42.5,Riesgo alto
+13,BOLÍVAR,13222,CLEMENCIA,2011,64.1,Riesgo alto,62.6,Riesgo alto,100.0,Inviable sanitariamente
+13,BOLÍVAR,13222,CLEMENCIA,2012,49.2,Riesgo alto,51.3,Riesgo alto,45.5,Riesgo alto
+13,BOLÍVAR,13222,CLEMENCIA,2013,53.1,Riesgo alto,47.3,Riesgo alto,92.4,Inviable sanitariamente
+13,BOLÍVAR,13222,CLEMENCIA,2014,49.6,Riesgo alto,52.5,Riesgo alto,0.0,Sin riesgo
+13,BOLÍVAR,13222,CLEMENCIA,2015,51.0,Riesgo alto,51.0,Riesgo alto,ND,ND
+13,BOLÍVAR,13222,CLEMENCIA,2016,61.0,Riesgo alto,76.8,Riesgo alto,60.6,Riesgo alto
+13,BOLÍVAR,13222,CLEMENCIA,2017,62.0,Riesgo alto,60.6,Riesgo alto,ND,ND
+13,BOLÍVAR,13222,CLEMENCIA,2018,20.2,Riesgo medio,31.7,Riesgo medio,9.4,Riesgo bajo
+13,BOLÍVAR,13222,CLEMENCIA,2019,95.6,Inviable sanitariamente,95.6,Inviable sanitariamente,ND,ND
+13,BOLÍVAR,13222,CLEMENCIA,2020,81.6,Inviable sanitariamente,81.6,Inviable sanitariamente,ND,ND
+13,BOLÍVAR,13222,CLEMENCIA,2021,59.0,Riesgo alto,59.0,Riesgo alto,ND,ND
+13,BOLÍVAR,13222,CLEMENCIA,2022,41.0,Riesgo alto,41.0,Riesgo alto,ND,ND
+13,BOLÍVAR,13222,CLEMENCIA,2023,36.1,Riesgo alto,36.1,Riesgo alto,ND,ND
+13,BOLÍVAR,13244,EL CARMEN DE BOLÍVAR,2007,50.4,Riesgo alto,50.4,Riesgo alto,ND,ND
+13,BOLÍVAR,13244,EL CARMEN DE BOLÍVAR,2008,37.5,Riesgo alto,37.5,Riesgo alto,ND,ND
+13,BOLÍVAR,13244,EL CARMEN DE BOLÍVAR,2009,54.9,Riesgo alto,61.8,Riesgo alto,50.0,Riesgo alto
+13,BOLÍVAR,13244,EL CARMEN DE BOLÍVAR,2011,37.5,Riesgo alto,37.5,Riesgo alto,ND,ND
+13,BOLÍVAR,13244,EL CARMEN DE BOLÍVAR,2012,38.8,Riesgo alto,38.8,Riesgo alto,ND,ND
+13,BOLÍVAR,13244,EL CARMEN DE BOLÍVAR,2013,22.2,Riesgo medio,13.8,Riesgo bajo,58.3,Riesgo alto
+13,BOLÍVAR,13244,EL CARMEN DE BOLÍVAR,2014,9.2,Riesgo bajo,9.2,Riesgo bajo,ND,ND
+13,BOLÍVAR,13244,EL CARMEN DE BOLÍVAR,2015,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13244,EL CARMEN DE BOLÍVAR,2016,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13244,EL CARMEN DE BOLÍVAR,2017,0.0,Sin riesgo,ND,ND,ND,ND
+13,BOLÍVAR,13244,EL CARMEN DE BOLÍVAR,2018,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13244,EL CARMEN DE BOLÍVAR,2019,4.7,Sin riesgo,4.7,Sin riesgo,ND,ND
+13,BOLÍVAR,13244,EL CARMEN DE BOLÍVAR,2020,5.0,Sin riesgo,5.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13244,EL CARMEN DE BOLÍVAR,2021,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13244,EL CARMEN DE BOLÍVAR,2022,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13244,EL CARMEN DE BOLÍVAR,2023,7.5,Riesgo bajo,7.5,Riesgo bajo,ND,ND
+13,BOLÍVAR,13248,EL GUAMO,2007,13.6,Riesgo bajo,13.6,Riesgo bajo,ND,ND
+13,BOLÍVAR,13248,EL GUAMO,2008,48.8,Riesgo alto,48.8,Riesgo alto,ND,ND
+13,BOLÍVAR,13248,EL GUAMO,2009,31.2,Riesgo medio,30.2,Riesgo medio,37.5,Riesgo alto
+13,BOLÍVAR,13248,EL GUAMO,2010,37.3,Riesgo alto,37.3,Riesgo alto,ND,ND
+13,BOLÍVAR,13248,EL GUAMO,2011,40.4,Riesgo alto,40.4,Riesgo alto,ND,ND
+13,BOLÍVAR,13248,EL GUAMO,2012,51.4,Riesgo alto,51.4,Riesgo alto,ND,ND
+13,BOLÍVAR,13248,EL GUAMO,2013,46.5,Riesgo alto,46.5,Riesgo alto,ND,ND
+13,BOLÍVAR,13248,EL GUAMO,2014,29.0,Riesgo medio,29.0,Riesgo medio,ND,ND
+13,BOLÍVAR,13248,EL GUAMO,2015,18.8,Riesgo medio,18.8,Riesgo medio,ND,ND
+13,BOLÍVAR,13248,EL GUAMO,2016,52.7,Riesgo alto,69.0,Riesgo alto,ND,ND
+13,BOLÍVAR,13248,EL GUAMO,2017,46.6,Riesgo alto,65.3,Riesgo alto,ND,ND
+13,BOLÍVAR,13248,EL GUAMO,2018,44.2,Riesgo alto,72.9,Riesgo alto,27.0,Riesgo medio
+13,BOLÍVAR,13248,EL GUAMO,2019,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13248,EL GUAMO,2020,51.8,Riesgo alto,51.8,Riesgo alto,ND,ND
+13,BOLÍVAR,13248,EL GUAMO,2021,36.9,Riesgo alto,36.9,Riesgo alto,ND,ND
+13,BOLÍVAR,13248,EL GUAMO,2022,39.0,Riesgo alto,39.0,Riesgo alto,ND,ND
+13,BOLÍVAR,13248,EL GUAMO,2023,43.0,Riesgo alto,45.8,Riesgo alto,0.0,Sin riesgo
+13,BOLÍVAR,13268,EL PEÑÓN,2007,8.3,Riesgo bajo,8.3,Riesgo bajo,ND,ND
+13,BOLÍVAR,13268,EL PEÑÓN,2008,19.5,Riesgo medio,19.8,Riesgo medio,18.8,Riesgo medio
+13,BOLÍVAR,13268,EL PEÑÓN,2009,19.9,Riesgo medio,26.5,Riesgo medio,8.8,Riesgo bajo
+13,BOLÍVAR,13268,EL PEÑÓN,2010,11.6,Riesgo bajo,11.6,Riesgo bajo,ND,ND
+13,BOLÍVAR,13268,EL PEÑÓN,2011,21.2,Riesgo medio,21.2,Riesgo medio,ND,ND
+13,BOLÍVAR,13268,EL PEÑÓN,2012,19.3,Riesgo medio,19.3,Riesgo medio,ND,ND
+13,BOLÍVAR,13268,EL PEÑÓN,2013,28.1,Riesgo medio,28.1,Riesgo medio,ND,ND
+13,BOLÍVAR,13268,EL PEÑÓN,2014,15.7,Riesgo medio,17.2,Riesgo medio,0.0,Sin riesgo
+13,BOLÍVAR,13268,EL PEÑÓN,2015,41.6,Riesgo alto,41.6,Riesgo alto,ND,ND
+13,BOLÍVAR,13268,EL PEÑÓN,2016,9.2,Riesgo bajo,9.1,Riesgo bajo,0.0,Sin riesgo
+13,BOLÍVAR,13268,EL PEÑÓN,2017,47.5,Riesgo alto,27.4,Riesgo medio,ND,ND
+13,BOLÍVAR,13268,EL PEÑÓN,2018,52.0,Riesgo alto,52.0,Riesgo alto,ND,ND
+13,BOLÍVAR,13268,EL PEÑÓN,2019,57.8,Riesgo alto,57.8,Riesgo alto,ND,ND
+13,BOLÍVAR,13300,HATILLO DE LOBA,2007,41.1,Riesgo alto,41.1,Riesgo alto,ND,ND
+13,BOLÍVAR,13300,HATILLO DE LOBA,2008,79.8,Riesgo alto,79.8,Riesgo alto,ND,ND
+13,BOLÍVAR,13300,HATILLO DE LOBA,2009,35.1,Riesgo alto,35.1,Riesgo alto,ND,ND
+13,BOLÍVAR,13300,HATILLO DE LOBA,2010,10.7,Riesgo bajo,10.7,Riesgo bajo,ND,ND
+13,BOLÍVAR,13300,HATILLO DE LOBA,2011,26.1,Riesgo medio,26.1,Riesgo medio,ND,ND
+13,BOLÍVAR,13300,HATILLO DE LOBA,2012,28.0,Riesgo medio,28.0,Riesgo medio,ND,ND
+13,BOLÍVAR,13300,HATILLO DE LOBA,2013,56.9,Riesgo alto,56.3,Riesgo alto,69.8,Riesgo alto
+13,BOLÍVAR,13300,HATILLO DE LOBA,2014,77.5,Riesgo alto,77.5,Riesgo alto,ND,ND
+13,BOLÍVAR,13300,HATILLO DE LOBA,2015,65.3,Riesgo alto,65.3,Riesgo alto,ND,ND
+13,BOLÍVAR,13300,HATILLO DE LOBA,2016,15.4,Riesgo medio,15.4,Riesgo medio,ND,ND
+13,BOLÍVAR,13300,HATILLO DE LOBA,2017,89.4,Inviable sanitariamente,78.3,Riesgo alto,ND,ND
+13,BOLÍVAR,13300,HATILLO DE LOBA,2018,79.5,Riesgo alto,79.5,Riesgo alto,ND,ND
+13,BOLÍVAR,13300,HATILLO DE LOBA,2019,45.8,Riesgo alto,45.8,Riesgo alto,ND,ND
+13,BOLÍVAR,13300,HATILLO DE LOBA,2020,75.3,Riesgo alto,75.3,Riesgo alto,ND,ND
+13,BOLÍVAR,13300,HATILLO DE LOBA,2021,73.3,Riesgo alto,73.3,Riesgo alto,ND,ND
+13,BOLÍVAR,13300,HATILLO DE LOBA,2022,47.4,Riesgo alto,47.4,Riesgo alto,ND,ND
+13,BOLÍVAR,13300,HATILLO DE LOBA,2023,71.5,Riesgo alto,71.5,Riesgo alto,ND,ND
+13,BOLÍVAR,13430,MAGANGUÉ,2007,45.0,Riesgo alto,45.0,Riesgo alto,ND,ND
+13,BOLÍVAR,13430,MAGANGUÉ,2008,36.0,Riesgo alto,36.0,Riesgo alto,ND,ND
+13,BOLÍVAR,13430,MAGANGUÉ,2009,22.2,Riesgo medio,20.0,Riesgo medio,31.3,Riesgo medio
+13,BOLÍVAR,13430,MAGANGUÉ,2010,15.1,Riesgo medio,14.2,Riesgo medio,37.5,Riesgo alto
+13,BOLÍVAR,13430,MAGANGUÉ,2011,3.8,Sin riesgo,3.8,Sin riesgo,ND,ND
+13,BOLÍVAR,13430,MAGANGUÉ,2012,10.7,Riesgo bajo,10.7,Riesgo bajo,ND,ND
+13,BOLÍVAR,13430,MAGANGUÉ,2013,14.0,Riesgo bajo,14.0,Riesgo bajo,ND,ND
+13,BOLÍVAR,13430,MAGANGUÉ,2014,8.8,Riesgo bajo,8.8,Riesgo bajo,ND,ND
+13,BOLÍVAR,13430,MAGANGUÉ,2015,40.9,Riesgo alto,40.9,Riesgo alto,ND,ND
+13,BOLÍVAR,13430,MAGANGUÉ,2016,12.5,Riesgo bajo,7.5,Riesgo bajo,ND,ND
+13,BOLÍVAR,13430,MAGANGUÉ,2017,4.9,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13430,MAGANGUÉ,2018,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13430,MAGANGUÉ,2019,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13430,MAGANGUÉ,2020,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13430,MAGANGUÉ,2021,1.1,Sin riesgo,1.1,Sin riesgo,ND,ND
+13,BOLÍVAR,13430,MAGANGUÉ,2022,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13430,MAGANGUÉ,2023,0.3,Sin riesgo,0.3,Sin riesgo,ND,ND
+13,BOLÍVAR,13433,MAHATES,2007,48.1,Riesgo alto,48.1,Riesgo alto,ND,ND
+13,BOLÍVAR,13433,MAHATES,2008,44.9,Riesgo alto,44.9,Riesgo alto,ND,ND
+13,BOLÍVAR,13433,MAHATES,2009,64.5,Riesgo alto,63.4,Riesgo alto,65.9,Riesgo alto
+13,BOLÍVAR,13433,MAHATES,2010,28.5,Riesgo medio,28.5,Riesgo medio,ND,ND
+13,BOLÍVAR,13433,MAHATES,2011,33.6,Riesgo medio,33.6,Riesgo medio,ND,ND
+13,BOLÍVAR,13433,MAHATES,2012,33.5,Riesgo medio,33.5,Riesgo medio,ND,ND
+13,BOLÍVAR,13433,MAHATES,2013,21.9,Riesgo medio,19.0,Riesgo medio,100.0,Inviable sanitariamente
+13,BOLÍVAR,13433,MAHATES,2014,34.4,Riesgo medio,33.8,Riesgo medio,50.0,Riesgo alto
+13,BOLÍVAR,13433,MAHATES,2015,20.7,Riesgo medio,20.7,Riesgo medio,ND,ND
+13,BOLÍVAR,13433,MAHATES,2016,32.8,Riesgo medio,28.8,Riesgo medio,ND,ND
+13,BOLÍVAR,13433,MAHATES,2017,45.2,Riesgo alto,24.4,Riesgo medio,ND,ND
+13,BOLÍVAR,13433,MAHATES,2018,42.8,Riesgo alto,42.8,Riesgo alto,ND,ND
+13,BOLÍVAR,13433,MAHATES,2019,56.7,Riesgo alto,57.7,Riesgo alto,33.3,Riesgo medio
+13,BOLÍVAR,13433,MAHATES,2020,42.5,Riesgo alto,45.8,Riesgo alto,24.7,Riesgo medio
+13,BOLÍVAR,13433,MAHATES,2021,27.7,Riesgo medio,16.3,Riesgo medio,46.1,Riesgo alto
+13,BOLÍVAR,13433,MAHATES,2022,18.3,Riesgo medio,12.4,Riesgo bajo,27.8,Riesgo medio
+13,BOLÍVAR,13433,MAHATES,2023,24.3,Riesgo medio,18.9,Riesgo medio,35.6,Riesgo alto
+13,BOLÍVAR,13440,MARGARITA,2007,37.5,Riesgo alto,37.5,Riesgo alto,ND,ND
+13,BOLÍVAR,13440,MARGARITA,2008,99.4,Inviable sanitariamente,99.4,Inviable sanitariamente,ND,ND
+13,BOLÍVAR,13440,MARGARITA,2009,75.8,Riesgo alto,70.7,Riesgo alto,95.1,Inviable sanitariamente
+13,BOLÍVAR,13440,MARGARITA,2010,72.7,Riesgo alto,72.7,Riesgo alto,ND,ND
+13,BOLÍVAR,13440,MARGARITA,2011,56.3,Riesgo alto,56.3,Riesgo alto,ND,ND
+13,BOLÍVAR,13440,MARGARITA,2012,66.8,Riesgo alto,66.8,Riesgo alto,ND,ND
+13,BOLÍVAR,13440,MARGARITA,2013,79.1,Riesgo alto,79.1,Riesgo alto,ND,ND
+13,BOLÍVAR,13440,MARGARITA,2014,74.1,Riesgo alto,74.1,Riesgo alto,ND,ND
+13,BOLÍVAR,13440,MARGARITA,2015,69.4,Riesgo alto,69.4,Riesgo alto,ND,ND
+13,BOLÍVAR,13440,MARGARITA,2016,82.3,Inviable sanitariamente,ND,ND,ND,ND
+13,BOLÍVAR,13440,MARGARITA,2017,81.7,Inviable sanitariamente,ND,ND,ND,ND
+13,BOLÍVAR,13440,MARGARITA,2018,86.3,Inviable sanitariamente,86.3,Inviable sanitariamente,ND,ND
+13,BOLÍVAR,13440,MARGARITA,2019,82.7,Inviable sanitariamente,82.7,Inviable sanitariamente,ND,ND
+13,BOLÍVAR,13440,MARGARITA,2020,76.1,Riesgo alto,76.1,Riesgo alto,ND,ND
+13,BOLÍVAR,13440,MARGARITA,2021,75.0,Riesgo alto,75.0,Riesgo alto,ND,ND
+13,BOLÍVAR,13440,MARGARITA,2022,56.5,Riesgo alto,56.5,Riesgo alto,ND,ND
+13,BOLÍVAR,13440,MARGARITA,2023,71.7,Riesgo alto,71.7,Riesgo alto,ND,ND
+13,BOLÍVAR,13442,MARÍA LA BAJA,2007,78.8,Riesgo alto,77.8,Riesgo alto,100.0,Inviable sanitariamente
+13,BOLÍVAR,13442,MARÍA LA BAJA,2008,87.5,Inviable sanitariamente,87.5,Inviable sanitariamente,ND,ND
+13,BOLÍVAR,13442,MARÍA LA BAJA,2009,57.8,Riesgo alto,60.9,Riesgo alto,56.1,Riesgo alto
+13,BOLÍVAR,13442,MARÍA LA BAJA,2010,52.5,Riesgo alto,53.7,Riesgo alto,51.5,Riesgo alto
+13,BOLÍVAR,13442,MARÍA LA BAJA,2011,51.8,Riesgo alto,48.0,Riesgo alto,55.7,Riesgo alto
+13,BOLÍVAR,13442,MARÍA LA BAJA,2012,46.7,Riesgo alto,47.1,Riesgo alto,37.5,Riesgo alto
+13,BOLÍVAR,13442,MARÍA LA BAJA,2013,56.9,Riesgo alto,56.9,Riesgo alto,ND,ND
+13,BOLÍVAR,13442,MARÍA LA BAJA,2014,51.7,Riesgo alto,52.3,Riesgo alto,37.5,Riesgo alto
+13,BOLÍVAR,13442,MARÍA LA BAJA,2015,55.0,Riesgo alto,55.0,Riesgo alto,ND,ND
+13,BOLÍVAR,13442,MARÍA LA BAJA,2016,52.4,Riesgo alto,36.6,Riesgo alto,ND,ND
+13,BOLÍVAR,13442,MARÍA LA BAJA,2017,46.2,Riesgo alto,ND,ND,ND,ND
+13,BOLÍVAR,13442,MARÍA LA BAJA,2018,43.8,Riesgo alto,62.5,Riesgo alto,25.1,Riesgo medio
+13,BOLÍVAR,13442,MARÍA LA BAJA,2019,90.6,Inviable sanitariamente,90.6,Inviable sanitariamente,ND,ND
+13,BOLÍVAR,13442,MARÍA LA BAJA,2020,23.4,Riesgo medio,34.7,Riesgo medio,8.9,Riesgo bajo
+13,BOLÍVAR,13442,MARÍA LA BAJA,2021,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo
+13,BOLÍVAR,13442,MARÍA LA BAJA,2022,15.5,Riesgo medio,18.8,Riesgo medio,12.8,Riesgo bajo
+13,BOLÍVAR,13442,MARÍA LA BAJA,2023,37.5,Riesgo alto,50.0,Riesgo alto,25.0,Riesgo medio
+13,BOLÍVAR,13458,MONTECRISTO,2007,44.4,Riesgo alto,44.4,Riesgo alto,ND,ND
+13,BOLÍVAR,13458,MONTECRISTO,2008,83.7,Inviable sanitariamente,83.7,Inviable sanitariamente,ND,ND
+13,BOLÍVAR,13458,MONTECRISTO,2009,29.1,Riesgo medio,31.0,Riesgo medio,23.3,Riesgo medio
+13,BOLÍVAR,13458,MONTECRISTO,2010,31.1,Riesgo medio,31.0,Riesgo medio,31.4,Riesgo medio
+13,BOLÍVAR,13458,MONTECRISTO,2011,25.9,Riesgo medio,25.8,Riesgo medio,26.4,Riesgo medio
+13,BOLÍVAR,13458,MONTECRISTO,2012,85.7,Inviable sanitariamente,85.7,Inviable sanitariamente,ND,ND
+13,BOLÍVAR,13458,MONTECRISTO,2013,78.2,Riesgo alto,88.2,Inviable sanitariamente,48.2,Riesgo alto
+13,BOLÍVAR,13458,MONTECRISTO,2014,85.2,Inviable sanitariamente,82.9,Inviable sanitariamente,100.0,Inviable sanitariamente
+13,BOLÍVAR,13458,MONTECRISTO,2015,72.7,Riesgo alto,71.4,Riesgo alto,66.7,Riesgo alto
+13,BOLÍVAR,13458,MONTECRISTO,2016,30.6,Riesgo medio,29.2,Riesgo medio,ND,ND
+13,BOLÍVAR,13458,MONTECRISTO,2017,22.4,Riesgo medio,3.5,Sin riesgo,ND,ND
+13,BOLÍVAR,13458,MONTECRISTO,2018,43.3,Riesgo alto,43.3,Riesgo alto,ND,ND
+13,BOLÍVAR,13458,MONTECRISTO,2019,10.1,Riesgo bajo,10.1,Riesgo bajo,ND,ND
+13,BOLÍVAR,13458,MONTECRISTO,2020,81.8,Inviable sanitariamente,80.0,Riesgo alto,100.0,Inviable sanitariamente
+13,BOLÍVAR,13458,MONTECRISTO,2021,56.0,Riesgo alto,48.9,Riesgo alto,100.0,Inviable sanitariamente
+13,BOLÍVAR,13458,MONTECRISTO,2022,54.6,Riesgo alto,50.4,Riesgo alto,67.2,Riesgo alto
+13,BOLÍVAR,13468,SANTA CRUZ DE MOMPOX,2007,15.6,Riesgo medio,15.6,Riesgo medio,ND,ND
+13,BOLÍVAR,13468,SANTA CRUZ DE MOMPOX,2008,30.4,Riesgo medio,29.7,Riesgo medio,37.5,Riesgo alto
+13,BOLÍVAR,13468,SANTA CRUZ DE MOMPOX,2009,22.5,Riesgo medio,28.7,Riesgo medio,15.0,Riesgo medio
+13,BOLÍVAR,13468,SANTA CRUZ DE MOMPOX,2010,27.0,Riesgo medio,27.0,Riesgo medio,ND,ND
+13,BOLÍVAR,13468,SANTA CRUZ DE MOMPOX,2011,37.7,Riesgo alto,37.7,Riesgo alto,ND,ND
+13,BOLÍVAR,13468,SANTA CRUZ DE MOMPOX,2012,36.5,Riesgo alto,31.4,Riesgo medio,86.7,Inviable sanitariamente
+13,BOLÍVAR,13468,SANTA CRUZ DE MOMPOX,2013,20.4,Riesgo medio,21.2,Riesgo medio,0.0,Sin riesgo
+13,BOLÍVAR,13468,SANTA CRUZ DE MOMPOX,2014,20.0,Riesgo medio,19.1,Riesgo medio,25.0,Riesgo medio
+13,BOLÍVAR,13468,SANTA CRUZ DE MOMPOX,2015,24.3,Riesgo medio,27.4,Riesgo medio,0.0,Sin riesgo
+13,BOLÍVAR,13468,SANTA CRUZ DE MOMPOX,2016,43.0,Riesgo alto,45.2,Riesgo alto,ND,ND
+13,BOLÍVAR,13468,SANTA CRUZ DE MOMPOX,2017,42.2,Riesgo alto,39.3,Riesgo alto,ND,ND
+13,BOLÍVAR,13468,SANTA CRUZ DE MOMPOX,2018,40.0,Riesgo alto,40.0,Riesgo alto,ND,ND
+13,BOLÍVAR,13468,SANTA CRUZ DE MOMPOX,2019,34.4,Riesgo medio,34.4,Riesgo medio,ND,ND
+13,BOLÍVAR,13468,SANTA CRUZ DE MOMPOX,2020,60.7,Riesgo alto,60.7,Riesgo alto,ND,ND
+13,BOLÍVAR,13468,SANTA CRUZ DE MOMPOX,2021,37.8,Riesgo alto,37.8,Riesgo alto,ND,ND
+13,BOLÍVAR,13468,SANTA CRUZ DE MOMPOX,2022,20.5,Riesgo medio,20.5,Riesgo medio,ND,ND
+13,BOLÍVAR,13468,SANTA CRUZ DE MOMPOX,2023,16.6,Riesgo medio,16.6,Riesgo medio,ND,ND
+13,BOLÍVAR,13473,MORALES,2007,45.3,Riesgo alto,45.3,Riesgo alto,ND,ND
+13,BOLÍVAR,13473,MORALES,2008,77.7,Riesgo alto,76.8,Riesgo alto,82.8,Inviable sanitariamente
+13,BOLÍVAR,13473,MORALES,2009,63.5,Riesgo alto,70.5,Riesgo alto,45.5,Riesgo alto
+13,BOLÍVAR,13473,MORALES,2010,77.1,Riesgo alto,83.8,Inviable sanitariamente,60.7,Riesgo alto
+13,BOLÍVAR,13473,MORALES,2011,63.5,Riesgo alto,84.1,Inviable sanitariamente,36.8,Riesgo alto
+13,BOLÍVAR,13473,MORALES,2012,19.7,Riesgo medio,20.6,Riesgo medio,12.5,Riesgo bajo
+13,BOLÍVAR,13473,MORALES,2013,21.4,Riesgo medio,21.4,Riesgo medio,ND,ND
+13,BOLÍVAR,13473,MORALES,2014,27.4,Riesgo medio,28.7,Riesgo medio,0.0,Sin riesgo
+13,BOLÍVAR,13473,MORALES,2015,59.9,Riesgo alto,59.9,Riesgo alto,ND,ND
+13,BOLÍVAR,13473,MORALES,2016,72.1,Riesgo alto,62.7,Riesgo alto,ND,ND
+13,BOLÍVAR,13473,MORALES,2017,49.6,Riesgo alto,42.7,Riesgo alto,ND,ND
+13,BOLÍVAR,13473,MORALES,2018,21.1,Riesgo medio,21.1,Riesgo medio,ND,ND
+13,BOLÍVAR,13473,MORALES,2019,29.2,Riesgo medio,29.2,Riesgo medio,ND,ND
+13,BOLÍVAR,13473,MORALES,2020,44.4,Riesgo alto,44.4,Riesgo alto,ND,ND
+13,BOLÍVAR,13473,MORALES,2021,8.0,Riesgo bajo,8.0,Riesgo bajo,ND,ND
+13,BOLÍVAR,13473,MORALES,2022,12.5,Riesgo bajo,12.5,Riesgo bajo,ND,ND
+13,BOLÍVAR,13473,MORALES,2023,17.2,Riesgo medio,17.2,Riesgo medio,ND,ND
+13,BOLÍVAR,13490,NOROSÍ,2009,77.7,Riesgo alto,73.3,Riesgo alto,78.1,Riesgo alto
+13,BOLÍVAR,13490,NOROSÍ,2010,80.3,Inviable sanitariamente,87.5,Inviable sanitariamente,79.1,Riesgo alto
+13,BOLÍVAR,13490,NOROSÍ,2011,81.1,Inviable sanitariamente,82.1,Inviable sanitariamente,80.9,Inviable sanitariamente
+13,BOLÍVAR,13490,NOROSÍ,2012,84.7,Inviable sanitariamente,82.5,Inviable sanitariamente,86.2,Inviable sanitariamente
+13,BOLÍVAR,13490,NOROSÍ,2013,81.0,Inviable sanitariamente,ND,ND,81.0,Inviable sanitariamente
+13,BOLÍVAR,13490,NOROSÍ,2014,91.5,Inviable sanitariamente,70.7,Riesgo alto,100.0,Inviable sanitariamente
+13,BOLÍVAR,13490,NOROSÍ,2015,91.4,Inviable sanitariamente,85.3,Inviable sanitariamente,96.2,Inviable sanitariamente
+13,BOLÍVAR,13490,NOROSÍ,2016,53.9,Riesgo alto,ND,ND,ND,ND
+13,BOLÍVAR,13490,NOROSÍ,2017,38.5,Riesgo alto,ND,ND,ND,ND
+13,BOLÍVAR,13490,NOROSÍ,2018,43.0,Riesgo alto,43.0,Riesgo alto,ND,ND
+13,BOLÍVAR,13490,NOROSÍ,2019,18.8,Riesgo medio,18.8,Riesgo medio,ND,ND
+13,BOLÍVAR,13490,NOROSÍ,2020,40.6,Riesgo alto,40.6,Riesgo alto,ND,ND
+13,BOLÍVAR,13490,NOROSÍ,2021,19.0,Riesgo medio,19.0,Riesgo medio,ND,ND
+13,BOLÍVAR,13490,NOROSÍ,2022,7.5,Riesgo bajo,7.5,Riesgo bajo,ND,ND
+13,BOLÍVAR,13490,NOROSÍ,2023,5.1,Riesgo bajo,5.1,Riesgo bajo,ND,ND
+13,BOLÍVAR,13549,PINILLOS,2007,41.7,Riesgo alto,41.7,Riesgo alto,ND,ND
+13,BOLÍVAR,13549,PINILLOS,2008,82.1,Inviable sanitariamente,82.1,Inviable sanitariamente,ND,ND
+13,BOLÍVAR,13549,PINILLOS,2009,48.8,Riesgo alto,51.0,Riesgo alto,37.5,Riesgo alto
+13,BOLÍVAR,13549,PINILLOS,2010,64.6,Riesgo alto,64.6,Riesgo alto,ND,ND
+13,BOLÍVAR,13549,PINILLOS,2011,53.3,Riesgo alto,56.5,Riesgo alto,35.5,Riesgo alto
+13,BOLÍVAR,13549,PINILLOS,2012,37.3,Riesgo alto,38.5,Riesgo alto,20.6,Riesgo medio
+13,BOLÍVAR,13549,PINILLOS,2013,64.3,Riesgo alto,64.3,Riesgo alto,ND,ND
+13,BOLÍVAR,13549,PINILLOS,2014,47.6,Riesgo alto,47.6,Riesgo alto,ND,ND
+13,BOLÍVAR,13549,PINILLOS,2015,25.8,Riesgo medio,25.8,Riesgo medio,ND,ND
+13,BOLÍVAR,13549,PINILLOS,2016,42.1,Riesgo alto,42.1,Riesgo alto,ND,ND
+13,BOLÍVAR,13549,PINILLOS,2017,55.6,Riesgo alto,55.6,Riesgo alto,ND,ND
+13,BOLÍVAR,13549,PINILLOS,2018,40.2,Riesgo alto,40.2,Riesgo alto,ND,ND
+13,BOLÍVAR,13549,PINILLOS,2019,32.7,Riesgo medio,32.7,Riesgo medio,ND,ND
+13,BOLÍVAR,13549,PINILLOS,2020,51.7,Riesgo alto,51.7,Riesgo alto,ND,ND
+13,BOLÍVAR,13549,PINILLOS,2021,31.1,Riesgo medio,31.1,Riesgo medio,ND,ND
+13,BOLÍVAR,13549,PINILLOS,2022,17.2,Riesgo medio,17.2,Riesgo medio,ND,ND
+13,BOLÍVAR,13549,PINILLOS,2023,10.5,Riesgo bajo,10.5,Riesgo bajo,ND,ND
+13,BOLÍVAR,13580,REGIDOR,2007,28.6,Riesgo medio,28.6,Riesgo medio,ND,ND
+13,BOLÍVAR,13580,REGIDOR,2008,94.1,Inviable sanitariamente,94.1,Inviable sanitariamente,ND,ND
+13,BOLÍVAR,13580,REGIDOR,2009,72.2,Riesgo alto,70.9,Riesgo alto,78.3,Riesgo alto
+13,BOLÍVAR,13580,REGIDOR,2010,41.8,Riesgo alto,41.9,Riesgo alto,40.6,Riesgo alto
+13,BOLÍVAR,13580,REGIDOR,2011,62.7,Riesgo alto,64.6,Riesgo alto,35.8,Riesgo alto
+13,BOLÍVAR,13580,REGIDOR,2012,56.9,Riesgo alto,64.8,Riesgo alto,13.5,Riesgo bajo
+13,BOLÍVAR,13580,REGIDOR,2013,61.6,Riesgo alto,54.0,Riesgo alto,79.7,Riesgo alto
+13,BOLÍVAR,13580,REGIDOR,2014,44.5,Riesgo alto,48.7,Riesgo alto,21.8,Riesgo medio
+13,BOLÍVAR,13580,REGIDOR,2015,5.1,Riesgo bajo,5.1,Riesgo bajo,ND,ND
+13,BOLÍVAR,13580,REGIDOR,2016,22.1,Riesgo medio,47.5,Riesgo alto,ND,ND
+13,BOLÍVAR,13580,REGIDOR,2017,20.9,Riesgo medio,13.8,Riesgo bajo,ND,ND
+13,BOLÍVAR,13580,REGIDOR,2018,29.3,Riesgo medio,29.3,Riesgo medio,ND,ND
+13,BOLÍVAR,13580,REGIDOR,2019,24.0,Riesgo medio,24.0,Riesgo medio,ND,ND
+13,BOLÍVAR,13580,REGIDOR,2020,46.1,Riesgo alto,46.1,Riesgo alto,ND,ND
+13,BOLÍVAR,13580,REGIDOR,2021,15.3,Riesgo medio,15.3,Riesgo medio,ND,ND
+13,BOLÍVAR,13580,REGIDOR,2022,3.5,Sin riesgo,3.5,Sin riesgo,ND,ND
+13,BOLÍVAR,13580,REGIDOR,2023,6.3,Riesgo bajo,6.3,Riesgo bajo,ND,ND
+13,BOLÍVAR,13600,RÍO VIEJO,2008,82.0,Inviable sanitariamente,82.0,Inviable sanitariamente,ND,ND
+13,BOLÍVAR,13600,RÍO VIEJO,2009,62.8,Riesgo alto,61.7,Riesgo alto,64.9,Riesgo alto
+13,BOLÍVAR,13600,RÍO VIEJO,2010,86.2,Inviable sanitariamente,85.3,Inviable sanitariamente,93.1,Inviable sanitariamente
+13,BOLÍVAR,13600,RÍO VIEJO,2011,53.7,Riesgo alto,55.8,Riesgo alto,41.6,Riesgo alto
+13,BOLÍVAR,13600,RÍO VIEJO,2012,60.8,Riesgo alto,66.1,Riesgo alto,48.3,Riesgo alto
+13,BOLÍVAR,13600,RÍO VIEJO,2013,62.6,Riesgo alto,72.2,Riesgo alto,43.2,Riesgo alto
+13,BOLÍVAR,13600,RÍO VIEJO,2014,84.5,Inviable sanitariamente,93.8,Inviable sanitariamente,70.5,Riesgo alto
+13,BOLÍVAR,13600,RÍO VIEJO,2015,51.9,Riesgo alto,54.0,Riesgo alto,37.5,Riesgo alto
+13,BOLÍVAR,13600,RÍO VIEJO,2016,32.2,Riesgo medio,11.1,Riesgo bajo,ND,ND
+13,BOLÍVAR,13600,RÍO VIEJO,2017,58.7,Riesgo alto,59.0,Riesgo alto,ND,ND
+13,BOLÍVAR,13600,RÍO VIEJO,2018,25.3,Riesgo medio,25.3,Riesgo medio,ND,ND
+13,BOLÍVAR,13600,RÍO VIEJO,2019,24.0,Riesgo medio,24.0,Riesgo medio,ND,ND
+13,BOLÍVAR,13620,SAN CRISTÓBAL,2007,20.0,Riesgo medio,20.0,Riesgo medio,ND,ND
+13,BOLÍVAR,13620,SAN CRISTÓBAL,2008,48.8,Riesgo alto,48.8,Riesgo alto,ND,ND
+13,BOLÍVAR,13620,SAN CRISTÓBAL,2009,36.5,Riesgo alto,29.2,Riesgo medio,41.0,Riesgo alto
+13,BOLÍVAR,13620,SAN CRISTÓBAL,2010,26.7,Riesgo medio,25.9,Riesgo medio,27.3,Riesgo medio
+13,BOLÍVAR,13620,SAN CRISTÓBAL,2011,7.6,Riesgo bajo,7.1,Riesgo bajo,8.3,Riesgo bajo
+13,BOLÍVAR,13620,SAN CRISTÓBAL,2012,16.8,Riesgo medio,15.6,Riesgo medio,25.0,Riesgo medio
+13,BOLÍVAR,13620,SAN CRISTÓBAL,2013,10.7,Riesgo bajo,10.7,Riesgo bajo,ND,ND
+13,BOLÍVAR,13620,SAN CRISTÓBAL,2014,12.8,Riesgo bajo,10.6,Riesgo bajo,62.5,Riesgo alto
+13,BOLÍVAR,13620,SAN CRISTÓBAL,2015,32.3,Riesgo medio,32.3,Riesgo medio,ND,ND
+13,BOLÍVAR,13620,SAN CRISTÓBAL,2016,42.3,Riesgo alto,50.0,Riesgo alto,ND,ND
+13,BOLÍVAR,13620,SAN CRISTÓBAL,2017,56.0,Riesgo alto,46.6,Riesgo alto,ND,ND
+13,BOLÍVAR,13620,SAN CRISTÓBAL,2018,36.8,Riesgo alto,36.8,Riesgo alto,ND,ND
+13,BOLÍVAR,13620,SAN CRISTÓBAL,2019,47.9,Riesgo alto,47.9,Riesgo alto,ND,ND
+13,BOLÍVAR,13620,SAN CRISTÓBAL,2020,16.5,Riesgo medio,16.5,Riesgo medio,ND,ND
+13,BOLÍVAR,13620,SAN CRISTÓBAL,2021,11.0,Riesgo bajo,11.0,Riesgo bajo,ND,ND
+13,BOLÍVAR,13620,SAN CRISTÓBAL,2022,3.4,Sin riesgo,3.4,Sin riesgo,ND,ND
+13,BOLÍVAR,13620,SAN CRISTÓBAL,2023,9.5,Riesgo bajo,9.5,Riesgo bajo,ND,ND
+13,BOLÍVAR,13647,SAN ESTANISLAO,2007,20.6,Riesgo medio,20.6,Riesgo medio,ND,ND
+13,BOLÍVAR,13647,SAN ESTANISLAO,2008,13.1,Riesgo bajo,13.1,Riesgo bajo,ND,ND
+13,BOLÍVAR,13647,SAN ESTANISLAO,2009,31.6,Riesgo medio,29.6,Riesgo medio,37.3,Riesgo alto
+13,BOLÍVAR,13647,SAN ESTANISLAO,2010,33.5,Riesgo medio,33.3,Riesgo medio,37.5,Riesgo alto
+13,BOLÍVAR,13647,SAN ESTANISLAO,2011,11.4,Riesgo bajo,11.7,Riesgo bajo,0.0,Sin riesgo
+13,BOLÍVAR,13647,SAN ESTANISLAO,2012,1.3,Sin riesgo,1.3,Sin riesgo,0.0,Sin riesgo
+13,BOLÍVAR,13647,SAN ESTANISLAO,2013,19.1,Riesgo medio,20.0,Riesgo medio,0.0,Sin riesgo
+13,BOLÍVAR,13647,SAN ESTANISLAO,2014,12.2,Riesgo bajo,13.1,Riesgo bajo,0.0,Sin riesgo
+13,BOLÍVAR,13647,SAN ESTANISLAO,2015,29.0,Riesgo medio,29.0,Riesgo medio,ND,ND
+13,BOLÍVAR,13647,SAN ESTANISLAO,2016,10.1,Riesgo bajo,10.1,Riesgo bajo,ND,ND
+13,BOLÍVAR,13647,SAN ESTANISLAO,2017,55.4,Riesgo alto,61.2,Riesgo alto,ND,ND
+13,BOLÍVAR,13647,SAN ESTANISLAO,2018,28.4,Riesgo medio,28.4,Riesgo medio,ND,ND
+13,BOLÍVAR,13647,SAN ESTANISLAO,2019,33.1,Riesgo medio,18.8,Riesgo medio,82.1,Inviable sanitariamente
+13,BOLÍVAR,13647,SAN ESTANISLAO,2020,61.1,Riesgo alto,61.1,Riesgo alto,ND,ND
+13,BOLÍVAR,13647,SAN ESTANISLAO,2021,62.2,Riesgo alto,62.2,Riesgo alto,ND,ND
+13,BOLÍVAR,13647,SAN ESTANISLAO,2022,25.4,Riesgo medio,25.4,Riesgo medio,ND,ND
+13,BOLÍVAR,13647,SAN ESTANISLAO,2023,11.8,Riesgo bajo,11.8,Riesgo bajo,ND,ND
+13,BOLÍVAR,13650,SAN FERNANDO,2007,53.0,Riesgo alto,53.0,Riesgo alto,ND,ND
+13,BOLÍVAR,13650,SAN FERNANDO,2008,86.3,Inviable sanitariamente,83.0,Inviable sanitariamente,100.0,Inviable sanitariamente
+13,BOLÍVAR,13650,SAN FERNANDO,2009,71.3,Riesgo alto,76.4,Riesgo alto,61.1,Riesgo alto
+13,BOLÍVAR,13650,SAN FERNANDO,2010,52.9,Riesgo alto,52.9,Riesgo alto,ND,ND
+13,BOLÍVAR,13650,SAN FERNANDO,2011,53.9,Riesgo alto,53.9,Riesgo alto,ND,ND
+13,BOLÍVAR,13650,SAN FERNANDO,2012,50.9,Riesgo alto,50.5,Riesgo alto,53.1,Riesgo alto
+13,BOLÍVAR,13650,SAN FERNANDO,2013,76.7,Riesgo alto,74.7,Riesgo alto,100.0,Inviable sanitariamente
+13,BOLÍVAR,13650,SAN FERNANDO,2014,68.2,Riesgo alto,68.2,Riesgo alto,ND,ND
+13,BOLÍVAR,13650,SAN FERNANDO,2015,53.4,Riesgo alto,53.4,Riesgo alto,ND,ND
+13,BOLÍVAR,13650,SAN FERNANDO,2016,67.7,Riesgo alto,73.3,Riesgo alto,ND,ND
+13,BOLÍVAR,13650,SAN FERNANDO,2017,56.1,Riesgo alto,49.4,Riesgo alto,ND,ND
+13,BOLÍVAR,13650,SAN FERNANDO,2018,49.2,Riesgo alto,49.2,Riesgo alto,ND,ND
+13,BOLÍVAR,13650,SAN FERNANDO,2019,28.1,Riesgo medio,28.1,Riesgo medio,ND,ND
+13,BOLÍVAR,13650,SAN FERNANDO,2020,55.7,Riesgo alto,55.7,Riesgo alto,ND,ND
+13,BOLÍVAR,13650,SAN FERNANDO,2021,39.0,Riesgo alto,39.0,Riesgo alto,37.5,Riesgo alto
+13,BOLÍVAR,13650,SAN FERNANDO,2022,34.9,Riesgo medio,34.9,Riesgo medio,ND,ND
+13,BOLÍVAR,13650,SAN FERNANDO,2023,45.3,Riesgo alto,45.3,Riesgo alto,ND,ND
+13,BOLÍVAR,13654,SAN JACINTO,2007,11.4,Riesgo bajo,11.4,Riesgo bajo,ND,ND
+13,BOLÍVAR,13654,SAN JACINTO,2008,93.1,Inviable sanitariamente,92.6,Inviable sanitariamente,100.0,Inviable sanitariamente
+13,BOLÍVAR,13654,SAN JACINTO,2009,53.2,Riesgo alto,58.3,Riesgo alto,51.0,Riesgo alto
+13,BOLÍVAR,13654,SAN JACINTO,2010,64.3,Riesgo alto,61.2,Riesgo alto,79.2,Riesgo alto
+13,BOLÍVAR,13654,SAN JACINTO,2011,78.9,Riesgo alto,77.8,Riesgo alto,84.4,Inviable sanitariamente
+13,BOLÍVAR,13654,SAN JACINTO,2012,22.6,Riesgo medio,28.3,Riesgo medio,13.1,Riesgo bajo
+13,BOLÍVAR,13654,SAN JACINTO,2013,35.0,Riesgo medio,35.7,Riesgo alto,34.4,Riesgo medio
+13,BOLÍVAR,13654,SAN JACINTO,2014,14.3,Riesgo medio,25.0,Riesgo medio,0.0,Sin riesgo
+13,BOLÍVAR,13654,SAN JACINTO,2021,66.7,Riesgo alto,66.7,Riesgo alto,ND,ND
+13,BOLÍVAR,13655,SAN JACINTO DEL CAUCA,2007,25.0,Riesgo medio,25.0,Riesgo medio,ND,ND
+13,BOLÍVAR,13655,SAN JACINTO DEL CAUCA,2008,90.0,Inviable sanitariamente,88.0,Inviable sanitariamente,100.0,Inviable sanitariamente
+13,BOLÍVAR,13655,SAN JACINTO DEL CAUCA,2009,81.3,Inviable sanitariamente,100.0,Inviable sanitariamente,77.6,Riesgo alto
+13,BOLÍVAR,13655,SAN JACINTO DEL CAUCA,2010,86.4,Inviable sanitariamente,85.8,Inviable sanitariamente,89.6,Inviable sanitariamente
+13,BOLÍVAR,13655,SAN JACINTO DEL CAUCA,2011,99.3,Inviable sanitariamente,99.1,Inviable sanitariamente,100.0,Inviable sanitariamente
+13,BOLÍVAR,13655,SAN JACINTO DEL CAUCA,2012,80.6,Inviable sanitariamente,78.6,Riesgo alto,87.7,Inviable sanitariamente
+13,BOLÍVAR,13655,SAN JACINTO DEL CAUCA,2013,91.9,Inviable sanitariamente,91.1,Inviable sanitariamente,100.0,Inviable sanitariamente
+13,BOLÍVAR,13655,SAN JACINTO DEL CAUCA,2014,85.2,Inviable sanitariamente,85.2,Inviable sanitariamente,ND,ND
+13,BOLÍVAR,13655,SAN JACINTO DEL CAUCA,2015,71.7,Riesgo alto,71.7,Riesgo alto,ND,ND
+13,BOLÍVAR,13655,SAN JACINTO DEL CAUCA,2016,92.1,Inviable sanitariamente,89.9,Inviable sanitariamente,ND,ND
+13,BOLÍVAR,13655,SAN JACINTO DEL CAUCA,2017,86.6,Inviable sanitariamente,93.3,Inviable sanitariamente,ND,ND
+13,BOLÍVAR,13655,SAN JACINTO DEL CAUCA,2018,23.5,Riesgo medio,23.5,Riesgo medio,ND,ND
+13,BOLÍVAR,13655,SAN JACINTO DEL CAUCA,2019,27.3,Riesgo medio,27.3,Riesgo medio,ND,ND
+13,BOLÍVAR,13657,SAN JUAN NEPOMUCENO,2007,36.4,Riesgo alto,36.4,Riesgo alto,ND,ND
+13,BOLÍVAR,13657,SAN JUAN NEPOMUCENO,2008,2.1,Sin riesgo,2.1,Sin riesgo,ND,ND
+13,BOLÍVAR,13657,SAN JUAN NEPOMUCENO,2009,22.7,Riesgo medio,25.0,Riesgo medio,0.0,Sin riesgo
+13,BOLÍVAR,13657,SAN JUAN NEPOMUCENO,2010,38.2,Riesgo alto,39.1,Riesgo alto,33.3,Riesgo medio
+13,BOLÍVAR,13657,SAN JUAN NEPOMUCENO,2011,44.1,Riesgo alto,46.5,Riesgo alto,39.4,Riesgo alto
+13,BOLÍVAR,13657,SAN JUAN NEPOMUCENO,2012,52.6,Riesgo alto,58.0,Riesgo alto,27.5,Riesgo medio
+13,BOLÍVAR,13657,SAN JUAN NEPOMUCENO,2013,37.5,Riesgo alto,44.2,Riesgo alto,25.0,Riesgo medio
+13,BOLÍVAR,13657,SAN JUAN NEPOMUCENO,2014,51.3,Riesgo alto,64.7,Riesgo alto,17.0,Riesgo medio
+13,BOLÍVAR,13657,SAN JUAN NEPOMUCENO,2015,20.1,Riesgo medio,34.4,Riesgo medio,1.0,Sin riesgo
+13,BOLÍVAR,13657,SAN JUAN NEPOMUCENO,2016,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo
+13,BOLÍVAR,13657,SAN JUAN NEPOMUCENO,2017,69.6,Riesgo alto,84.4,Inviable sanitariamente,70.5,Riesgo alto
+13,BOLÍVAR,13657,SAN JUAN NEPOMUCENO,2018,35.3,Riesgo alto,50.0,Riesgo alto,27.9,Riesgo medio
+13,BOLÍVAR,13657,SAN JUAN NEPOMUCENO,2020,75.0,Riesgo alto,100.0,Inviable sanitariamente,50.0,Riesgo alto
+13,BOLÍVAR,13657,SAN JUAN NEPOMUCENO,2021,59.7,Riesgo alto,100.0,Inviable sanitariamente,39.6,Riesgo alto
+13,BOLÍVAR,13657,SAN JUAN NEPOMUCENO,2022,0.0,Sin riesgo,ND,ND,0.0,Sin riesgo
+13,BOLÍVAR,13657,SAN JUAN NEPOMUCENO,2023,18.8,Riesgo medio,ND,ND,18.8,Riesgo medio
+13,BOLÍVAR,13667,SAN MARTÍN DE LOBA,2007,25.9,Riesgo medio,25.9,Riesgo medio,ND,ND
+13,BOLÍVAR,13667,SAN MARTÍN DE LOBA,2008,61.8,Riesgo alto,63.2,Riesgo alto,37.5,Riesgo alto
+13,BOLÍVAR,13667,SAN MARTÍN DE LOBA,2009,30.8,Riesgo medio,19.9,Riesgo medio,40.9,Riesgo alto
+13,BOLÍVAR,13667,SAN MARTÍN DE LOBA,2010,35.4,Riesgo alto,35.4,Riesgo alto,ND,ND
+13,BOLÍVAR,13667,SAN MARTÍN DE LOBA,2011,66.4,Riesgo alto,66.4,Riesgo alto,ND,ND
+13,BOLÍVAR,13667,SAN MARTÍN DE LOBA,2012,40.5,Riesgo alto,40.5,Riesgo alto,ND,ND
+13,BOLÍVAR,13667,SAN MARTÍN DE LOBA,2013,33.6,Riesgo medio,35.8,Riesgo alto,0.0,Sin riesgo
+13,BOLÍVAR,13667,SAN MARTÍN DE LOBA,2014,40.8,Riesgo alto,36.6,Riesgo alto,100.0,Inviable sanitariamente
+13,BOLÍVAR,13667,SAN MARTÍN DE LOBA,2015,26.6,Riesgo medio,26.6,Riesgo medio,ND,ND
+13,BOLÍVAR,13667,SAN MARTÍN DE LOBA,2016,59.6,Riesgo alto,53.8,Riesgo alto,ND,ND
+13,BOLÍVAR,13667,SAN MARTÍN DE LOBA,2017,61.1,Riesgo alto,60.6,Riesgo alto,ND,ND
+13,BOLÍVAR,13667,SAN MARTÍN DE LOBA,2018,30.0,Riesgo medio,30.0,Riesgo medio,ND,ND
+13,BOLÍVAR,13667,SAN MARTÍN DE LOBA,2019,75.0,Riesgo alto,75.0,Riesgo alto,ND,ND
+13,BOLÍVAR,13670,SAN PABLO,2007,5.4,Riesgo bajo,5.4,Riesgo bajo,ND,ND
+13,BOLÍVAR,13670,SAN PABLO,2008,10.5,Riesgo bajo,10.5,Riesgo bajo,ND,ND
+13,BOLÍVAR,13670,SAN PABLO,2009,8.4,Riesgo bajo,8.4,Riesgo bajo,ND,ND
+13,BOLÍVAR,13670,SAN PABLO,2010,9.9,Riesgo bajo,9.9,Riesgo bajo,ND,ND
+13,BOLÍVAR,13670,SAN PABLO,2011,8.4,Riesgo bajo,8.4,Riesgo bajo,ND,ND
+13,BOLÍVAR,13670,SAN PABLO,2012,8.0,Riesgo bajo,8.0,Riesgo bajo,ND,ND
+13,BOLÍVAR,13670,SAN PABLO,2013,1.4,Sin riesgo,1.4,Sin riesgo,ND,ND
+13,BOLÍVAR,13670,SAN PABLO,2014,0.5,Sin riesgo,0.5,Sin riesgo,ND,ND
+13,BOLÍVAR,13670,SAN PABLO,2015,27.5,Riesgo medio,27.5,Riesgo medio,ND,ND
+13,BOLÍVAR,13670,SAN PABLO,2016,5.7,Riesgo bajo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13670,SAN PABLO,2017,3.4,Sin riesgo,ND,ND,ND,ND
+13,BOLÍVAR,13670,SAN PABLO,2018,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13670,SAN PABLO,2019,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13670,SAN PABLO,2020,9.4,Riesgo bajo,9.4,Riesgo bajo,ND,ND
+13,BOLÍVAR,13670,SAN PABLO,2021,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13670,SAN PABLO,2022,1.3,Sin riesgo,1.3,Sin riesgo,ND,ND
+13,BOLÍVAR,13670,SAN PABLO,2023,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13673,SANTA CATALINA,2007,50.7,Riesgo alto,50.7,Riesgo alto,ND,ND
+13,BOLÍVAR,13673,SANTA CATALINA,2008,100.0,Inviable sanitariamente,100.0,Inviable sanitariamente,ND,ND
+13,BOLÍVAR,13673,SANTA CATALINA,2009,61.5,Riesgo alto,61.5,Riesgo alto,ND,ND
+13,BOLÍVAR,13673,SANTA CATALINA,2010,42.5,Riesgo alto,42.5,Riesgo alto,ND,ND
+13,BOLÍVAR,13673,SANTA CATALINA,2011,71.7,Riesgo alto,71.7,Riesgo alto,ND,ND
+13,BOLÍVAR,13673,SANTA CATALINA,2012,67.7,Riesgo alto,67.7,Riesgo alto,ND,ND
+13,BOLÍVAR,13673,SANTA CATALINA,2013,55.1,Riesgo alto,55.1,Riesgo alto,ND,ND
+13,BOLÍVAR,13673,SANTA CATALINA,2014,71.7,Riesgo alto,71.7,Riesgo alto,ND,ND
+13,BOLÍVAR,13673,SANTA CATALINA,2015,85.4,Inviable sanitariamente,85.4,Inviable sanitariamente,ND,ND
+13,BOLÍVAR,13673,SANTA CATALINA,2016,73.2,Riesgo alto,75.9,Riesgo alto,ND,ND
+13,BOLÍVAR,13673,SANTA CATALINA,2017,60.4,Riesgo alto,71.5,Riesgo alto,ND,ND
+13,BOLÍVAR,13673,SANTA CATALINA,2018,88.2,Inviable sanitariamente,100.0,Inviable sanitariamente,76.3,Riesgo alto
+13,BOLÍVAR,13673,SANTA CATALINA,2019,72.5,Riesgo alto,72.5,Riesgo alto,ND,ND
+13,BOLÍVAR,13673,SANTA CATALINA,2020,77.7,Riesgo alto,77.7,Riesgo alto,ND,ND
+13,BOLÍVAR,13673,SANTA CATALINA,2021,49.1,Riesgo alto,49.1,Riesgo alto,ND,ND
+13,BOLÍVAR,13673,SANTA CATALINA,2022,25.5,Riesgo medio,25.5,Riesgo medio,ND,ND
+13,BOLÍVAR,13673,SANTA CATALINA,2023,34.1,Riesgo medio,34.1,Riesgo medio,ND,ND
+13,BOLÍVAR,13683,SANTA ROSA,2007,35.3,Riesgo alto,35.3,Riesgo alto,ND,ND
+13,BOLÍVAR,13683,SANTA ROSA,2008,33.0,Riesgo medio,42.0,Riesgo alto,1.7,Sin riesgo
+13,BOLÍVAR,13683,SANTA ROSA,2009,19.0,Riesgo medio,21.4,Riesgo medio,18.2,Riesgo medio
+13,BOLÍVAR,13683,SANTA ROSA,2010,16.6,Riesgo medio,13.7,Riesgo bajo,37.5,Riesgo alto
+13,BOLÍVAR,13683,SANTA ROSA,2011,27.6,Riesgo medio,28.5,Riesgo medio,18.8,Riesgo medio
+13,BOLÍVAR,13683,SANTA ROSA,2012,19.0,Riesgo medio,22.6,Riesgo medio,0.0,Sin riesgo
+13,BOLÍVAR,13683,SANTA ROSA,2013,15.6,Riesgo medio,10.3,Riesgo bajo,45.8,Riesgo alto
+13,BOLÍVAR,13683,SANTA ROSA,2014,10.7,Riesgo bajo,11.5,Riesgo bajo,0.0,Sin riesgo
+13,BOLÍVAR,13683,SANTA ROSA,2015,15.0,Riesgo medio,15.0,Riesgo medio,ND,ND
+13,BOLÍVAR,13683,SANTA ROSA,2016,24.2,Riesgo medio,ND,ND,ND,ND
+13,BOLÍVAR,13683,SANTA ROSA,2017,74.8,Riesgo alto,ND,ND,ND,ND
+13,BOLÍVAR,13683,SANTA ROSA,2018,41.3,Riesgo alto,41.3,Riesgo alto,ND,ND
+13,BOLÍVAR,13683,SANTA ROSA,2019,19.6,Riesgo medio,19.6,Riesgo medio,ND,ND
+13,BOLÍVAR,13683,SANTA ROSA,2020,37.5,Riesgo alto,37.5,Riesgo alto,ND,ND
+13,BOLÍVAR,13683,SANTA ROSA,2021,37.5,Riesgo alto,37.5,Riesgo alto,ND,ND
+13,BOLÍVAR,13683,SANTA ROSA,2022,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13683,SANTA ROSA,2023,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13688,SANTA ROSA DEL SUR,2007,31.3,Riesgo medio,31.3,Riesgo medio,ND,ND
+13,BOLÍVAR,13688,SANTA ROSA DEL SUR,2008,79.2,Riesgo alto,84.4,Inviable sanitariamente,37.5,Riesgo alto
+13,BOLÍVAR,13688,SANTA ROSA DEL SUR,2009,68.5,Riesgo alto,55.4,Riesgo alto,74.0,Riesgo alto
+13,BOLÍVAR,13688,SANTA ROSA DEL SUR,2010,65.8,Riesgo alto,66.4,Riesgo alto,50.0,Riesgo alto
+13,BOLÍVAR,13688,SANTA ROSA DEL SUR,2011,77.4,Riesgo alto,76.2,Riesgo alto,100.0,Inviable sanitariamente
+13,BOLÍVAR,13688,SANTA ROSA DEL SUR,2012,73.8,Riesgo alto,73.2,Riesgo alto,79.2,Riesgo alto
+13,BOLÍVAR,13688,SANTA ROSA DEL SUR,2013,86.8,Inviable sanitariamente,90.2,Inviable sanitariamente,74.0,Riesgo alto
+13,BOLÍVAR,13688,SANTA ROSA DEL SUR,2014,97.3,Inviable sanitariamente,96.9,Inviable sanitariamente,100.0,Inviable sanitariamente
+13,BOLÍVAR,13688,SANTA ROSA DEL SUR,2015,80.9,Inviable sanitariamente,74.5,Riesgo alto,100.0,Inviable sanitariamente
+13,BOLÍVAR,13688,SANTA ROSA DEL SUR,2016,3.3,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo
+13,BOLÍVAR,13688,SANTA ROSA DEL SUR,2017,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13688,SANTA ROSA DEL SUR,2018,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13688,SANTA ROSA DEL SUR,2019,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13688,SANTA ROSA DEL SUR,2020,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13688,SANTA ROSA DEL SUR,2021,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13688,SANTA ROSA DEL SUR,2022,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13688,SANTA ROSA DEL SUR,2023,1.3,Sin riesgo,1.3,Sin riesgo,ND,ND
+13,BOLÍVAR,13744,SIMITÍ,2007,3.4,Sin riesgo,3.4,Sin riesgo,ND,ND
+13,BOLÍVAR,13744,SIMITÍ,2008,23.0,Riesgo medio,23.0,Riesgo medio,ND,ND
+13,BOLÍVAR,13744,SIMITÍ,2009,36.1,Riesgo alto,34.5,Riesgo medio,73.3,Riesgo alto
+13,BOLÍVAR,13744,SIMITÍ,2010,42.9,Riesgo alto,42.9,Riesgo alto,ND,ND
+13,BOLÍVAR,13744,SIMITÍ,2011,23.9,Riesgo medio,23.3,Riesgo medio,37.5,Riesgo alto
+13,BOLÍVAR,13744,SIMITÍ,2012,16.2,Riesgo medio,16.2,Riesgo medio,ND,ND
+13,BOLÍVAR,13744,SIMITÍ,2013,19.7,Riesgo medio,19.0,Riesgo medio,37.5,Riesgo alto
+13,BOLÍVAR,13744,SIMITÍ,2014,18.0,Riesgo medio,18.0,Riesgo medio,ND,ND
+13,BOLÍVAR,13744,SIMITÍ,2015,32.4,Riesgo medio,32.4,Riesgo medio,ND,ND
+13,BOLÍVAR,13744,SIMITÍ,2016,15.6,Riesgo medio,22.9,Riesgo medio,ND,ND
+13,BOLÍVAR,13744,SIMITÍ,2017,21.9,Riesgo medio,9.4,Riesgo bajo,ND,ND
+13,BOLÍVAR,13744,SIMITÍ,2018,1.2,Sin riesgo,0.0,Sin riesgo,2.5,Sin riesgo
+13,BOLÍVAR,13744,SIMITÍ,2019,3.1,Sin riesgo,6.3,Riesgo bajo,0.0,Sin riesgo
+13,BOLÍVAR,13744,SIMITÍ,2020,4.7,Sin riesgo,4.7,Sin riesgo,ND,ND
+13,BOLÍVAR,13744,SIMITÍ,2021,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13744,SIMITÍ,2022,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13744,SIMITÍ,2023,1.3,Sin riesgo,1.3,Sin riesgo,ND,ND
+13,BOLÍVAR,13760,SOPLAVIENTO,2007,27.1,Riesgo medio,27.1,Riesgo medio,ND,ND
+13,BOLÍVAR,13760,SOPLAVIENTO,2008,77.6,Riesgo alto,77.6,Riesgo alto,ND,ND
+13,BOLÍVAR,13760,SOPLAVIENTO,2009,58.8,Riesgo alto,68.8,Riesgo alto,47.7,Riesgo alto
+13,BOLÍVAR,13760,SOPLAVIENTO,2010,46.7,Riesgo alto,46.7,Riesgo alto,ND,ND
+13,BOLÍVAR,13760,SOPLAVIENTO,2011,25.0,Riesgo medio,25.7,Riesgo medio,18.8,Riesgo medio
+13,BOLÍVAR,13760,SOPLAVIENTO,2012,42.4,Riesgo alto,38.2,Riesgo alto,100.0,Inviable sanitariamente
+13,BOLÍVAR,13760,SOPLAVIENTO,2013,24.4,Riesgo medio,24.4,Riesgo medio,ND,ND
+13,BOLÍVAR,13760,SOPLAVIENTO,2014,13.2,Riesgo bajo,13.2,Riesgo bajo,ND,ND
+13,BOLÍVAR,13760,SOPLAVIENTO,2015,58.3,Riesgo alto,58.3,Riesgo alto,ND,ND
+13,BOLÍVAR,13760,SOPLAVIENTO,2016,42.5,Riesgo alto,31.4,Riesgo medio,ND,ND
+13,BOLÍVAR,13760,SOPLAVIENTO,2017,63.2,Riesgo alto,70.5,Riesgo alto,ND,ND
+13,BOLÍVAR,13760,SOPLAVIENTO,2018,63.3,Riesgo alto,63.3,Riesgo alto,ND,ND
+13,BOLÍVAR,13760,SOPLAVIENTO,2019,34.7,Riesgo medio,34.7,Riesgo medio,ND,ND
+13,BOLÍVAR,13760,SOPLAVIENTO,2020,66.7,Riesgo alto,66.7,Riesgo alto,ND,ND
+13,BOLÍVAR,13760,SOPLAVIENTO,2021,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13760,SOPLAVIENTO,2022,20.8,Riesgo medio,20.8,Riesgo medio,ND,ND
+13,BOLÍVAR,13760,SOPLAVIENTO,2023,27.5,Riesgo medio,27.5,Riesgo medio,ND,ND
+13,BOLÍVAR,13780,TALAIGUA NUEVO,2007,32.5,Riesgo medio,32.5,Riesgo medio,ND,ND
+13,BOLÍVAR,13780,TALAIGUA NUEVO,2008,58.8,Riesgo alto,62.3,Riesgo alto,22.2,Riesgo medio
+13,BOLÍVAR,13780,TALAIGUA NUEVO,2009,60.0,Riesgo alto,56.3,Riesgo alto,64.8,Riesgo alto
+13,BOLÍVAR,13780,TALAIGUA NUEVO,2010,38.9,Riesgo alto,38.9,Riesgo alto,ND,ND
+13,BOLÍVAR,13780,TALAIGUA NUEVO,2011,34.0,Riesgo medio,34.0,Riesgo medio,ND,ND
+13,BOLÍVAR,13780,TALAIGUA NUEVO,2012,21.8,Riesgo medio,21.8,Riesgo medio,ND,ND
+13,BOLÍVAR,13780,TALAIGUA NUEVO,2013,50.5,Riesgo alto,50.5,Riesgo alto,ND,ND
+13,BOLÍVAR,13780,TALAIGUA NUEVO,2014,48.4,Riesgo alto,48.4,Riesgo alto,ND,ND
+13,BOLÍVAR,13780,TALAIGUA NUEVO,2015,60.8,Riesgo alto,69.5,Riesgo alto,0.0,Sin riesgo
+13,BOLÍVAR,13780,TALAIGUA NUEVO,2016,26.0,Riesgo medio,36.3,Riesgo alto,ND,ND
+13,BOLÍVAR,13780,TALAIGUA NUEVO,2017,28.2,Riesgo medio,34.4,Riesgo medio,ND,ND
+13,BOLÍVAR,13780,TALAIGUA NUEVO,2018,13.4,Riesgo bajo,13.4,Riesgo bajo,ND,ND
+13,BOLÍVAR,13780,TALAIGUA NUEVO,2019,59.4,Riesgo alto,59.4,Riesgo alto,ND,ND
+13,BOLÍVAR,13780,TALAIGUA NUEVO,2020,12.5,Riesgo bajo,12.5,Riesgo bajo,ND,ND
+13,BOLÍVAR,13780,TALAIGUA NUEVO,2021,6.3,Riesgo bajo,6.3,Riesgo bajo,ND,ND
+13,BOLÍVAR,13780,TALAIGUA NUEVO,2022,8.5,Riesgo bajo,8.5,Riesgo bajo,ND,ND
+13,BOLÍVAR,13780,TALAIGUA NUEVO,2023,6.3,Riesgo bajo,6.3,Riesgo bajo,ND,ND
+13,BOLÍVAR,13810,TIQUISIO,2007,23.9,Riesgo medio,23.9,Riesgo medio,ND,ND
+13,BOLÍVAR,13810,TIQUISIO,2008,100.0,Inviable sanitariamente,100.0,Inviable sanitariamente,100.0,Inviable sanitariamente
+13,BOLÍVAR,13810,TIQUISIO,2009,71.6,Riesgo alto,68.1,Riesgo alto,74.5,Riesgo alto
+13,BOLÍVAR,13810,TIQUISIO,2010,72.9,Riesgo alto,74.8,Riesgo alto,48.2,Riesgo alto
+13,BOLÍVAR,13810,TIQUISIO,2011,75.1,Riesgo alto,75.1,Riesgo alto,75.0,Riesgo alto
+13,BOLÍVAR,13810,TIQUISIO,2012,63.4,Riesgo alto,63.8,Riesgo alto,62.5,Riesgo alto
+13,BOLÍVAR,13810,TIQUISIO,2013,71.3,Riesgo alto,72.5,Riesgo alto,67.5,Riesgo alto
+13,BOLÍVAR,13810,TIQUISIO,2014,88.0,Inviable sanitariamente,84.8,Inviable sanitariamente,100.0,Inviable sanitariamente
+13,BOLÍVAR,13810,TIQUISIO,2015,56.7,Riesgo alto,58.6,Riesgo alto,50.7,Riesgo alto
+13,BOLÍVAR,13810,TIQUISIO,2016,75.0,Riesgo alto,66.7,Riesgo alto,100.0,Inviable sanitariamente
+13,BOLÍVAR,13810,TIQUISIO,2017,68.9,Riesgo alto,50.0,Riesgo alto,ND,ND
+13,BOLÍVAR,13810,TIQUISIO,2018,60.3,Riesgo alto,60.3,Riesgo alto,ND,ND
+13,BOLÍVAR,13810,TIQUISIO,2019,69.8,Riesgo alto,69.8,Riesgo alto,ND,ND
+13,BOLÍVAR,13810,TIQUISIO,2020,67.4,Riesgo alto,67.4,Riesgo alto,ND,ND
+13,BOLÍVAR,13810,TIQUISIO,2021,72.7,Riesgo alto,72.7,Riesgo alto,ND,ND
+13,BOLÍVAR,13810,TIQUISIO,2022,72.6,Riesgo alto,72.6,Riesgo alto,ND,ND
+13,BOLÍVAR,13810,TIQUISIO,2023,67.0,Riesgo alto,67.0,Riesgo alto,ND,ND
+13,BOLÍVAR,13836,TURBACO,2007,10.9,Riesgo bajo,10.9,Riesgo bajo,ND,ND
+13,BOLÍVAR,13836,TURBACO,2008,14.1,Riesgo medio,6.3,Riesgo bajo,37.5,Riesgo alto
+13,BOLÍVAR,13836,TURBACO,2009,28.1,Riesgo medio,37.5,Riesgo alto,26.8,Riesgo medio
+13,BOLÍVAR,13836,TURBACO,2010,11.0,Riesgo bajo,11.7,Riesgo bajo,0.0,Sin riesgo
+13,BOLÍVAR,13836,TURBACO,2011,2.9,Sin riesgo,3.3,Sin riesgo,0.0,Sin riesgo
+13,BOLÍVAR,13836,TURBACO,2012,5.8,Riesgo bajo,6.4,Riesgo bajo,1.8,Sin riesgo
+13,BOLÍVAR,13836,TURBACO,2013,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo
+13,BOLÍVAR,13836,TURBACO,2014,2.1,Sin riesgo,2.3,Sin riesgo,1.4,Sin riesgo
+13,BOLÍVAR,13836,TURBACO,2015,20.4,Riesgo medio,23.3,Riesgo medio,0.0,Sin riesgo
+13,BOLÍVAR,13836,TURBACO,2016,7.5,Riesgo bajo,4.6,Sin riesgo,ND,ND
+13,BOLÍVAR,13836,TURBACO,2017,32.9,Riesgo medio,32.9,Riesgo medio,ND,ND
+13,BOLÍVAR,13836,TURBACO,2018,4.7,Sin riesgo,4.7,Sin riesgo,ND,ND
+13,BOLÍVAR,13836,TURBACO,2019,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13836,TURBACO,2020,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13836,TURBACO,2021,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13836,TURBACO,2022,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13836,TURBACO,2023,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13838,TURBANA,2007,12.0,Riesgo bajo,16.0,Riesgo medio,4.2,Sin riesgo
+13,BOLÍVAR,13838,TURBANA,2008,12.6,Riesgo bajo,14.8,Riesgo medio,5.6,Riesgo bajo
+13,BOLÍVAR,13838,TURBANA,2009,16.3,Riesgo medio,17.5,Riesgo medio,9.4,Riesgo bajo
+13,BOLÍVAR,13838,TURBANA,2010,35.0,Riesgo medio,35.0,Riesgo medio,ND,ND
+13,BOLÍVAR,13838,TURBANA,2011,6.9,Riesgo bajo,6.9,Riesgo bajo,ND,ND
+13,BOLÍVAR,13838,TURBANA,2012,12.0,Riesgo bajo,12.0,Riesgo bajo,ND,ND
+13,BOLÍVAR,13838,TURBANA,2013,30.4,Riesgo medio,30.4,Riesgo medio,ND,ND
+13,BOLÍVAR,13838,TURBANA,2014,5.1,Riesgo bajo,5.1,Riesgo bajo,ND,ND
+13,BOLÍVAR,13838,TURBANA,2015,46.9,Riesgo alto,46.9,Riesgo alto,ND,ND
+13,BOLÍVAR,13838,TURBANA,2016,43.6,Riesgo alto,37.3,Riesgo alto,100.0,Inviable sanitariamente
+13,BOLÍVAR,13838,TURBANA,2017,42.7,Riesgo alto,40.2,Riesgo alto,ND,ND
+13,BOLÍVAR,13838,TURBANA,2018,25.8,Riesgo medio,25.8,Riesgo medio,ND,ND
+13,BOLÍVAR,13838,TURBANA,2020,26.7,Riesgo medio,34.4,Riesgo medio,24.1,Riesgo medio
+13,BOLÍVAR,13838,TURBANA,2021,13.3,Riesgo bajo,17.2,Riesgo medio,12.0,Riesgo bajo
+13,BOLÍVAR,13838,TURBANA,2022,14.1,Riesgo medio,27.5,Riesgo medio,10.4,Riesgo bajo
+13,BOLÍVAR,13838,TURBANA,2023,17.8,Riesgo medio,29.2,Riesgo medio,14.4,Riesgo medio
+13,BOLÍVAR,13873,VILLANUEVA,2007,62.5,Riesgo alto,62.5,Riesgo alto,ND,ND
+13,BOLÍVAR,13873,VILLANUEVA,2008,59.2,Riesgo alto,59.6,Riesgo alto,50.0,Riesgo alto
+13,BOLÍVAR,13873,VILLANUEVA,2009,34.2,Riesgo medio,25.0,Riesgo medio,50.5,Riesgo alto
+13,BOLÍVAR,13873,VILLANUEVA,2010,32.1,Riesgo medio,35.1,Riesgo alto,23.5,Riesgo medio
+13,BOLÍVAR,13873,VILLANUEVA,2011,20.0,Riesgo medio,27.6,Riesgo medio,6.8,Riesgo bajo
+13,BOLÍVAR,13873,VILLANUEVA,2012,50.0,Riesgo alto,50.0,Riesgo alto,50.0,Riesgo alto
+13,BOLÍVAR,13873,VILLANUEVA,2013,33.9,Riesgo medio,29.9,Riesgo medio,51.8,Riesgo alto
+13,BOLÍVAR,13873,VILLANUEVA,2014,42.6,Riesgo alto,48.3,Riesgo alto,0.0,Sin riesgo
+13,BOLÍVAR,13873,VILLANUEVA,2015,44.9,Riesgo alto,48.6,Riesgo alto,24.5,Riesgo medio
+13,BOLÍVAR,13873,VILLANUEVA,2016,48.2,Riesgo alto,47.3,Riesgo alto,53.6,Riesgo alto
+13,BOLÍVAR,13873,VILLANUEVA,2017,55.1,Riesgo alto,47.2,Riesgo alto,53.6,Riesgo alto
+13,BOLÍVAR,13873,VILLANUEVA,2018,24.7,Riesgo medio,24.7,Riesgo medio,ND,ND
+13,BOLÍVAR,13873,VILLANUEVA,2019,26.6,Riesgo medio,26.6,Riesgo medio,ND,ND
+13,BOLÍVAR,13873,VILLANUEVA,2020,8.7,Riesgo bajo,7.5,Riesgo bajo,12.5,Riesgo bajo
+13,BOLÍVAR,13873,VILLANUEVA,2021,17.6,Riesgo medio,25.0,Riesgo medio,0.0,Sin riesgo
+13,BOLÍVAR,13873,VILLANUEVA,2022,14.7,Riesgo medio,23.8,Riesgo medio,7.7,Riesgo bajo
+13,BOLÍVAR,13873,VILLANUEVA,2023,8.7,Riesgo bajo,12.5,Riesgo bajo,5.4,Riesgo bajo
+13,BOLÍVAR,13894,ZAMBRANO,2007,3.9,Sin riesgo,3.9,Sin riesgo,ND,ND
+13,BOLÍVAR,13894,ZAMBRANO,2008,6.3,Riesgo bajo,6.3,Riesgo bajo,ND,ND
+13,BOLÍVAR,13894,ZAMBRANO,2009,10.1,Riesgo bajo,9.9,Riesgo bajo,11.0,Riesgo bajo
+13,BOLÍVAR,13894,ZAMBRANO,2010,11.5,Riesgo bajo,11.7,Riesgo bajo,10.3,Riesgo bajo
+13,BOLÍVAR,13894,ZAMBRANO,2011,10.7,Riesgo bajo,11.5,Riesgo bajo,6.3,Riesgo bajo
+13,BOLÍVAR,13894,ZAMBRANO,2012,7.2,Riesgo bajo,7.2,Riesgo bajo,ND,ND
+13,BOLÍVAR,13894,ZAMBRANO,2013,19.4,Riesgo medio,19.4,Riesgo medio,ND,ND
+13,BOLÍVAR,13894,ZAMBRANO,2014,34.8,Riesgo medio,34.8,Riesgo medio,ND,ND
+13,BOLÍVAR,13894,ZAMBRANO,2015,52.1,Riesgo alto,52.1,Riesgo alto,ND,ND
+13,BOLÍVAR,13894,ZAMBRANO,2016,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+13,BOLÍVAR,13894,ZAMBRANO,2017,34.0,Riesgo medio,21.1,Riesgo medio,ND,ND
+13,BOLÍVAR,13894,ZAMBRANO,2018,14.4,Riesgo medio,14.4,Riesgo medio,ND,ND
+13,BOLÍVAR,13894,ZAMBRANO,2019,18.8,Riesgo medio,18.8,Riesgo medio,ND,ND
+13,BOLÍVAR,13894,ZAMBRANO,2020,32.5,Riesgo medio,32.5,Riesgo medio,ND,ND
+13,BOLÍVAR,13894,ZAMBRANO,2021,20.0,Riesgo medio,20.0,Riesgo medio,ND,ND
+13,BOLÍVAR,13894,ZAMBRANO,2022,18.8,Riesgo medio,18.8,Riesgo medio,18.8,Riesgo medio
+13,BOLÍVAR,13894,ZAMBRANO,2023,12.5,Riesgo bajo,8.3,Riesgo bajo,45.8,Riesgo alto
+20,CESAR,20001,VALLEDUPAR,2007,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20001,VALLEDUPAR,2008,27.9,Riesgo medio,27.9,Riesgo medio,ND,ND
+20,CESAR,20001,VALLEDUPAR,2009,2.1,Sin riesgo,2.1,Sin riesgo,ND,ND
+20,CESAR,20001,VALLEDUPAR,2010,0.6,Sin riesgo,0.6,Sin riesgo,ND,ND
+20,CESAR,20001,VALLEDUPAR,2011,8.5,Riesgo bajo,8.5,Riesgo bajo,ND,ND
+20,CESAR,20001,VALLEDUPAR,2012,7.1,Riesgo bajo,7.1,Riesgo bajo,ND,ND
+20,CESAR,20001,VALLEDUPAR,2013,0.4,Sin riesgo,0.4,Sin riesgo,ND,ND
+20,CESAR,20001,VALLEDUPAR,2014,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20001,VALLEDUPAR,2015,0.7,Sin riesgo,0.7,Sin riesgo,ND,ND
+20,CESAR,20001,VALLEDUPAR,2016,0.6,Sin riesgo,0.6,Sin riesgo,ND,ND
+20,CESAR,20001,VALLEDUPAR,2017,0.7,Sin riesgo,0.7,Sin riesgo,ND,ND
+20,CESAR,20001,VALLEDUPAR,2018,0.4,Sin riesgo,0.4,Sin riesgo,ND,ND
+20,CESAR,20001,VALLEDUPAR,2019,1.0,Sin riesgo,1.0,Sin riesgo,ND,ND
+20,CESAR,20001,VALLEDUPAR,2020,2.7,Sin riesgo,2.7,Sin riesgo,ND,ND
+20,CESAR,20001,VALLEDUPAR,2021,3.4,Sin riesgo,3.4,Sin riesgo,ND,ND
+20,CESAR,20001,VALLEDUPAR,2022,0.1,Sin riesgo,0.1,Sin riesgo,ND,ND
+20,CESAR,20001,VALLEDUPAR,2023,0.6,Sin riesgo,0.6,Sin riesgo,ND,ND
+20,CESAR,20011,AGUACHICA,2007,18.1,Riesgo medio,18.1,Riesgo medio,ND,ND
+20,CESAR,20011,AGUACHICA,2008,11.8,Riesgo bajo,11.8,Riesgo bajo,ND,ND
+20,CESAR,20011,AGUACHICA,2009,4.6,Sin riesgo,4.6,Sin riesgo,ND,ND
+20,CESAR,20011,AGUACHICA,2010,4.2,Sin riesgo,4.2,Sin riesgo,ND,ND
+20,CESAR,20011,AGUACHICA,2011,1.7,Sin riesgo,0.6,Sin riesgo,65.9,Riesgo alto
+20,CESAR,20011,AGUACHICA,2012,3.2,Sin riesgo,3.2,Sin riesgo,ND,ND
+20,CESAR,20011,AGUACHICA,2013,0.9,Sin riesgo,0.9,Sin riesgo,ND,ND
+20,CESAR,20011,AGUACHICA,2014,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20011,AGUACHICA,2015,0.9,Sin riesgo,0.9,Sin riesgo,ND,ND
+20,CESAR,20011,AGUACHICA,2016,0.5,Sin riesgo,0.5,Sin riesgo,ND,ND
+20,CESAR,20011,AGUACHICA,2017,0.4,Sin riesgo,0.4,Sin riesgo,ND,ND
+20,CESAR,20011,AGUACHICA,2018,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20011,AGUACHICA,2019,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20011,AGUACHICA,2020,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20011,AGUACHICA,2021,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20011,AGUACHICA,2022,0.2,Sin riesgo,0.2,Sin riesgo,ND,ND
+20,CESAR,20011,AGUACHICA,2023,1.0,Sin riesgo,1.0,Sin riesgo,ND,ND
+20,CESAR,20013,AGUSTÍN CODAZZI,2007,19.2,Riesgo medio,19.2,Riesgo medio,ND,ND
+20,CESAR,20013,AGUSTÍN CODAZZI,2008,13.9,Riesgo bajo,13.9,Riesgo bajo,ND,ND
+20,CESAR,20013,AGUSTÍN CODAZZI,2009,9.7,Riesgo bajo,9.7,Riesgo bajo,ND,ND
+20,CESAR,20013,AGUSTÍN CODAZZI,2010,6.9,Riesgo bajo,6.9,Riesgo bajo,ND,ND
+20,CESAR,20013,AGUSTÍN CODAZZI,2011,5.1,Riesgo bajo,5.1,Riesgo bajo,ND,ND
+20,CESAR,20013,AGUSTÍN CODAZZI,2012,2.2,Sin riesgo,2.2,Sin riesgo,ND,ND
+20,CESAR,20013,AGUSTÍN CODAZZI,2013,5.4,Riesgo bajo,5.4,Riesgo bajo,ND,ND
+20,CESAR,20013,AGUSTÍN CODAZZI,2014,0.1,Sin riesgo,0.1,Sin riesgo,ND,ND
+20,CESAR,20013,AGUSTÍN CODAZZI,2015,5.9,Riesgo bajo,5.9,Riesgo bajo,ND,ND
+20,CESAR,20013,AGUSTÍN CODAZZI,2016,5.2,Riesgo bajo,5.2,Riesgo bajo,ND,ND
+20,CESAR,20013,AGUSTÍN CODAZZI,2017,6.8,Riesgo bajo,6.8,Riesgo bajo,ND,ND
+20,CESAR,20013,AGUSTÍN CODAZZI,2018,4.1,Sin riesgo,4.1,Sin riesgo,ND,ND
+20,CESAR,20013,AGUSTÍN CODAZZI,2019,6.8,Riesgo bajo,6.8,Riesgo bajo,ND,ND
+20,CESAR,20013,AGUSTÍN CODAZZI,2020,8.7,Riesgo bajo,8.7,Riesgo bajo,ND,ND
+20,CESAR,20013,AGUSTÍN CODAZZI,2021,2.4,Sin riesgo,2.4,Sin riesgo,ND,ND
+20,CESAR,20013,AGUSTÍN CODAZZI,2022,2.1,Sin riesgo,2.1,Sin riesgo,ND,ND
+20,CESAR,20013,AGUSTÍN CODAZZI,2023,3.0,Sin riesgo,3.0,Sin riesgo,ND,ND
+20,CESAR,20032,ASTREA,2007,96.3,Inviable sanitariamente,96.3,Inviable sanitariamente,ND,ND
+20,CESAR,20032,ASTREA,2008,98.3,Inviable sanitariamente,98.3,Inviable sanitariamente,ND,ND
+20,CESAR,20032,ASTREA,2009,65.1,Riesgo alto,65.1,Riesgo alto,ND,ND
+20,CESAR,20032,ASTREA,2010,63.3,Riesgo alto,63.3,Riesgo alto,ND,ND
+20,CESAR,20032,ASTREA,2011,59.3,Riesgo alto,59.3,Riesgo alto,ND,ND
+20,CESAR,20032,ASTREA,2012,44.2,Riesgo alto,44.2,Riesgo alto,ND,ND
+20,CESAR,20032,ASTREA,2013,31.1,Riesgo medio,31.1,Riesgo medio,ND,ND
+20,CESAR,20032,ASTREA,2014,44.3,Riesgo alto,44.3,Riesgo alto,ND,ND
+20,CESAR,20032,ASTREA,2015,40.5,Riesgo alto,40.5,Riesgo alto,ND,ND
+20,CESAR,20032,ASTREA,2016,65.3,Riesgo alto,65.3,Riesgo alto,ND,ND
+20,CESAR,20032,ASTREA,2017,77.6,Riesgo alto,77.6,Riesgo alto,ND,ND
+20,CESAR,20032,ASTREA,2018,26.3,Riesgo medio,26.3,Riesgo medio,ND,ND
+20,CESAR,20032,ASTREA,2019,54.3,Riesgo alto,54.3,Riesgo alto,ND,ND
+20,CESAR,20032,ASTREA,2020,56.1,Riesgo alto,56.1,Riesgo alto,ND,ND
+20,CESAR,20032,ASTREA,2021,47.5,Riesgo alto,45.7,Riesgo alto,67.5,Riesgo alto
+20,CESAR,20032,ASTREA,2022,56.4,Riesgo alto,56.4,Riesgo alto,ND,ND
+20,CESAR,20032,ASTREA,2023,62.2,Riesgo alto,62.2,Riesgo alto,ND,ND
+20,CESAR,20045,BECERRIL,2008,10.6,Riesgo bajo,10.6,Riesgo bajo,ND,ND
+20,CESAR,20045,BECERRIL,2009,21.8,Riesgo medio,21.8,Riesgo medio,ND,ND
+20,CESAR,20045,BECERRIL,2010,30.6,Riesgo medio,32.3,Riesgo medio,16.7,Riesgo medio
+20,CESAR,20045,BECERRIL,2011,14.9,Riesgo medio,13.6,Riesgo bajo,18.8,Riesgo medio
+20,CESAR,20045,BECERRIL,2012,17.8,Riesgo medio,17.8,Riesgo medio,17.6,Riesgo medio
+20,CESAR,20045,BECERRIL,2013,8.8,Riesgo bajo,8.4,Riesgo bajo,10.2,Riesgo bajo
+20,CESAR,20045,BECERRIL,2014,38.0,Riesgo alto,47.6,Riesgo alto,0.0,Sin riesgo
+20,CESAR,20045,BECERRIL,2015,29.9,Riesgo medio,28.2,Riesgo medio,32.2,Riesgo medio
+20,CESAR,20045,BECERRIL,2016,49.0,Riesgo alto,46.0,Riesgo alto,61.2,Riesgo alto
+20,CESAR,20045,BECERRIL,2017,6.9,Riesgo bajo,0.0,Sin riesgo,0.0,Sin riesgo
+20,CESAR,20045,BECERRIL,2018,16.9,Riesgo medio,15.7,Riesgo medio,18.4,Riesgo medio
+20,CESAR,20045,BECERRIL,2019,30.6,Riesgo medio,29.2,Riesgo medio,33.0,Riesgo medio
+20,CESAR,20045,BECERRIL,2020,13.9,Riesgo bajo,14.2,Riesgo medio,13.5,Riesgo bajo
+20,CESAR,20045,BECERRIL,2021,4.4,Sin riesgo,4.8,Sin riesgo,3.7,Sin riesgo
+20,CESAR,20045,BECERRIL,2022,33.0,Riesgo medio,28.4,Riesgo medio,43.1,Riesgo alto
+20,CESAR,20045,BECERRIL,2023,23.9,Riesgo medio,22.7,Riesgo medio,27.7,Riesgo medio
+20,CESAR,20060,BOSCONIA,2007,60.6,Riesgo alto,60.6,Riesgo alto,ND,ND
+20,CESAR,20060,BOSCONIA,2008,50.9,Riesgo alto,50.9,Riesgo alto,ND,ND
+20,CESAR,20060,BOSCONIA,2009,54.3,Riesgo alto,54.3,Riesgo alto,ND,ND
+20,CESAR,20060,BOSCONIA,2010,45.5,Riesgo alto,45.5,Riesgo alto,ND,ND
+20,CESAR,20060,BOSCONIA,2011,51.0,Riesgo alto,51.0,Riesgo alto,ND,ND
+20,CESAR,20060,BOSCONIA,2012,52.7,Riesgo alto,52.7,Riesgo alto,ND,ND
+20,CESAR,20060,BOSCONIA,2013,56.1,Riesgo alto,56.1,Riesgo alto,ND,ND
+20,CESAR,20060,BOSCONIA,2014,51.8,Riesgo alto,51.8,Riesgo alto,ND,ND
+20,CESAR,20060,BOSCONIA,2015,46.0,Riesgo alto,46.0,Riesgo alto,ND,ND
+20,CESAR,20060,BOSCONIA,2016,57.0,Riesgo alto,57.0,Riesgo alto,ND,ND
+20,CESAR,20060,BOSCONIA,2017,64.7,Riesgo alto,64.7,Riesgo alto,ND,ND
+20,CESAR,20060,BOSCONIA,2018,65.3,Riesgo alto,65.3,Riesgo alto,ND,ND
+20,CESAR,20060,BOSCONIA,2019,65.2,Riesgo alto,65.2,Riesgo alto,ND,ND
+20,CESAR,20060,BOSCONIA,2020,76.6,Riesgo alto,76.6,Riesgo alto,ND,ND
+20,CESAR,20060,BOSCONIA,2021,66.3,Riesgo alto,66.3,Riesgo alto,ND,ND
+20,CESAR,20060,BOSCONIA,2022,77.1,Riesgo alto,77.1,Riesgo alto,ND,ND
+20,CESAR,20060,BOSCONIA,2023,56.8,Riesgo alto,56.8,Riesgo alto,ND,ND
+20,CESAR,20175,CHIMICHAGUA,2008,89.6,Inviable sanitariamente,89.6,Inviable sanitariamente,ND,ND
+20,CESAR,20175,CHIMICHAGUA,2010,63.2,Riesgo alto,63.2,Riesgo alto,ND,ND
+20,CESAR,20175,CHIMICHAGUA,2011,65.0,Riesgo alto,65.0,Riesgo alto,ND,ND
+20,CESAR,20175,CHIMICHAGUA,2012,60.3,Riesgo alto,60.3,Riesgo alto,ND,ND
+20,CESAR,20175,CHIMICHAGUA,2013,46.7,Riesgo alto,46.7,Riesgo alto,ND,ND
+20,CESAR,20175,CHIMICHAGUA,2014,48.8,Riesgo alto,48.8,Riesgo alto,ND,ND
+20,CESAR,20175,CHIMICHAGUA,2015,0.5,Sin riesgo,0.5,Sin riesgo,ND,ND
+20,CESAR,20175,CHIMICHAGUA,2016,47.6,Riesgo alto,52.5,Riesgo alto,ND,ND
+20,CESAR,20175,CHIMICHAGUA,2017,44.0,Riesgo alto,45.4,Riesgo alto,ND,ND
+20,CESAR,20175,CHIMICHAGUA,2018,1.1,Sin riesgo,1.1,Sin riesgo,ND,ND
+20,CESAR,20175,CHIMICHAGUA,2019,3.0,Sin riesgo,3.0,Sin riesgo,ND,ND
+20,CESAR,20175,CHIMICHAGUA,2020,19.6,Riesgo medio,19.6,Riesgo medio,ND,ND
+20,CESAR,20175,CHIMICHAGUA,2021,24.4,Riesgo medio,23.5,Riesgo medio,38.7,Riesgo alto
+20,CESAR,20175,CHIMICHAGUA,2022,35.8,Riesgo alto,29.7,Riesgo medio,85.0,Inviable sanitariamente
+20,CESAR,20175,CHIMICHAGUA,2023,40.2,Riesgo alto,40.2,Riesgo alto,ND,ND
+20,CESAR,20178,CHIRIGUANÁ,2007,35.4,Riesgo alto,35.4,Riesgo alto,ND,ND
+20,CESAR,20178,CHIRIGUANÁ,2008,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20178,CHIRIGUANÁ,2009,36.0,Riesgo alto,36.0,Riesgo alto,ND,ND
+20,CESAR,20178,CHIRIGUANÁ,2010,34.8,Riesgo medio,34.8,Riesgo medio,ND,ND
+20,CESAR,20178,CHIRIGUANÁ,2011,63.0,Riesgo alto,63.0,Riesgo alto,ND,ND
+20,CESAR,20178,CHIRIGUANÁ,2012,47.6,Riesgo alto,47.6,Riesgo alto,ND,ND
+20,CESAR,20178,CHIRIGUANÁ,2013,44.4,Riesgo alto,44.4,Riesgo alto,ND,ND
+20,CESAR,20178,CHIRIGUANÁ,2014,68.4,Riesgo alto,68.4,Riesgo alto,ND,ND
+20,CESAR,20178,CHIRIGUANÁ,2015,43.1,Riesgo alto,43.1,Riesgo alto,ND,ND
+20,CESAR,20178,CHIRIGUANÁ,2016,56.1,Riesgo alto,56.1,Riesgo alto,ND,ND
+20,CESAR,20178,CHIRIGUANÁ,2017,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20178,CHIRIGUANÁ,2018,1.9,Sin riesgo,1.9,Sin riesgo,ND,ND
+20,CESAR,20178,CHIRIGUANÁ,2019,60.7,Riesgo alto,60.7,Riesgo alto,ND,ND
+20,CESAR,20178,CHIRIGUANÁ,2020,56.4,Riesgo alto,56.4,Riesgo alto,ND,ND
+20,CESAR,20178,CHIRIGUANÁ,2021,29.7,Riesgo medio,29.7,Riesgo medio,ND,ND
+20,CESAR,20178,CHIRIGUANÁ,2022,67.0,Riesgo alto,67.0,Riesgo alto,ND,ND
+20,CESAR,20178,CHIRIGUANÁ,2023,32.0,Riesgo medio,32.0,Riesgo medio,ND,ND
+20,CESAR,20228,CURUMANÍ,2007,23.2,Riesgo medio,23.2,Riesgo medio,ND,ND
+20,CESAR,20228,CURUMANÍ,2008,25.3,Riesgo medio,25.3,Riesgo medio,ND,ND
+20,CESAR,20228,CURUMANÍ,2009,11.5,Riesgo bajo,11.5,Riesgo bajo,ND,ND
+20,CESAR,20228,CURUMANÍ,2010,0.6,Sin riesgo,0.6,Sin riesgo,ND,ND
+20,CESAR,20228,CURUMANÍ,2011,0.1,Sin riesgo,0.1,Sin riesgo,ND,ND
+20,CESAR,20228,CURUMANÍ,2012,0.8,Sin riesgo,0.8,Sin riesgo,ND,ND
+20,CESAR,20228,CURUMANÍ,2013,1.5,Sin riesgo,1.5,Sin riesgo,ND,ND
+20,CESAR,20228,CURUMANÍ,2014,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20228,CURUMANÍ,2015,0.9,Sin riesgo,0.9,Sin riesgo,ND,ND
+20,CESAR,20228,CURUMANÍ,2016,1.8,Sin riesgo,1.8,Sin riesgo,ND,ND
+20,CESAR,20228,CURUMANÍ,2017,0.4,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20228,CURUMANÍ,2018,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20228,CURUMANÍ,2019,2.7,Sin riesgo,2.7,Sin riesgo,ND,ND
+20,CESAR,20228,CURUMANÍ,2020,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20228,CURUMANÍ,2021,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20228,CURUMANÍ,2022,3.9,Sin riesgo,3.9,Sin riesgo,ND,ND
+20,CESAR,20228,CURUMANÍ,2023,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20238,EL COPEY,2007,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20238,EL COPEY,2008,10.4,Riesgo bajo,10.4,Riesgo bajo,ND,ND
+20,CESAR,20238,EL COPEY,2009,5.4,Riesgo bajo,5.4,Riesgo bajo,ND,ND
+20,CESAR,20238,EL COPEY,2010,1.2,Sin riesgo,1.2,Sin riesgo,ND,ND
+20,CESAR,20238,EL COPEY,2011,10.1,Riesgo bajo,10.1,Riesgo bajo,ND,ND
+20,CESAR,20238,EL COPEY,2012,0.5,Sin riesgo,0.5,Sin riesgo,ND,ND
+20,CESAR,20238,EL COPEY,2013,0.1,Sin riesgo,0.1,Sin riesgo,ND,ND
+20,CESAR,20238,EL COPEY,2014,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20238,EL COPEY,2015,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20238,EL COPEY,2016,0.2,Sin riesgo,0.2,Sin riesgo,ND,ND
+20,CESAR,20238,EL COPEY,2017,1.1,Sin riesgo,1.1,Sin riesgo,ND,ND
+20,CESAR,20238,EL COPEY,2018,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20238,EL COPEY,2019,0.1,Sin riesgo,0.1,Sin riesgo,ND,ND
+20,CESAR,20238,EL COPEY,2020,5.1,Riesgo bajo,5.1,Riesgo bajo,ND,ND
+20,CESAR,20238,EL COPEY,2021,6.5,Riesgo bajo,6.5,Riesgo bajo,ND,ND
+20,CESAR,20238,EL COPEY,2022,1.3,Sin riesgo,1.3,Sin riesgo,ND,ND
+20,CESAR,20238,EL COPEY,2023,20.1,Riesgo medio,20.1,Riesgo medio,ND,ND
+20,CESAR,20250,EL PASO,2007,68.8,Riesgo alto,68.8,Riesgo alto,ND,ND
+20,CESAR,20250,EL PASO,2008,57.2,Riesgo alto,57.2,Riesgo alto,ND,ND
+20,CESAR,20250,EL PASO,2009,39.1,Riesgo alto,39.1,Riesgo alto,ND,ND
+20,CESAR,20250,EL PASO,2010,37.2,Riesgo alto,37.7,Riesgo alto,35.4,Riesgo alto
+20,CESAR,20250,EL PASO,2011,46.8,Riesgo alto,47.5,Riesgo alto,35.3,Riesgo alto
+20,CESAR,20250,EL PASO,2012,39.0,Riesgo alto,37.4,Riesgo alto,42.7,Riesgo alto
+20,CESAR,20250,EL PASO,2013,38.5,Riesgo alto,40.8,Riesgo alto,31.7,Riesgo medio
+20,CESAR,20250,EL PASO,2014,73.6,Riesgo alto,73.6,Riesgo alto,ND,ND
+20,CESAR,20250,EL PASO,2015,50.5,Riesgo alto,44.0,Riesgo alto,63.4,Riesgo alto
+20,CESAR,20250,EL PASO,2016,80.0,Riesgo alto,81.9,Inviable sanitariamente,62.5,Riesgo alto
+20,CESAR,20250,EL PASO,2017,64.0,Riesgo alto,63.7,Riesgo alto,66.3,Riesgo alto
+20,CESAR,20250,EL PASO,2018,73.8,Riesgo alto,70.6,Riesgo alto,100.0,Inviable sanitariamente
+20,CESAR,20250,EL PASO,2019,53.1,Riesgo alto,53.5,Riesgo alto,52.0,Riesgo alto
+20,CESAR,20250,EL PASO,2020,58.7,Riesgo alto,58.7,Riesgo alto,ND,ND
+20,CESAR,20250,EL PASO,2021,47.7,Riesgo alto,47.4,Riesgo alto,48.9,Riesgo alto
+20,CESAR,20250,EL PASO,2022,56.0,Riesgo alto,56.0,Riesgo alto,ND,ND
+20,CESAR,20250,EL PASO,2023,38.3,Riesgo alto,38.3,Riesgo alto,ND,ND
+20,CESAR,20295,GAMARRA,2007,44.6,Riesgo alto,44.6,Riesgo alto,ND,ND
+20,CESAR,20295,GAMARRA,2008,42.0,Riesgo alto,42.1,Riesgo alto,38.8,Riesgo alto
+20,CESAR,20295,GAMARRA,2009,30.1,Riesgo medio,30.1,Riesgo medio,ND,ND
+20,CESAR,20295,GAMARRA,2010,46.5,Riesgo alto,46.5,Riesgo alto,ND,ND
+20,CESAR,20295,GAMARRA,2011,39.1,Riesgo alto,39.2,Riesgo alto,38.9,Riesgo alto
+20,CESAR,20295,GAMARRA,2012,32.1,Riesgo medio,35.3,Riesgo alto,0.0,Sin riesgo
+20,CESAR,20295,GAMARRA,2013,19.7,Riesgo medio,21.6,Riesgo medio,16.7,Riesgo medio
+20,CESAR,20295,GAMARRA,2014,20.5,Riesgo medio,20.5,Riesgo medio,ND,ND
+20,CESAR,20295,GAMARRA,2015,25.0,Riesgo medio,29.2,Riesgo medio,27.5,Riesgo medio
+20,CESAR,20295,GAMARRA,2016,24.7,Riesgo medio,ND,ND,ND,ND
+20,CESAR,20295,GAMARRA,2017,15.6,Riesgo medio,82.4,Inviable sanitariamente,0.0,Sin riesgo
+20,CESAR,20295,GAMARRA,2018,6.9,Riesgo bajo,6.9,Riesgo bajo,7.1,Riesgo bajo
+20,CESAR,20295,GAMARRA,2019,21.4,Riesgo medio,26.4,Riesgo medio,6.1,Riesgo bajo
+20,CESAR,20295,GAMARRA,2020,89.2,Inviable sanitariamente,83.7,Inviable sanitariamente,100.0,Inviable sanitariamente
+20,CESAR,20295,GAMARRA,2021,15.8,Riesgo medio,20.3,Riesgo medio,0.0,Sin riesgo
+20,CESAR,20295,GAMARRA,2022,22.3,Riesgo medio,19.6,Riesgo medio,27.6,Riesgo medio
+20,CESAR,20295,GAMARRA,2023,17.8,Riesgo medio,14.8,Riesgo medio,22.2,Riesgo medio
+20,CESAR,20310,GONZÁLEZ,2008,78.3,Riesgo alto,78.3,Riesgo alto,ND,ND
+20,CESAR,20310,GONZÁLEZ,2009,76.7,Riesgo alto,76.7,Riesgo alto,ND,ND
+20,CESAR,20310,GONZÁLEZ,2010,83.1,Inviable sanitariamente,83.1,Inviable sanitariamente,ND,ND
+20,CESAR,20310,GONZÁLEZ,2011,73.4,Riesgo alto,73.4,Riesgo alto,ND,ND
+20,CESAR,20310,GONZÁLEZ,2012,64.5,Riesgo alto,64.5,Riesgo alto,ND,ND
+20,CESAR,20310,GONZÁLEZ,2013,68.4,Riesgo alto,68.4,Riesgo alto,ND,ND
+20,CESAR,20310,GONZÁLEZ,2014,65.1,Riesgo alto,65.1,Riesgo alto,ND,ND
+20,CESAR,20310,GONZÁLEZ,2015,75.5,Riesgo alto,75.5,Riesgo alto,ND,ND
+20,CESAR,20310,GONZÁLEZ,2016,77.9,Riesgo alto,77.9,Riesgo alto,ND,ND
+20,CESAR,20310,GONZÁLEZ,2017,80.8,Inviable sanitariamente,80.0,Riesgo alto,ND,ND
+20,CESAR,20310,GONZÁLEZ,2018,84.5,Inviable sanitariamente,84.5,Inviable sanitariamente,ND,ND
+20,CESAR,20310,GONZÁLEZ,2019,37.1,Riesgo alto,37.1,Riesgo alto,ND,ND
+20,CESAR,20310,GONZÁLEZ,2020,2.6,Sin riesgo,2.6,Sin riesgo,ND,ND
+20,CESAR,20310,GONZÁLEZ,2021,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20310,GONZÁLEZ,2022,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20310,GONZÁLEZ,2023,11.1,Riesgo bajo,11.1,Riesgo bajo,ND,ND
+20,CESAR,20383,LA GLORIA,2009,69.0,Riesgo alto,80.8,Inviable sanitariamente,45.6,Riesgo alto
+20,CESAR,20383,LA GLORIA,2010,59.0,Riesgo alto,68.1,Riesgo alto,31.7,Riesgo medio
+20,CESAR,20383,LA GLORIA,2011,50.2,Riesgo alto,48.9,Riesgo alto,68.8,Riesgo alto
+20,CESAR,20383,LA GLORIA,2012,52.1,Riesgo alto,50.2,Riesgo alto,60.4,Riesgo alto
+20,CESAR,20383,LA GLORIA,2013,44.9,Riesgo alto,44.9,Riesgo alto,ND,ND
+20,CESAR,20383,LA GLORIA,2014,19.0,Riesgo medio,19.0,Riesgo medio,ND,ND
+20,CESAR,20383,LA GLORIA,2015,58.2,Riesgo alto,58.2,Riesgo alto,ND,ND
+20,CESAR,20383,LA GLORIA,2016,36.0,Riesgo alto,36.0,Riesgo alto,ND,ND
+20,CESAR,20383,LA GLORIA,2017,5.5,Riesgo bajo,5.5,Riesgo bajo,ND,ND
+20,CESAR,20383,LA GLORIA,2018,8.0,Riesgo bajo,8.0,Riesgo bajo,ND,ND
+20,CESAR,20383,LA GLORIA,2019,7.3,Riesgo bajo,7.3,Riesgo bajo,ND,ND
+20,CESAR,20383,LA GLORIA,2020,23.8,Riesgo medio,23.8,Riesgo medio,ND,ND
+20,CESAR,20383,LA GLORIA,2021,12.3,Riesgo bajo,12.3,Riesgo bajo,ND,ND
+20,CESAR,20383,LA GLORIA,2022,33.2,Riesgo medio,33.2,Riesgo medio,ND,ND
+20,CESAR,20383,LA GLORIA,2023,18.1,Riesgo medio,18.1,Riesgo medio,ND,ND
+20,CESAR,20400,LA JAGUA DE IBIRICO,2007,100.0,Inviable sanitariamente,100.0,Inviable sanitariamente,ND,ND
+20,CESAR,20400,LA JAGUA DE IBIRICO,2008,72.6,Riesgo alto,72.6,Riesgo alto,ND,ND
+20,CESAR,20400,LA JAGUA DE IBIRICO,2009,52.2,Riesgo alto,52.2,Riesgo alto,ND,ND
+20,CESAR,20400,LA JAGUA DE IBIRICO,2010,72.4,Riesgo alto,72.4,Riesgo alto,ND,ND
+20,CESAR,20400,LA JAGUA DE IBIRICO,2011,77.9,Riesgo alto,77.9,Riesgo alto,ND,ND
+20,CESAR,20400,LA JAGUA DE IBIRICO,2012,68.7,Riesgo alto,68.7,Riesgo alto,ND,ND
+20,CESAR,20400,LA JAGUA DE IBIRICO,2013,31.6,Riesgo medio,30.1,Riesgo medio,63.2,Riesgo alto
+20,CESAR,20400,LA JAGUA DE IBIRICO,2014,53.4,Riesgo alto,53.3,Riesgo alto,53.6,Riesgo alto
+20,CESAR,20400,LA JAGUA DE IBIRICO,2015,8.3,Riesgo bajo,ND,ND,37.5,Riesgo alto
+20,CESAR,20400,LA JAGUA DE IBIRICO,2016,9.0,Riesgo bajo,9.4,Riesgo bajo,6.3,Riesgo bajo
+20,CESAR,20400,LA JAGUA DE IBIRICO,2017,3.2,Sin riesgo,6.9,Riesgo bajo,0.0,Sin riesgo
+20,CESAR,20400,LA JAGUA DE IBIRICO,2018,8.3,Riesgo bajo,8.3,Riesgo bajo,ND,ND
+20,CESAR,20400,LA JAGUA DE IBIRICO,2019,8.4,Riesgo bajo,8.4,Riesgo bajo,ND,ND
+20,CESAR,20400,LA JAGUA DE IBIRICO,2020,3.1,Sin riesgo,3.1,Sin riesgo,ND,ND
+20,CESAR,20400,LA JAGUA DE IBIRICO,2021,0.7,Sin riesgo,0.7,Sin riesgo,ND,ND
+20,CESAR,20400,LA JAGUA DE IBIRICO,2022,1.1,Sin riesgo,1.1,Sin riesgo,ND,ND
+20,CESAR,20400,LA JAGUA DE IBIRICO,2023,7.4,Riesgo bajo,7.4,Riesgo bajo,ND,ND
+20,CESAR,20443,MANAURE BALCÓN DEL CESAR,2007,37.5,Riesgo alto,37.5,Riesgo alto,ND,ND
+20,CESAR,20443,MANAURE BALCÓN DEL CESAR,2008,32.3,Riesgo medio,32.3,Riesgo medio,ND,ND
+20,CESAR,20443,MANAURE BALCÓN DEL CESAR,2009,28.1,Riesgo medio,28.1,Riesgo medio,ND,ND
+20,CESAR,20443,MANAURE BALCÓN DEL CESAR,2010,28.4,Riesgo medio,28.4,Riesgo medio,ND,ND
+20,CESAR,20443,MANAURE BALCÓN DEL CESAR,2011,29.3,Riesgo medio,29.3,Riesgo medio,ND,ND
+20,CESAR,20443,MANAURE BALCÓN DEL CESAR,2012,39.6,Riesgo alto,39.6,Riesgo alto,ND,ND
+20,CESAR,20443,MANAURE BALCÓN DEL CESAR,2013,3.9,Sin riesgo,3.9,Sin riesgo,ND,ND
+20,CESAR,20443,MANAURE BALCÓN DEL CESAR,2014,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20443,MANAURE BALCÓN DEL CESAR,2015,12.4,Riesgo bajo,12.4,Riesgo bajo,ND,ND
+20,CESAR,20443,MANAURE BALCÓN DEL CESAR,2016,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20443,MANAURE BALCÓN DEL CESAR,2017,27.0,Riesgo medio,27.0,Riesgo medio,ND,ND
+20,CESAR,20443,MANAURE BALCÓN DEL CESAR,2018,92.1,Inviable sanitariamente,92.1,Inviable sanitariamente,ND,ND
+20,CESAR,20443,MANAURE BALCÓN DEL CESAR,2019,44.4,Riesgo alto,44.4,Riesgo alto,ND,ND
+20,CESAR,20443,MANAURE BALCÓN DEL CESAR,2020,51.9,Riesgo alto,51.9,Riesgo alto,ND,ND
+20,CESAR,20443,MANAURE BALCÓN DEL CESAR,2021,47.2,Riesgo alto,47.2,Riesgo alto,ND,ND
+20,CESAR,20443,MANAURE BALCÓN DEL CESAR,2022,19.2,Riesgo medio,19.2,Riesgo medio,ND,ND
+20,CESAR,20443,MANAURE BALCÓN DEL CESAR,2023,30.1,Riesgo medio,30.1,Riesgo medio,ND,ND
+20,CESAR,20517,PAILITAS,2007,95.2,Inviable sanitariamente,95.2,Inviable sanitariamente,ND,ND
+20,CESAR,20517,PAILITAS,2008,72.1,Riesgo alto,72.1,Riesgo alto,ND,ND
+20,CESAR,20517,PAILITAS,2009,68.6,Riesgo alto,68.6,Riesgo alto,ND,ND
+20,CESAR,20517,PAILITAS,2010,76.3,Riesgo alto,76.1,Riesgo alto,ND,ND
+20,CESAR,20517,PAILITAS,2011,77.7,Riesgo alto,ND,ND,ND,ND
+20,CESAR,20517,PAILITAS,2012,78.3,Riesgo alto,72.8,Riesgo alto,ND,ND
+20,CESAR,20517,PAILITAS,2013,70.4,Riesgo alto,87.9,Inviable sanitariamente,ND,ND
+20,CESAR,20517,PAILITAS,2014,65.6,Riesgo alto,63.4,Riesgo alto,ND,ND
+20,CESAR,20517,PAILITAS,2015,58.3,Riesgo alto,65.8,Riesgo alto,ND,ND
+20,CESAR,20517,PAILITAS,2016,84.8,Inviable sanitariamente,ND,ND,ND,ND
+20,CESAR,20517,PAILITAS,2017,78.3,Riesgo alto,65.5,Riesgo alto,ND,ND
+20,CESAR,20517,PAILITAS,2018,1.1,Sin riesgo,1.1,Sin riesgo,ND,ND
+20,CESAR,20517,PAILITAS,2019,4.9,Sin riesgo,4.9,Sin riesgo,ND,ND
+20,CESAR,20517,PAILITAS,2020,9.3,Riesgo bajo,9.3,Riesgo bajo,ND,ND
+20,CESAR,20517,PAILITAS,2021,4.4,Sin riesgo,4.4,Sin riesgo,ND,ND
+20,CESAR,20517,PAILITAS,2022,7.2,Riesgo bajo,7.2,Riesgo bajo,ND,ND
+20,CESAR,20550,PELAYA,2007,8.3,Riesgo bajo,8.3,Riesgo bajo,ND,ND
+20,CESAR,20550,PELAYA,2008,13.2,Riesgo bajo,13.2,Riesgo bajo,ND,ND
+20,CESAR,20550,PELAYA,2009,23.0,Riesgo medio,23.0,Riesgo medio,ND,ND
+20,CESAR,20550,PELAYA,2010,2.1,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20550,PELAYA,2011,0.3,Sin riesgo,ND,ND,ND,ND
+20,CESAR,20550,PELAYA,2012,4.3,Sin riesgo,5.8,Riesgo bajo,ND,ND
+20,CESAR,20550,PELAYA,2013,0.0,Sin riesgo,ND,ND,ND,ND
+20,CESAR,20550,PELAYA,2015,41.9,Riesgo alto,79.6,Riesgo alto,ND,ND
+20,CESAR,20550,PELAYA,2016,36.9,Riesgo alto,ND,ND,ND,ND
+20,CESAR,20550,PELAYA,2017,6.6,Riesgo bajo,ND,ND,ND,ND
+20,CESAR,20550,PELAYA,2018,16.6,Riesgo medio,16.6,Riesgo medio,ND,ND
+20,CESAR,20550,PELAYA,2019,12.8,Riesgo bajo,12.8,Riesgo bajo,ND,ND
+20,CESAR,20550,PELAYA,2020,5.3,Riesgo bajo,5.3,Riesgo bajo,ND,ND
+20,CESAR,20550,PELAYA,2021,15.4,Riesgo medio,15.4,Riesgo medio,ND,ND
+20,CESAR,20550,PELAYA,2022,7.4,Riesgo bajo,7.4,Riesgo bajo,ND,ND
+20,CESAR,20550,PELAYA,2023,2.2,Sin riesgo,2.2,Sin riesgo,ND,ND
+20,CESAR,20570,PUEBLO BELLO,2008,86.7,Inviable sanitariamente,86.7,Inviable sanitariamente,ND,ND
+20,CESAR,20570,PUEBLO BELLO,2009,41.1,Riesgo alto,41.1,Riesgo alto,ND,ND
+20,CESAR,20570,PUEBLO BELLO,2010,9.1,Riesgo bajo,9.1,Riesgo bajo,ND,ND
+20,CESAR,20570,PUEBLO BELLO,2011,15.8,Riesgo medio,15.8,Riesgo medio,ND,ND
+20,CESAR,20570,PUEBLO BELLO,2012,24.3,Riesgo medio,24.3,Riesgo medio,ND,ND
+20,CESAR,20570,PUEBLO BELLO,2013,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20570,PUEBLO BELLO,2014,64.7,Riesgo alto,64.7,Riesgo alto,ND,ND
+20,CESAR,20570,PUEBLO BELLO,2015,16.6,Riesgo medio,16.6,Riesgo medio,ND,ND
+20,CESAR,20570,PUEBLO BELLO,2016,33.6,Riesgo medio,33.6,Riesgo medio,ND,ND
+20,CESAR,20570,PUEBLO BELLO,2017,12.6,Riesgo bajo,12.6,Riesgo bajo,ND,ND
+20,CESAR,20570,PUEBLO BELLO,2018,38.7,Riesgo alto,38.7,Riesgo alto,ND,ND
+20,CESAR,20570,PUEBLO BELLO,2019,2.0,Sin riesgo,2.0,Sin riesgo,ND,ND
+20,CESAR,20570,PUEBLO BELLO,2020,5.1,Riesgo bajo,5.1,Riesgo bajo,ND,ND
+20,CESAR,20570,PUEBLO BELLO,2021,11.8,Riesgo bajo,11.8,Riesgo bajo,ND,ND
+20,CESAR,20570,PUEBLO BELLO,2022,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20570,PUEBLO BELLO,2023,3.2,Sin riesgo,3.2,Sin riesgo,ND,ND
+20,CESAR,20614,RÍO DE ORO,2008,35.6,Riesgo alto,35.6,Riesgo alto,ND,ND
+20,CESAR,20614,RÍO DE ORO,2009,4.3,Sin riesgo,4.3,Sin riesgo,ND,ND
+20,CESAR,20614,RÍO DE ORO,2010,11.2,Riesgo bajo,11.2,Riesgo bajo,ND,ND
+20,CESAR,20614,RÍO DE ORO,2011,6.1,Riesgo bajo,6.1,Riesgo bajo,ND,ND
+20,CESAR,20614,RÍO DE ORO,2012,6.9,Riesgo bajo,6.9,Riesgo bajo,ND,ND
+20,CESAR,20614,RÍO DE ORO,2013,5.0,Sin riesgo,5.0,Sin riesgo,ND,ND
+20,CESAR,20614,RÍO DE ORO,2014,3.8,Sin riesgo,3.8,Sin riesgo,ND,ND
+20,CESAR,20614,RÍO DE ORO,2015,2.8,Sin riesgo,2.8,Sin riesgo,ND,ND
+20,CESAR,20614,RÍO DE ORO,2016,1.1,Sin riesgo,1.1,Sin riesgo,ND,ND
+20,CESAR,20614,RÍO DE ORO,2017,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20614,RÍO DE ORO,2018,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20614,RÍO DE ORO,2019,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20614,RÍO DE ORO,2020,1.4,Sin riesgo,1.4,Sin riesgo,ND,ND
+20,CESAR,20614,RÍO DE ORO,2021,2.6,Sin riesgo,2.6,Sin riesgo,ND,ND
+20,CESAR,20614,RÍO DE ORO,2022,3.1,Sin riesgo,3.1,Sin riesgo,ND,ND
+20,CESAR,20614,RÍO DE ORO,2023,0.2,Sin riesgo,0.2,Sin riesgo,ND,ND
+20,CESAR,20621,LA PAZ,2007,11.0,Riesgo bajo,11.0,Riesgo bajo,ND,ND
+20,CESAR,20621,LA PAZ,2008,20.6,Riesgo medio,20.6,Riesgo medio,ND,ND
+20,CESAR,20621,LA PAZ,2009,30.1,Riesgo medio,30.1,Riesgo medio,ND,ND
+20,CESAR,20621,LA PAZ,2010,12.8,Riesgo bajo,12.8,Riesgo bajo,ND,ND
+20,CESAR,20621,LA PAZ,2011,10.1,Riesgo bajo,10.1,Riesgo bajo,ND,ND
+20,CESAR,20621,LA PAZ,2012,0.1,Sin riesgo,0.1,Sin riesgo,ND,ND
+20,CESAR,20621,LA PAZ,2013,5.4,Riesgo bajo,5.4,Riesgo bajo,ND,ND
+20,CESAR,20621,LA PAZ,2014,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20621,LA PAZ,2015,8.1,Riesgo bajo,8.1,Riesgo bajo,ND,ND
+20,CESAR,20621,LA PAZ,2016,1.6,Sin riesgo,1.6,Sin riesgo,ND,ND
+20,CESAR,20621,LA PAZ,2017,16.4,Riesgo medio,16.4,Riesgo medio,ND,ND
+20,CESAR,20621,LA PAZ,2018,10.5,Riesgo bajo,10.5,Riesgo bajo,ND,ND
+20,CESAR,20621,LA PAZ,2019,16.7,Riesgo medio,16.7,Riesgo medio,ND,ND
+20,CESAR,20621,LA PAZ,2020,9.0,Riesgo bajo,9.0,Riesgo bajo,ND,ND
+20,CESAR,20621,LA PAZ,2021,9.0,Riesgo bajo,9.0,Riesgo bajo,ND,ND
+20,CESAR,20621,LA PAZ,2022,9.6,Riesgo bajo,9.6,Riesgo bajo,ND,ND
+20,CESAR,20621,LA PAZ,2023,3.1,Sin riesgo,3.1,Sin riesgo,ND,ND
+20,CESAR,20710,SAN ALBERTO,2008,61.1,Riesgo alto,68.7,Riesgo alto,0.0,Sin riesgo
+20,CESAR,20710,SAN ALBERTO,2009,88.1,Inviable sanitariamente,88.1,Inviable sanitariamente,ND,ND
+20,CESAR,20710,SAN ALBERTO,2010,22.9,Riesgo medio,22.9,Riesgo medio,ND,ND
+20,CESAR,20710,SAN ALBERTO,2011,23.8,Riesgo medio,23.8,Riesgo medio,ND,ND
+20,CESAR,20710,SAN ALBERTO,2012,38.1,Riesgo alto,38.1,Riesgo alto,ND,ND
+20,CESAR,20710,SAN ALBERTO,2013,0.6,Sin riesgo,0.6,Sin riesgo,ND,ND
+20,CESAR,20710,SAN ALBERTO,2014,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20710,SAN ALBERTO,2015,1.6,Sin riesgo,1.6,Sin riesgo,ND,ND
+20,CESAR,20710,SAN ALBERTO,2016,0.9,Sin riesgo,0.9,Sin riesgo,ND,ND
+20,CESAR,20710,SAN ALBERTO,2017,1.5,Sin riesgo,1.5,Sin riesgo,ND,ND
+20,CESAR,20710,SAN ALBERTO,2018,1.2,Sin riesgo,1.2,Sin riesgo,ND,ND
+20,CESAR,20710,SAN ALBERTO,2019,9.8,Riesgo bajo,9.8,Riesgo bajo,ND,ND
+20,CESAR,20710,SAN ALBERTO,2020,5.1,Riesgo bajo,5.1,Riesgo bajo,ND,ND
+20,CESAR,20710,SAN ALBERTO,2021,7.9,Riesgo bajo,7.9,Riesgo bajo,ND,ND
+20,CESAR,20710,SAN ALBERTO,2022,10.3,Riesgo bajo,6.6,Riesgo bajo,27.6,Riesgo medio
+20,CESAR,20710,SAN ALBERTO,2023,3.5,Sin riesgo,3.5,Sin riesgo,ND,ND
+20,CESAR,20750,SAN DIEGO,2008,39.9,Riesgo alto,39.9,Riesgo alto,ND,ND
+20,CESAR,20750,SAN DIEGO,2009,25.5,Riesgo medio,25.5,Riesgo medio,ND,ND
+20,CESAR,20750,SAN DIEGO,2010,20.0,Riesgo medio,20.0,Riesgo medio,ND,ND
+20,CESAR,20750,SAN DIEGO,2011,9.3,Riesgo bajo,9.3,Riesgo bajo,ND,ND
+20,CESAR,20750,SAN DIEGO,2012,14.1,Riesgo medio,14.1,Riesgo medio,ND,ND
+20,CESAR,20750,SAN DIEGO,2013,14.5,Riesgo medio,14.5,Riesgo medio,ND,ND
+20,CESAR,20750,SAN DIEGO,2014,0.8,Sin riesgo,0.8,Sin riesgo,ND,ND
+20,CESAR,20750,SAN DIEGO,2015,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20750,SAN DIEGO,2016,2.9,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20750,SAN DIEGO,2017,0.0,Sin riesgo,ND,ND,ND,ND
+20,CESAR,20750,SAN DIEGO,2018,4.2,Sin riesgo,4.2,Sin riesgo,ND,ND
+20,CESAR,20750,SAN DIEGO,2019,4.8,Sin riesgo,4.8,Sin riesgo,ND,ND
+20,CESAR,20750,SAN DIEGO,2020,9.8,Riesgo bajo,9.8,Riesgo bajo,ND,ND
+20,CESAR,20750,SAN DIEGO,2021,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20750,SAN DIEGO,2022,4.7,Sin riesgo,4.7,Sin riesgo,ND,ND
+20,CESAR,20750,SAN DIEGO,2023,2.0,Sin riesgo,2.0,Sin riesgo,ND,ND
+20,CESAR,20770,SAN MARTÍN,2008,9.9,Riesgo bajo,9.9,Riesgo bajo,ND,ND
+20,CESAR,20770,SAN MARTÍN,2009,1.4,Sin riesgo,1.4,Sin riesgo,ND,ND
+20,CESAR,20770,SAN MARTÍN,2010,0.7,Sin riesgo,0.7,Sin riesgo,ND,ND
+20,CESAR,20770,SAN MARTÍN,2011,0.2,Sin riesgo,0.2,Sin riesgo,ND,ND
+20,CESAR,20770,SAN MARTÍN,2012,21.6,Riesgo medio,21.6,Riesgo medio,ND,ND
+20,CESAR,20770,SAN MARTÍN,2013,8.7,Riesgo bajo,8.7,Riesgo bajo,ND,ND
+20,CESAR,20770,SAN MARTÍN,2014,23.0,Riesgo medio,23.0,Riesgo medio,ND,ND
+20,CESAR,20770,SAN MARTÍN,2015,13.5,Riesgo bajo,13.5,Riesgo bajo,ND,ND
+20,CESAR,20770,SAN MARTÍN,2016,1.9,Sin riesgo,1.9,Sin riesgo,ND,ND
+20,CESAR,20770,SAN MARTÍN,2017,6.8,Riesgo bajo,6.8,Riesgo bajo,ND,ND
+20,CESAR,20770,SAN MARTÍN,2018,14.0,Riesgo bajo,14.0,Riesgo bajo,ND,ND
+20,CESAR,20770,SAN MARTÍN,2019,11.9,Riesgo bajo,11.9,Riesgo bajo,ND,ND
+20,CESAR,20770,SAN MARTÍN,2020,10.8,Riesgo bajo,10.8,Riesgo bajo,ND,ND
+20,CESAR,20770,SAN MARTÍN,2021,15.1,Riesgo medio,15.1,Riesgo medio,ND,ND
+20,CESAR,20770,SAN MARTÍN,2022,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20770,SAN MARTÍN,2023,3.4,Sin riesgo,3.4,Sin riesgo,ND,ND
+20,CESAR,20787,TAMALAMEQUE,2008,68.8,Riesgo alto,68.8,Riesgo alto,ND,ND
+20,CESAR,20787,TAMALAMEQUE,2009,51.2,Riesgo alto,51.2,Riesgo alto,ND,ND
+20,CESAR,20787,TAMALAMEQUE,2010,53.2,Riesgo alto,53.9,Riesgo alto,51.3,Riesgo alto
+20,CESAR,20787,TAMALAMEQUE,2011,55.4,Riesgo alto,54.8,Riesgo alto,63.2,Riesgo alto
+20,CESAR,20787,TAMALAMEQUE,2012,49.5,Riesgo alto,50.5,Riesgo alto,46.6,Riesgo alto
+20,CESAR,20787,TAMALAMEQUE,2013,63.6,Riesgo alto,63.6,Riesgo alto,ND,ND
+20,CESAR,20787,TAMALAMEQUE,2014,66.7,Riesgo alto,66.7,Riesgo alto,ND,ND
+20,CESAR,20787,TAMALAMEQUE,2015,100.0,Inviable sanitariamente,100.0,Inviable sanitariamente,100.0,Inviable sanitariamente
+20,CESAR,20787,TAMALAMEQUE,2016,25.8,Riesgo medio,75.0,Riesgo alto,37.5,Riesgo alto
+20,CESAR,20787,TAMALAMEQUE,2017,2.1,Sin riesgo,ND,ND,ND,ND
+20,CESAR,20787,TAMALAMEQUE,2018,1.0,Sin riesgo,1.1,Sin riesgo,0.0,Sin riesgo
+20,CESAR,20787,TAMALAMEQUE,2019,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20787,TAMALAMEQUE,2021,15.1,Riesgo medio,15.1,Riesgo medio,ND,ND
+20,CESAR,20787,TAMALAMEQUE,2022,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+20,CESAR,20787,TAMALAMEQUE,2023,33.3,Riesgo medio,33.3,Riesgo medio,ND,ND
+23,CÓRDOBA,23001,MONTERÍA,2007,1.3,Sin riesgo,0.9,Sin riesgo,18.3,Riesgo medio
+23,CÓRDOBA,23001,MONTERÍA,2008,3.3,Sin riesgo,3.3,Sin riesgo,ND,ND
+23,CÓRDOBA,23001,MONTERÍA,2009,1.1,Sin riesgo,1.1,Sin riesgo,0.0,Sin riesgo
+23,CÓRDOBA,23001,MONTERÍA,2010,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo
+23,CÓRDOBA,23001,MONTERÍA,2011,0.2,Sin riesgo,0.2,Sin riesgo,0.2,Sin riesgo
+23,CÓRDOBA,23001,MONTERÍA,2012,0.2,Sin riesgo,0.2,Sin riesgo,0.0,Sin riesgo
+23,CÓRDOBA,23001,MONTERÍA,2013,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo
+23,CÓRDOBA,23001,MONTERÍA,2014,0.6,Sin riesgo,0.7,Sin riesgo,0.0,Sin riesgo
+23,CÓRDOBA,23001,MONTERÍA,2015,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo
+23,CÓRDOBA,23001,MONTERÍA,2016,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo
+23,CÓRDOBA,23001,MONTERÍA,2017,0.2,Sin riesgo,0.2,Sin riesgo,0.6,Sin riesgo
+23,CÓRDOBA,23001,MONTERÍA,2018,0.3,Sin riesgo,ND,ND,ND,ND
+23,CÓRDOBA,23068,AYAPEL,2007,37.3,Riesgo alto,37.3,Riesgo alto,ND,ND
+23,CÓRDOBA,23068,AYAPEL,2008,28.0,Riesgo medio,28.0,Riesgo medio,ND,ND
+23,CÓRDOBA,23068,AYAPEL,2009,33.1,Riesgo medio,33.1,Riesgo medio,ND,ND
+23,CÓRDOBA,23068,AYAPEL,2010,29.6,Riesgo medio,29.6,Riesgo medio,ND,ND
+23,CÓRDOBA,23068,AYAPEL,2011,25.8,Riesgo medio,25.8,Riesgo medio,ND,ND
+23,CÓRDOBA,23068,AYAPEL,2012,14.9,Riesgo medio,14.9,Riesgo medio,ND,ND
+23,CÓRDOBA,23068,AYAPEL,2013,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23068,AYAPEL,2014,3.2,Sin riesgo,3.2,Sin riesgo,ND,ND
+23,CÓRDOBA,23068,AYAPEL,2015,10.2,Riesgo bajo,10.2,Riesgo bajo,ND,ND
+23,CÓRDOBA,23068,AYAPEL,2017,10.9,Riesgo bajo,10.9,Riesgo bajo,ND,ND
+23,CÓRDOBA,23068,AYAPEL,2018,6.9,Riesgo bajo,8.0,Riesgo bajo,ND,ND
+23,CÓRDOBA,23068,AYAPEL,2019,15.9,Riesgo medio,ND,ND,ND,ND
+23,CÓRDOBA,23068,AYAPEL,2021,16.4,Riesgo medio,16.4,Riesgo medio,ND,ND
+23,CÓRDOBA,23068,AYAPEL,2023,38.4,Riesgo alto,38.4,Riesgo alto,ND,ND
+23,CÓRDOBA,23079,BUENAVISTA,2007,67.0,Riesgo alto,67.0,Riesgo alto,ND,ND
+23,CÓRDOBA,23079,BUENAVISTA,2008,46.3,Riesgo alto,46.3,Riesgo alto,ND,ND
+23,CÓRDOBA,23079,BUENAVISTA,2009,47.7,Riesgo alto,47.7,Riesgo alto,ND,ND
+23,CÓRDOBA,23079,BUENAVISTA,2010,54.3,Riesgo alto,54.3,Riesgo alto,ND,ND
+23,CÓRDOBA,23079,BUENAVISTA,2011,44.3,Riesgo alto,44.3,Riesgo alto,ND,ND
+23,CÓRDOBA,23079,BUENAVISTA,2012,57.3,Riesgo alto,57.3,Riesgo alto,ND,ND
+23,CÓRDOBA,23079,BUENAVISTA,2013,65.9,Riesgo alto,65.9,Riesgo alto,ND,ND
+23,CÓRDOBA,23079,BUENAVISTA,2014,63.2,Riesgo alto,63.2,Riesgo alto,ND,ND
+23,CÓRDOBA,23079,BUENAVISTA,2015,28.8,Riesgo medio,28.8,Riesgo medio,ND,ND
+23,CÓRDOBA,23079,BUENAVISTA,2018,30.7,Riesgo medio,18.2,Riesgo medio,ND,ND
+23,CÓRDOBA,23079,BUENAVISTA,2019,0.0,Sin riesgo,ND,ND,ND,ND
+23,CÓRDOBA,23090,CANALETE,2007,79.0,Riesgo alto,79.0,Riesgo alto,ND,ND
+23,CÓRDOBA,23090,CANALETE,2008,55.2,Riesgo alto,55.2,Riesgo alto,ND,ND
+23,CÓRDOBA,23090,CANALETE,2009,30.1,Riesgo medio,30.1,Riesgo medio,ND,ND
+23,CÓRDOBA,23090,CANALETE,2010,72.6,Riesgo alto,72.6,Riesgo alto,ND,ND
+23,CÓRDOBA,23090,CANALETE,2011,70.7,Riesgo alto,70.7,Riesgo alto,ND,ND
+23,CÓRDOBA,23090,CANALETE,2012,61.0,Riesgo alto,61.0,Riesgo alto,ND,ND
+23,CÓRDOBA,23090,CANALETE,2013,60.2,Riesgo alto,60.2,Riesgo alto,ND,ND
+23,CÓRDOBA,23090,CANALETE,2014,53.8,Riesgo alto,53.8,Riesgo alto,ND,ND
+23,CÓRDOBA,23090,CANALETE,2015,55.9,Riesgo alto,55.9,Riesgo alto,ND,ND
+23,CÓRDOBA,23090,CANALETE,2018,64.8,Riesgo alto,64.7,Riesgo alto,ND,ND
+23,CÓRDOBA,23090,CANALETE,2019,35.3,Riesgo alto,34.9,Riesgo medio,ND,ND
+23,CÓRDOBA,23162,CERETÉ,2007,8.7,Riesgo bajo,8.7,Riesgo bajo,ND,ND
+23,CÓRDOBA,23162,CERETÉ,2008,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23162,CERETÉ,2009,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23162,CERETÉ,2010,0.6,Sin riesgo,0.6,Sin riesgo,ND,ND
+23,CÓRDOBA,23162,CERETÉ,2011,1.1,Sin riesgo,1.1,Sin riesgo,ND,ND
+23,CÓRDOBA,23162,CERETÉ,2012,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23162,CERETÉ,2013,0.4,Sin riesgo,0.4,Sin riesgo,ND,ND
+23,CÓRDOBA,23162,CERETÉ,2014,4.2,Sin riesgo,4.2,Sin riesgo,ND,ND
+23,CÓRDOBA,23162,CERETÉ,2015,4.5,Sin riesgo,4.5,Sin riesgo,ND,ND
+23,CÓRDOBA,23162,CERETÉ,2017,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23162,CERETÉ,2018,1.4,Sin riesgo,1.4,Sin riesgo,ND,ND
+23,CÓRDOBA,23162,CERETÉ,2019,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23162,CERETÉ,2021,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23162,CERETÉ,2023,4.0,Sin riesgo,4.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23168,CHIMÁ,2008,64.0,Riesgo alto,64.0,Riesgo alto,ND,ND
+23,CÓRDOBA,23168,CHIMÁ,2009,67.3,Riesgo alto,67.3,Riesgo alto,ND,ND
+23,CÓRDOBA,23168,CHIMÁ,2010,67.1,Riesgo alto,67.1,Riesgo alto,ND,ND
+23,CÓRDOBA,23168,CHIMÁ,2011,56.2,Riesgo alto,68.4,Riesgo alto,7.3,Riesgo bajo
+23,CÓRDOBA,23168,CHIMÁ,2012,11.0,Riesgo bajo,11.0,Riesgo bajo,ND,ND
+23,CÓRDOBA,23168,CHIMÁ,2013,5.8,Riesgo bajo,5.8,Riesgo bajo,ND,ND
+23,CÓRDOBA,23168,CHIMÁ,2014,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23168,CHIMÁ,2015,7.9,Riesgo bajo,7.9,Riesgo bajo,ND,ND
+23,CÓRDOBA,23168,CHIMÁ,2017,18.2,Riesgo medio,18.2,Riesgo medio,ND,ND
+23,CÓRDOBA,23168,CHIMÁ,2018,4.6,Sin riesgo,4.6,Sin riesgo,ND,ND
+23,CÓRDOBA,23168,CHIMÁ,2019,4.6,Sin riesgo,ND,ND,ND,ND
+23,CÓRDOBA,23168,CHIMÁ,2021,13.5,Riesgo bajo,13.5,Riesgo bajo,ND,ND
+23,CÓRDOBA,23168,CHIMÁ,2023,27.2,Riesgo medio,27.2,Riesgo medio,ND,ND
+23,CÓRDOBA,23182,CHINÚ,2007,71.8,Riesgo alto,71.8,Riesgo alto,ND,ND
+23,CÓRDOBA,23182,CHINÚ,2008,44.7,Riesgo alto,44.7,Riesgo alto,ND,ND
+23,CÓRDOBA,23182,CHINÚ,2009,54.0,Riesgo alto,54.0,Riesgo alto,ND,ND
+23,CÓRDOBA,23182,CHINÚ,2010,51.9,Riesgo alto,51.9,Riesgo alto,ND,ND
+23,CÓRDOBA,23182,CHINÚ,2011,51.3,Riesgo alto,55.1,Riesgo alto,44.7,Riesgo alto
+23,CÓRDOBA,23182,CHINÚ,2012,14.7,Riesgo medio,14.7,Riesgo medio,ND,ND
+23,CÓRDOBA,23182,CHINÚ,2013,10.8,Riesgo bajo,11.6,Riesgo bajo,8.4,Riesgo bajo
+23,CÓRDOBA,23182,CHINÚ,2014,13.3,Riesgo bajo,11.0,Riesgo bajo,17.7,Riesgo medio
+23,CÓRDOBA,23182,CHINÚ,2015,3.6,Sin riesgo,2.9,Sin riesgo,8.1,Riesgo bajo
+23,CÓRDOBA,23182,CHINÚ,2017,0.9,Sin riesgo,1.0,Sin riesgo,0.0,Sin riesgo
+23,CÓRDOBA,23182,CHINÚ,2018,6.7,Riesgo bajo,6.5,Riesgo bajo,ND,ND
+23,CÓRDOBA,23182,CHINÚ,2019,0.5,Sin riesgo,ND,ND,ND,ND
+23,CÓRDOBA,23182,CHINÚ,2021,0.7,Sin riesgo,0.7,Sin riesgo,ND,ND
+23,CÓRDOBA,23182,CHINÚ,2023,2.7,Sin riesgo,2.7,Sin riesgo,ND,ND
+23,CÓRDOBA,23189,CIÉNAGA DE ORO,2007,11.6,Riesgo bajo,11.6,Riesgo bajo,ND,ND
+23,CÓRDOBA,23189,CIÉNAGA DE ORO,2008,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23189,CIÉNAGA DE ORO,2009,0.4,Sin riesgo,0.5,Sin riesgo,0.0,Sin riesgo
+23,CÓRDOBA,23189,CIÉNAGA DE ORO,2010,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23189,CIÉNAGA DE ORO,2011,0.8,Sin riesgo,0.8,Sin riesgo,ND,ND
+23,CÓRDOBA,23189,CIÉNAGA DE ORO,2012,1.5,Sin riesgo,1.6,Sin riesgo,0.0,Sin riesgo
+23,CÓRDOBA,23189,CIÉNAGA DE ORO,2013,4.9,Sin riesgo,4.9,Sin riesgo,ND,ND
+23,CÓRDOBA,23189,CIÉNAGA DE ORO,2014,5.6,Riesgo bajo,5.6,Riesgo bajo,ND,ND
+23,CÓRDOBA,23189,CIÉNAGA DE ORO,2015,4.2,Sin riesgo,4.2,Sin riesgo,ND,ND
+23,CÓRDOBA,23189,CIÉNAGA DE ORO,2017,2.5,Sin riesgo,2.5,Sin riesgo,ND,ND
+23,CÓRDOBA,23189,CIÉNAGA DE ORO,2018,0.9,Sin riesgo,0.6,Sin riesgo,ND,ND
+23,CÓRDOBA,23189,CIÉNAGA DE ORO,2019,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23189,CIÉNAGA DE ORO,2021,4.2,Sin riesgo,4.2,Sin riesgo,ND,ND
+23,CÓRDOBA,23189,CIÉNAGA DE ORO,2023,0.5,Sin riesgo,0.5,Sin riesgo,ND,ND
+23,CÓRDOBA,23300,COTORRA,2007,71.6,Riesgo alto,71.6,Riesgo alto,ND,ND
+23,CÓRDOBA,23300,COTORRA,2008,40.7,Riesgo alto,40.7,Riesgo alto,ND,ND
+23,CÓRDOBA,23300,COTORRA,2009,23.2,Riesgo medio,28.1,Riesgo medio,15.8,Riesgo medio
+23,CÓRDOBA,23300,COTORRA,2010,6.4,Riesgo bajo,ND,ND,6.4,Riesgo bajo
+23,CÓRDOBA,23300,COTORRA,2011,12.1,Riesgo bajo,13.5,Riesgo bajo,0.0,Sin riesgo
+23,CÓRDOBA,23300,COTORRA,2012,5.1,Riesgo bajo,ND,ND,5.1,Riesgo bajo
+23,CÓRDOBA,23300,COTORRA,2013,2.2,Sin riesgo,0.0,Sin riesgo,8.7,Riesgo bajo
+23,CÓRDOBA,23300,COTORRA,2014,27.1,Riesgo medio,32.6,Riesgo medio,0.0,Sin riesgo
+23,CÓRDOBA,23300,COTORRA,2015,26.9,Riesgo medio,28.6,Riesgo medio,18.3,Riesgo medio
+23,CÓRDOBA,23300,COTORRA,2017,18.2,Riesgo medio,18.2,Riesgo medio,ND,ND
+23,CÓRDOBA,23300,COTORRA,2018,34.7,Riesgo medio,34.7,Riesgo medio,ND,ND
+23,CÓRDOBA,23300,COTORRA,2019,68.5,Riesgo alto,ND,ND,ND,ND
+23,CÓRDOBA,23300,COTORRA,2021,43.5,Riesgo alto,39.2,Riesgo alto,82.7,Inviable sanitariamente
+23,CÓRDOBA,23350,LA APARTADA,2007,61.4,Riesgo alto,61.4,Riesgo alto,ND,ND
+23,CÓRDOBA,23350,LA APARTADA,2008,61.4,Riesgo alto,61.4,Riesgo alto,ND,ND
+23,CÓRDOBA,23350,LA APARTADA,2009,55.1,Riesgo alto,55.1,Riesgo alto,ND,ND
+23,CÓRDOBA,23350,LA APARTADA,2010,32.9,Riesgo medio,32.9,Riesgo medio,ND,ND
+23,CÓRDOBA,23350,LA APARTADA,2011,11.5,Riesgo bajo,11.5,Riesgo bajo,ND,ND
+23,CÓRDOBA,23350,LA APARTADA,2012,26.8,Riesgo medio,26.8,Riesgo medio,ND,ND
+23,CÓRDOBA,23350,LA APARTADA,2013,58.1,Riesgo alto,58.1,Riesgo alto,ND,ND
+23,CÓRDOBA,23350,LA APARTADA,2014,74.7,Riesgo alto,74.7,Riesgo alto,ND,ND
+23,CÓRDOBA,23350,LA APARTADA,2015,52.3,Riesgo alto,52.3,Riesgo alto,ND,ND
+23,CÓRDOBA,23350,LA APARTADA,2017,86.1,Inviable sanitariamente,86.1,Inviable sanitariamente,ND,ND
+23,CÓRDOBA,23350,LA APARTADA,2018,32.4,Riesgo medio,32.4,Riesgo medio,ND,ND
+23,CÓRDOBA,23350,LA APARTADA,2019,9.3,Riesgo bajo,ND,ND,ND,ND
+23,CÓRDOBA,23350,LA APARTADA,2021,28.9,Riesgo medio,38.1,Riesgo alto,1.5,Sin riesgo
+23,CÓRDOBA,23350,LA APARTADA,2023,39.6,Riesgo alto,39.6,Riesgo alto,ND,ND
+23,CÓRDOBA,23417,LORICA,2007,38.9,Riesgo alto,38.9,Riesgo alto,ND,ND
+23,CÓRDOBA,23417,LORICA,2008,8.4,Riesgo bajo,8.4,Riesgo bajo,ND,ND
+23,CÓRDOBA,23417,LORICA,2009,22.1,Riesgo medio,22.1,Riesgo medio,ND,ND
+23,CÓRDOBA,23417,LORICA,2010,35.7,Riesgo alto,35.7,Riesgo alto,ND,ND
+23,CÓRDOBA,23417,LORICA,2011,27.1,Riesgo medio,27.1,Riesgo medio,ND,ND
+23,CÓRDOBA,23417,LORICA,2012,4.3,Sin riesgo,4.3,Sin riesgo,ND,ND
+23,CÓRDOBA,23417,LORICA,2013,5.7,Riesgo bajo,5.7,Riesgo bajo,ND,ND
+23,CÓRDOBA,23417,LORICA,2014,1.4,Sin riesgo,1.4,Sin riesgo,ND,ND
+23,CÓRDOBA,23417,LORICA,2015,9.6,Riesgo bajo,9.6,Riesgo bajo,ND,ND
+23,CÓRDOBA,23417,LORICA,2017,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23417,LORICA,2018,1.4,Sin riesgo,1.4,Sin riesgo,ND,ND
+23,CÓRDOBA,23417,LORICA,2019,2.6,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23417,LORICA,2021,0.9,Sin riesgo,0.9,Sin riesgo,ND,ND
+23,CÓRDOBA,23417,LORICA,2023,8.8,Riesgo bajo,8.8,Riesgo bajo,ND,ND
+23,CÓRDOBA,23419,LOS CÓRDOBAS,2007,90.1,Inviable sanitariamente,90.1,Inviable sanitariamente,ND,ND
+23,CÓRDOBA,23419,LOS CÓRDOBAS,2008,55.2,Riesgo alto,55.2,Riesgo alto,ND,ND
+23,CÓRDOBA,23419,LOS CÓRDOBAS,2009,55.0,Riesgo alto,55.0,Riesgo alto,ND,ND
+23,CÓRDOBA,23419,LOS CÓRDOBAS,2010,62.2,Riesgo alto,49.1,Riesgo alto,88.4,Inviable sanitariamente
+23,CÓRDOBA,23419,LOS CÓRDOBAS,2011,80.7,Inviable sanitariamente,80.7,Inviable sanitariamente,ND,ND
+23,CÓRDOBA,23419,LOS CÓRDOBAS,2012,46.3,Riesgo alto,46.3,Riesgo alto,ND,ND
+23,CÓRDOBA,23419,LOS CÓRDOBAS,2013,34.4,Riesgo medio,34.4,Riesgo medio,ND,ND
+23,CÓRDOBA,23419,LOS CÓRDOBAS,2014,10.6,Riesgo bajo,10.6,Riesgo bajo,ND,ND
+23,CÓRDOBA,23419,LOS CÓRDOBAS,2015,11.0,Riesgo bajo,11.0,Riesgo bajo,ND,ND
+23,CÓRDOBA,23419,LOS CÓRDOBAS,2017,9.1,Riesgo bajo,9.1,Riesgo bajo,ND,ND
+23,CÓRDOBA,23419,LOS CÓRDOBAS,2018,22.1,Riesgo medio,22.1,Riesgo medio,ND,ND
+23,CÓRDOBA,23419,LOS CÓRDOBAS,2019,34.3,Riesgo medio,19.9,Riesgo medio,ND,ND
+23,CÓRDOBA,23419,LOS CÓRDOBAS,2021,28.6,Riesgo medio,28.6,Riesgo medio,ND,ND
+23,CÓRDOBA,23419,LOS CÓRDOBAS,2023,64.5,Riesgo alto,64.5,Riesgo alto,ND,ND
+23,CÓRDOBA,23464,MOMIL,2007,76.4,Riesgo alto,76.4,Riesgo alto,ND,ND
+23,CÓRDOBA,23464,MOMIL,2008,55.2,Riesgo alto,55.2,Riesgo alto,ND,ND
+23,CÓRDOBA,23464,MOMIL,2009,59.6,Riesgo alto,59.6,Riesgo alto,ND,ND
+23,CÓRDOBA,23464,MOMIL,2010,85.5,Inviable sanitariamente,85.5,Inviable sanitariamente,ND,ND
+23,CÓRDOBA,23464,MOMIL,2011,63.5,Riesgo alto,82.6,Inviable sanitariamente,55.4,Riesgo alto
+23,CÓRDOBA,23464,MOMIL,2012,13.4,Riesgo bajo,13.4,Riesgo bajo,ND,ND
+23,CÓRDOBA,23464,MOMIL,2013,3.9,Sin riesgo,3.9,Sin riesgo,ND,ND
+23,CÓRDOBA,23464,MOMIL,2014,8.8,Riesgo bajo,8.8,Riesgo bajo,ND,ND
+23,CÓRDOBA,23464,MOMIL,2015,3.4,Sin riesgo,3.4,Sin riesgo,ND,ND
+23,CÓRDOBA,23464,MOMIL,2017,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23464,MOMIL,2018,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23464,MOMIL,2019,0.2,Sin riesgo,ND,ND,ND,ND
+23,CÓRDOBA,23464,MOMIL,2021,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23464,MOMIL,2023,17.7,Riesgo medio,17.7,Riesgo medio,ND,ND
+23,CÓRDOBA,23466,MONTELÍBANO,2007,30.3,Riesgo medio,29.9,Riesgo medio,31.6,Riesgo medio
+23,CÓRDOBA,23466,MONTELÍBANO,2008,40.9,Riesgo alto,43.2,Riesgo alto,32.0,Riesgo medio
+23,CÓRDOBA,23466,MONTELÍBANO,2009,3.7,Sin riesgo,4.0,Sin riesgo,0.0,Sin riesgo
+23,CÓRDOBA,23466,MONTELÍBANO,2010,3.3,Sin riesgo,3.0,Sin riesgo,4.5,Sin riesgo
+23,CÓRDOBA,23466,MONTELÍBANO,2011,11.5,Riesgo bajo,12.0,Riesgo bajo,10.8,Riesgo bajo
+23,CÓRDOBA,23466,MONTELÍBANO,2012,3.8,Sin riesgo,3.5,Sin riesgo,5.1,Riesgo bajo
+23,CÓRDOBA,23466,MONTELÍBANO,2013,3.3,Sin riesgo,2.0,Sin riesgo,8.3,Riesgo bajo
+23,CÓRDOBA,23466,MONTELÍBANO,2014,7.5,Riesgo bajo,5.8,Riesgo bajo,18.8,Riesgo medio
+23,CÓRDOBA,23466,MONTELÍBANO,2015,9.3,Riesgo bajo,9.6,Riesgo bajo,ND,ND
+23,CÓRDOBA,23466,MONTELÍBANO,2017,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo
+23,CÓRDOBA,23466,MONTELÍBANO,2018,4.9,Sin riesgo,5.0,Sin riesgo,0.0,Sin riesgo
+23,CÓRDOBA,23466,MONTELÍBANO,2019,1.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23466,MONTELÍBANO,2021,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23466,MONTELÍBANO,2023,9.2,Riesgo bajo,9.2,Riesgo bajo,ND,ND
+23,CÓRDOBA,23500,MOÑITOS,2007,80.5,Inviable sanitariamente,80.5,Inviable sanitariamente,ND,ND
+23,CÓRDOBA,23500,MOÑITOS,2008,79.4,Riesgo alto,79.4,Riesgo alto,ND,ND
+23,CÓRDOBA,23500,MOÑITOS,2009,61.7,Riesgo alto,61.7,Riesgo alto,ND,ND
+23,CÓRDOBA,23500,MOÑITOS,2010,14.7,Riesgo medio,14.7,Riesgo medio,ND,ND
+23,CÓRDOBA,23500,MOÑITOS,2011,19.2,Riesgo medio,24.8,Riesgo medio,6.1,Riesgo bajo
+23,CÓRDOBA,23500,MOÑITOS,2012,7.3,Riesgo bajo,7.3,Riesgo bajo,ND,ND
+23,CÓRDOBA,23500,MOÑITOS,2013,5.8,Riesgo bajo,8.7,Riesgo bajo,0.0,Sin riesgo
+23,CÓRDOBA,23500,MOÑITOS,2014,31.1,Riesgo medio,17.6,Riesgo medio,58.1,Riesgo alto
+23,CÓRDOBA,23500,MOÑITOS,2015,31.6,Riesgo medio,31.9,Riesgo medio,27.1,Riesgo medio
+23,CÓRDOBA,23500,MOÑITOS,2017,22.7,Riesgo medio,24.2,Riesgo medio,18.2,Riesgo medio
+23,CÓRDOBA,23500,MOÑITOS,2018,18.5,Riesgo medio,18.5,Riesgo medio,ND,ND
+23,CÓRDOBA,23500,MOÑITOS,2019,17.8,Riesgo medio,ND,ND,ND,ND
+23,CÓRDOBA,23500,MOÑITOS,2021,15.3,Riesgo medio,15.3,Riesgo medio,ND,ND
+23,CÓRDOBA,23500,MOÑITOS,2023,9.2,Riesgo bajo,9.2,Riesgo bajo,ND,ND
+23,CÓRDOBA,23555,PLANETA RICA,2007,32.2,Riesgo medio,32.2,Riesgo medio,ND,ND
+23,CÓRDOBA,23555,PLANETA RICA,2008,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23555,PLANETA RICA,2009,9.3,Riesgo bajo,9.3,Riesgo bajo,ND,ND
+23,CÓRDOBA,23555,PLANETA RICA,2010,10.8,Riesgo bajo,10.8,Riesgo bajo,ND,ND
+23,CÓRDOBA,23555,PLANETA RICA,2011,3.6,Sin riesgo,3.6,Sin riesgo,ND,ND
+23,CÓRDOBA,23555,PLANETA RICA,2012,2.0,Sin riesgo,2.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23555,PLANETA RICA,2013,0.8,Sin riesgo,0.8,Sin riesgo,ND,ND
+23,CÓRDOBA,23555,PLANETA RICA,2014,13.4,Riesgo bajo,13.4,Riesgo bajo,ND,ND
+23,CÓRDOBA,23555,PLANETA RICA,2015,2.4,Sin riesgo,2.4,Sin riesgo,ND,ND
+23,CÓRDOBA,23555,PLANETA RICA,2017,14.8,Riesgo medio,14.8,Riesgo medio,ND,ND
+23,CÓRDOBA,23555,PLANETA RICA,2018,3.7,Sin riesgo,3.3,Sin riesgo,ND,ND
+23,CÓRDOBA,23555,PLANETA RICA,2019,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23555,PLANETA RICA,2021,0.9,Sin riesgo,0.9,Sin riesgo,0.0,Sin riesgo
+23,CÓRDOBA,23555,PLANETA RICA,2023,7.7,Riesgo bajo,6.2,Riesgo bajo,21.1,Riesgo medio
+23,CÓRDOBA,23570,PUEBLO NUEVO,2007,63.1,Riesgo alto,63.1,Riesgo alto,ND,ND
+23,CÓRDOBA,23570,PUEBLO NUEVO,2008,18.6,Riesgo medio,18.6,Riesgo medio,ND,ND
+23,CÓRDOBA,23570,PUEBLO NUEVO,2009,30.9,Riesgo medio,30.9,Riesgo medio,ND,ND
+23,CÓRDOBA,23570,PUEBLO NUEVO,2010,16.9,Riesgo medio,16.9,Riesgo medio,ND,ND
+23,CÓRDOBA,23570,PUEBLO NUEVO,2011,21.0,Riesgo medio,21.0,Riesgo medio,ND,ND
+23,CÓRDOBA,23570,PUEBLO NUEVO,2012,51.9,Riesgo alto,51.9,Riesgo alto,ND,ND
+23,CÓRDOBA,23570,PUEBLO NUEVO,2013,33.1,Riesgo medio,33.1,Riesgo medio,ND,ND
+23,CÓRDOBA,23570,PUEBLO NUEVO,2014,10.4,Riesgo bajo,10.4,Riesgo bajo,ND,ND
+23,CÓRDOBA,23570,PUEBLO NUEVO,2015,54.2,Riesgo alto,61.2,Riesgo alto,ND,ND
+23,CÓRDOBA,23570,PUEBLO NUEVO,2018,3.7,Sin riesgo,4.3,Sin riesgo,ND,ND
+23,CÓRDOBA,23570,PUEBLO NUEVO,2019,3.1,Sin riesgo,ND,ND,ND,ND
+23,CÓRDOBA,23570,PUEBLO NUEVO,2021,1.2,Sin riesgo,1.2,Sin riesgo,ND,ND
+23,CÓRDOBA,23570,PUEBLO NUEVO,2023,1.0,Sin riesgo,1.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23574,PUERTO ESCONDIDO,2007,86.8,Inviable sanitariamente,86.8,Inviable sanitariamente,ND,ND
+23,CÓRDOBA,23574,PUERTO ESCONDIDO,2008,8.7,Riesgo bajo,8.7,Riesgo bajo,ND,ND
+23,CÓRDOBA,23574,PUERTO ESCONDIDO,2009,30.2,Riesgo medio,27.1,Riesgo medio,34.8,Riesgo medio
+23,CÓRDOBA,23574,PUERTO ESCONDIDO,2010,13.4,Riesgo bajo,10.5,Riesgo bajo,16.3,Riesgo medio
+23,CÓRDOBA,23574,PUERTO ESCONDIDO,2011,53.3,Riesgo alto,ND,ND,53.3,Riesgo alto
+23,CÓRDOBA,23574,PUERTO ESCONDIDO,2012,50.0,Riesgo alto,50.0,Riesgo alto,ND,ND
+23,CÓRDOBA,23574,PUERTO ESCONDIDO,2013,22.3,Riesgo medio,22.3,Riesgo medio,ND,ND
+23,CÓRDOBA,23574,PUERTO ESCONDIDO,2014,19.3,Riesgo medio,19.3,Riesgo medio,ND,ND
+23,CÓRDOBA,23574,PUERTO ESCONDIDO,2015,38.2,Riesgo alto,38.7,Riesgo alto,37.2,Riesgo alto
+23,CÓRDOBA,23574,PUERTO ESCONDIDO,2018,36.8,Riesgo alto,36.8,Riesgo alto,ND,ND
+23,CÓRDOBA,23574,PUERTO ESCONDIDO,2019,66.8,Riesgo alto,66.8,Riesgo alto,ND,ND
+23,CÓRDOBA,23574,PUERTO ESCONDIDO,2021,16.5,Riesgo medio,5.6,Riesgo bajo,60.2,Riesgo alto
+23,CÓRDOBA,23574,PUERTO ESCONDIDO,2023,56.0,Riesgo alto,56.0,Riesgo alto,ND,ND
+23,CÓRDOBA,23580,PUERTO LIBERTADOR,2007,22.2,Riesgo medio,22.2,Riesgo medio,ND,ND
+23,CÓRDOBA,23580,PUERTO LIBERTADOR,2008,4.4,Sin riesgo,4.4,Sin riesgo,ND,ND
+23,CÓRDOBA,23580,PUERTO LIBERTADOR,2009,12.6,Riesgo bajo,12.6,Riesgo bajo,ND,ND
+23,CÓRDOBA,23580,PUERTO LIBERTADOR,2010,1.5,Sin riesgo,1.5,Sin riesgo,ND,ND
+23,CÓRDOBA,23580,PUERTO LIBERTADOR,2011,10.0,Riesgo bajo,10.0,Riesgo bajo,ND,ND
+23,CÓRDOBA,23580,PUERTO LIBERTADOR,2012,25.6,Riesgo medio,25.6,Riesgo medio,ND,ND
+23,CÓRDOBA,23580,PUERTO LIBERTADOR,2013,11.6,Riesgo bajo,11.6,Riesgo bajo,ND,ND
+23,CÓRDOBA,23580,PUERTO LIBERTADOR,2014,15.3,Riesgo medio,15.3,Riesgo medio,ND,ND
+23,CÓRDOBA,23580,PUERTO LIBERTADOR,2015,27.2,Riesgo medio,27.2,Riesgo medio,ND,ND
+23,CÓRDOBA,23580,PUERTO LIBERTADOR,2017,31.8,Riesgo medio,31.8,Riesgo medio,ND,ND
+23,CÓRDOBA,23580,PUERTO LIBERTADOR,2018,33.3,Riesgo medio,33.3,Riesgo medio,ND,ND
+23,CÓRDOBA,23580,PUERTO LIBERTADOR,2019,7.8,Riesgo bajo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23580,PUERTO LIBERTADOR,2021,9.0,Riesgo bajo,9.0,Riesgo bajo,ND,ND
+23,CÓRDOBA,23580,PUERTO LIBERTADOR,2023,24.8,Riesgo medio,24.8,Riesgo medio,ND,ND
+23,CÓRDOBA,23586,PURÍSIMA DE LA CONCEPCIÓN,2007,76.8,Riesgo alto,76.8,Riesgo alto,ND,ND
+23,CÓRDOBA,23586,PURÍSIMA DE LA CONCEPCIÓN,2008,55.2,Riesgo alto,55.2,Riesgo alto,ND,ND
+23,CÓRDOBA,23586,PURÍSIMA DE LA CONCEPCIÓN,2009,57.8,Riesgo alto,57.8,Riesgo alto,ND,ND
+23,CÓRDOBA,23586,PURÍSIMA DE LA CONCEPCIÓN,2010,75.8,Riesgo alto,75.8,Riesgo alto,ND,ND
+23,CÓRDOBA,23586,PURÍSIMA DE LA CONCEPCIÓN,2011,53.0,Riesgo alto,53.0,Riesgo alto,ND,ND
+23,CÓRDOBA,23586,PURÍSIMA DE LA CONCEPCIÓN,2012,14.9,Riesgo medio,14.9,Riesgo medio,ND,ND
+23,CÓRDOBA,23586,PURÍSIMA DE LA CONCEPCIÓN,2013,1.9,Sin riesgo,1.9,Sin riesgo,ND,ND
+23,CÓRDOBA,23586,PURÍSIMA DE LA CONCEPCIÓN,2014,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23586,PURÍSIMA DE LA CONCEPCIÓN,2015,3.0,Sin riesgo,3.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23586,PURÍSIMA DE LA CONCEPCIÓN,2017,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23586,PURÍSIMA DE LA CONCEPCIÓN,2018,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23586,PURÍSIMA DE LA CONCEPCIÓN,2019,0.0,Sin riesgo,ND,ND,ND,ND
+23,CÓRDOBA,23586,PURÍSIMA DE LA CONCEPCIÓN,2021,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23586,PURÍSIMA DE LA CONCEPCIÓN,2023,19.7,Riesgo medio,19.7,Riesgo medio,ND,ND
+23,CÓRDOBA,23660,SAHAGÚN,2007,29.4,Riesgo medio,29.4,Riesgo medio,ND,ND
+23,CÓRDOBA,23660,SAHAGÚN,2008,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23660,SAHAGÚN,2009,2.3,Sin riesgo,2.3,Sin riesgo,ND,ND
+23,CÓRDOBA,23660,SAHAGÚN,2010,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23660,SAHAGÚN,2011,4.0,Sin riesgo,4.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23660,SAHAGÚN,2012,0.7,Sin riesgo,0.7,Sin riesgo,ND,ND
+23,CÓRDOBA,23660,SAHAGÚN,2013,5.0,Sin riesgo,5.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23660,SAHAGÚN,2014,10.6,Riesgo bajo,10.6,Riesgo bajo,ND,ND
+23,CÓRDOBA,23660,SAHAGÚN,2015,6.4,Riesgo bajo,6.4,Riesgo bajo,ND,ND
+23,CÓRDOBA,23660,SAHAGÚN,2017,5.5,Riesgo bajo,5.5,Riesgo bajo,ND,ND
+23,CÓRDOBA,23660,SAHAGÚN,2018,1.7,Sin riesgo,2.1,Sin riesgo,ND,ND
+23,CÓRDOBA,23660,SAHAGÚN,2019,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23660,SAHAGÚN,2021,5.1,Riesgo bajo,5.1,Riesgo bajo,ND,ND
+23,CÓRDOBA,23660,SAHAGÚN,2023,8.2,Riesgo bajo,8.2,Riesgo bajo,ND,ND
+23,CÓRDOBA,23670,SAN ANDRÉS DE SOTAVENTO,2010,72.6,Riesgo alto,ND,ND,72.6,Riesgo alto
+23,CÓRDOBA,23670,SAN ANDRÉS DE SOTAVENTO,2011,75.9,Riesgo alto,75.9,Riesgo alto,ND,ND
+23,CÓRDOBA,23670,SAN ANDRÉS DE SOTAVENTO,2012,75.4,Riesgo alto,75.4,Riesgo alto,ND,ND
+23,CÓRDOBA,23670,SAN ANDRÉS DE SOTAVENTO,2013,12.6,Riesgo bajo,12.6,Riesgo bajo,ND,ND
+23,CÓRDOBA,23670,SAN ANDRÉS DE SOTAVENTO,2014,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23670,SAN ANDRÉS DE SOTAVENTO,2015,14.8,Riesgo medio,14.8,Riesgo medio,ND,ND
+23,CÓRDOBA,23670,SAN ANDRÉS DE SOTAVENTO,2017,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23670,SAN ANDRÉS DE SOTAVENTO,2018,2.6,Sin riesgo,3.1,Sin riesgo,ND,ND
+23,CÓRDOBA,23670,SAN ANDRÉS DE SOTAVENTO,2019,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23670,SAN ANDRÉS DE SOTAVENTO,2021,4.5,Sin riesgo,5.6,Riesgo bajo,0.0,Sin riesgo
+23,CÓRDOBA,23670,SAN ANDRÉS DE SOTAVENTO,2023,23.8,Riesgo medio,23.8,Riesgo medio,ND,ND
+23,CÓRDOBA,23672,SAN ANTERO,2007,38.5,Riesgo alto,42.2,Riesgo alto,17.4,Riesgo medio
+23,CÓRDOBA,23672,SAN ANTERO,2008,0.0,Sin riesgo,0.0,Sin riesgo,0.0,Sin riesgo
+23,CÓRDOBA,23672,SAN ANTERO,2009,14.9,Riesgo medio,18.1,Riesgo medio,11.8,Riesgo bajo
+23,CÓRDOBA,23672,SAN ANTERO,2010,45.3,Riesgo alto,45.3,Riesgo alto,45.3,Riesgo alto
+23,CÓRDOBA,23672,SAN ANTERO,2011,18.7,Riesgo medio,17.9,Riesgo medio,19.6,Riesgo medio
+23,CÓRDOBA,23672,SAN ANTERO,2012,13.9,Riesgo bajo,13.9,Riesgo bajo,ND,ND
+23,CÓRDOBA,23672,SAN ANTERO,2013,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23672,SAN ANTERO,2014,6.1,Riesgo bajo,6.1,Riesgo bajo,ND,ND
+23,CÓRDOBA,23672,SAN ANTERO,2015,6.1,Riesgo bajo,6.1,Riesgo bajo,ND,ND
+23,CÓRDOBA,23672,SAN ANTERO,2017,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23672,SAN ANTERO,2018,1.0,Sin riesgo,1.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23672,SAN ANTERO,2019,0.0,Sin riesgo,ND,ND,ND,ND
+23,CÓRDOBA,23672,SAN ANTERO,2021,2.7,Sin riesgo,2.3,Sin riesgo,4.5,Sin riesgo
+23,CÓRDOBA,23672,SAN ANTERO,2023,2.1,Sin riesgo,2.2,Sin riesgo,1.9,Sin riesgo
+23,CÓRDOBA,23675,SAN BERNARDO DEL VIENTO,2007,89.7,Inviable sanitariamente,89.7,Inviable sanitariamente,ND,ND
+23,CÓRDOBA,23675,SAN BERNARDO DEL VIENTO,2008,68.9,Riesgo alto,68.9,Riesgo alto,ND,ND
+23,CÓRDOBA,23675,SAN BERNARDO DEL VIENTO,2009,46.5,Riesgo alto,46.5,Riesgo alto,ND,ND
+23,CÓRDOBA,23675,SAN BERNARDO DEL VIENTO,2010,73.7,Riesgo alto,73.7,Riesgo alto,ND,ND
+23,CÓRDOBA,23675,SAN BERNARDO DEL VIENTO,2011,55.9,Riesgo alto,59.6,Riesgo alto,53.4,Riesgo alto
+23,CÓRDOBA,23675,SAN BERNARDO DEL VIENTO,2012,74.1,Riesgo alto,74.1,Riesgo alto,ND,ND
+23,CÓRDOBA,23675,SAN BERNARDO DEL VIENTO,2013,45.9,Riesgo alto,ND,ND,45.9,Riesgo alto
+23,CÓRDOBA,23675,SAN BERNARDO DEL VIENTO,2014,44.7,Riesgo alto,47.7,Riesgo alto,32.9,Riesgo medio
+23,CÓRDOBA,23675,SAN BERNARDO DEL VIENTO,2015,40.5,Riesgo alto,40.5,Riesgo alto,ND,ND
+23,CÓRDOBA,23675,SAN BERNARDO DEL VIENTO,2017,58.8,Riesgo alto,63.8,Riesgo alto,43.6,Riesgo alto
+23,CÓRDOBA,23675,SAN BERNARDO DEL VIENTO,2018,45.7,Riesgo alto,45.7,Riesgo alto,ND,ND
+23,CÓRDOBA,23675,SAN BERNARDO DEL VIENTO,2019,19.6,Riesgo medio,ND,ND,ND,ND
+23,CÓRDOBA,23675,SAN BERNARDO DEL VIENTO,2021,15.0,Riesgo medio,9.0,Riesgo bajo,21.1,Riesgo medio
+23,CÓRDOBA,23675,SAN BERNARDO DEL VIENTO,2023,26.5,Riesgo medio,26.5,Riesgo medio,ND,ND
+23,CÓRDOBA,23678,SAN CARLOS,2007,11.6,Riesgo bajo,11.6,Riesgo bajo,ND,ND
+23,CÓRDOBA,23678,SAN CARLOS,2008,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23678,SAN CARLOS,2009,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23678,SAN CARLOS,2010,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23678,SAN CARLOS,2011,3.6,Sin riesgo,3.6,Sin riesgo,ND,ND
+23,CÓRDOBA,23678,SAN CARLOS,2012,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23678,SAN CARLOS,2013,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23678,SAN CARLOS,2014,2.9,Sin riesgo,2.9,Sin riesgo,ND,ND
+23,CÓRDOBA,23678,SAN CARLOS,2015,3.0,Sin riesgo,3.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23678,SAN CARLOS,2017,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23678,SAN CARLOS,2018,2.3,Sin riesgo,2.3,Sin riesgo,ND,ND
+23,CÓRDOBA,23678,SAN CARLOS,2019,1.0,Sin riesgo,ND,ND,ND,ND
+23,CÓRDOBA,23678,SAN CARLOS,2021,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23678,SAN CARLOS,2023,0.7,Sin riesgo,0.7,Sin riesgo,ND,ND
+23,CÓRDOBA,23682,SAN JOSÉ DE URÉ,2010,50.4,Riesgo alto,50.4,Riesgo alto,ND,ND
+23,CÓRDOBA,23682,SAN JOSÉ DE URÉ,2011,52.6,Riesgo alto,52.6,Riesgo alto,ND,ND
+23,CÓRDOBA,23682,SAN JOSÉ DE URÉ,2012,75.6,Riesgo alto,75.6,Riesgo alto,ND,ND
+23,CÓRDOBA,23682,SAN JOSÉ DE URÉ,2013,81.4,Inviable sanitariamente,81.4,Inviable sanitariamente,ND,ND
+23,CÓRDOBA,23682,SAN JOSÉ DE URÉ,2014,56.4,Riesgo alto,56.4,Riesgo alto,ND,ND
+23,CÓRDOBA,23682,SAN JOSÉ DE URÉ,2015,18.5,Riesgo medio,18.4,Riesgo medio,18.6,Riesgo medio
+23,CÓRDOBA,23682,SAN JOSÉ DE URÉ,2018,18.3,Riesgo medio,18.3,Riesgo medio,ND,ND
+23,CÓRDOBA,23682,SAN JOSÉ DE URÉ,2019,9.1,Riesgo bajo,ND,ND,ND,ND
+23,CÓRDOBA,23682,SAN JOSÉ DE URÉ,2021,15.3,Riesgo medio,15.3,Riesgo medio,ND,ND
+23,CÓRDOBA,23682,SAN JOSÉ DE URÉ,2023,37.2,Riesgo alto,37.2,Riesgo alto,ND,ND
+23,CÓRDOBA,23686,SAN PELAYO,2007,79.3,Riesgo alto,79.3,Riesgo alto,ND,ND
+23,CÓRDOBA,23686,SAN PELAYO,2008,17.4,Riesgo medio,17.4,Riesgo medio,ND,ND
+23,CÓRDOBA,23686,SAN PELAYO,2009,22.1,Riesgo medio,22.1,Riesgo medio,ND,ND
+23,CÓRDOBA,23686,SAN PELAYO,2010,23.5,Riesgo medio,23.5,Riesgo medio,ND,ND
+23,CÓRDOBA,23686,SAN PELAYO,2011,42.9,Riesgo alto,42.9,Riesgo alto,ND,ND
+23,CÓRDOBA,23686,SAN PELAYO,2012,42.4,Riesgo alto,42.4,Riesgo alto,ND,ND
+23,CÓRDOBA,23686,SAN PELAYO,2013,29.2,Riesgo medio,29.2,Riesgo medio,ND,ND
+23,CÓRDOBA,23686,SAN PELAYO,2014,26.1,Riesgo medio,26.1,Riesgo medio,ND,ND
+23,CÓRDOBA,23686,SAN PELAYO,2015,49.6,Riesgo alto,52.3,Riesgo alto,43.5,Riesgo alto
+23,CÓRDOBA,23686,SAN PELAYO,2017,18.2,Riesgo medio,18.2,Riesgo medio,ND,ND
+23,CÓRDOBA,23686,SAN PELAYO,2018,59.4,Riesgo alto,57.2,Riesgo alto,92.1,Inviable sanitariamente
+23,CÓRDOBA,23686,SAN PELAYO,2019,24.9,Riesgo medio,ND,ND,36.1,Riesgo alto
+23,CÓRDOBA,23686,SAN PELAYO,2021,25.3,Riesgo medio,25.3,Riesgo medio,ND,ND
+23,CÓRDOBA,23686,SAN PELAYO,2023,34.4,Riesgo medio,34.4,Riesgo medio,ND,ND
+23,CÓRDOBA,23807,TIERRALTA,2007,14.6,Riesgo medio,14.6,Riesgo medio,ND,ND
+23,CÓRDOBA,23807,TIERRALTA,2008,7.5,Riesgo bajo,7.5,Riesgo bajo,ND,ND
+23,CÓRDOBA,23807,TIERRALTA,2009,11.4,Riesgo bajo,11.4,Riesgo bajo,ND,ND
+23,CÓRDOBA,23807,TIERRALTA,2010,4.9,Sin riesgo,4.9,Sin riesgo,ND,ND
+23,CÓRDOBA,23807,TIERRALTA,2011,8.2,Riesgo bajo,8.2,Riesgo bajo,ND,ND
+23,CÓRDOBA,23807,TIERRALTA,2012,8.3,Riesgo bajo,8.3,Riesgo bajo,ND,ND
+23,CÓRDOBA,23807,TIERRALTA,2013,10.5,Riesgo bajo,10.5,Riesgo bajo,ND,ND
+23,CÓRDOBA,23807,TIERRALTA,2014,21.2,Riesgo medio,21.2,Riesgo medio,ND,ND
+23,CÓRDOBA,23807,TIERRALTA,2015,10.6,Riesgo bajo,10.6,Riesgo bajo,ND,ND
+23,CÓRDOBA,23807,TIERRALTA,2017,12.1,Riesgo bajo,12.1,Riesgo bajo,ND,ND
+23,CÓRDOBA,23807,TIERRALTA,2018,14.5,Riesgo medio,14.5,Riesgo medio,ND,ND
+23,CÓRDOBA,23807,TIERRALTA,2019,11.9,Riesgo bajo,ND,ND,ND,ND
+23,CÓRDOBA,23807,TIERRALTA,2021,20.5,Riesgo medio,20.5,Riesgo medio,ND,ND
+23,CÓRDOBA,23807,TIERRALTA,2023,23.1,Riesgo medio,23.1,Riesgo medio,ND,ND
+23,CÓRDOBA,23815,TUCHÍN,2010,68.6,Riesgo alto,68.6,Riesgo alto,ND,ND
+23,CÓRDOBA,23815,TUCHÍN,2011,59.0,Riesgo alto,46.5,Riesgo alto,77.7,Riesgo alto
+23,CÓRDOBA,23815,TUCHÍN,2012,63.1,Riesgo alto,63.1,Riesgo alto,ND,ND
+23,CÓRDOBA,23815,TUCHÍN,2013,5.8,Riesgo bajo,5.8,Riesgo bajo,ND,ND
+23,CÓRDOBA,23815,TUCHÍN,2014,5.9,Riesgo bajo,5.9,Riesgo bajo,ND,ND
+23,CÓRDOBA,23815,TUCHÍN,2015,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23815,TUCHÍN,2018,0.0,Sin riesgo,0.0,Sin riesgo,ND,ND
+23,CÓRDOBA,23815,TUCHÍN,2019,4.6,Sin riesgo,ND,ND,ND,ND
+23,CÓRDOBA,23815,TUCHÍN,2021,4.5,Sin riesgo,4.5,Sin riesgo,ND,ND
+23,CÓRDOBA,23815,TUCHÍN,2023,37.6,Riesgo alto,37.6,Riesgo alto,ND,ND
+23,CÓRDOBA,23855,VALENCIA,2007,30.6,Riesgo medio,30.6,Riesgo medio,ND,ND
+23,CÓRDOBA,23855,VALENCIA,2008,8.7,Riesgo bajo,8.7,Riesgo bajo,ND,ND
+23,CÓRDOBA,23855,VALENCIA,2009,8.1,Riesgo bajo,8.1,Riesgo bajo,ND,ND
+23,CÓRDOBA,23855,VALENCIA,2010,25.8,Riesgo medio,25.8,Riesgo medio,ND,ND
+23,CÓRDOBA,23855,VALENCIA,2011,44.6,Riesgo alto,44.6,Riesgo alto,ND,ND
+23,CÓRDOBA,23855,VALENCIA,2012,19.4,Riesgo medio,19.4,Riesgo medio,ND,ND
+23,CÓRDOBA,23855,VALENCIA,2013,15.8,Riesgo medio,15.8,Riesgo medio,ND,ND
+23,CÓRDOBA,23855,VALENCIA,2014,8.7,Riesgo bajo,8.7,Riesgo bajo,ND,ND
+23,CÓRDOBA,23855,VALENCIA,2015,12.4,Riesgo bajo,12.4,Riesgo bajo,ND,ND
+23,CÓRDOBA,23855,VALENCIA,2017,22.7,Riesgo medio,22.7,Riesgo medio,ND,ND
+23,CÓRDOBA,23855,VALENCIA,2018,17.0,Riesgo medio,16.1,Riesgo medio,ND,ND
+23,CÓRDOBA,23855,VALENCIA,2019,18.1,Riesgo medio,ND,ND,ND,ND
+23,CÓRDOBA,23855,VALENCIA,2021,18.0,Riesgo medio,16.9,Riesgo medio,22.6,Riesgo medio
+23,CÓRDOBA,23855,VALENCIA,2023,48.8,Riesgo alto,50.6,Riesgo alto,28.6,Riesgo medio
